@@ -12,6 +12,8 @@
     --accent-soft: rgba(214, 138, 60, 0.16);
     --wire-industry: #5fa8a3;
     --wire-industry-soft: rgba(95, 168, 163, 0.16);
+    --beta: #a79bef;
+    --beta-soft: rgba(151, 140, 219, 0.16);
   }
 
   * { box-sizing: border-box; }
@@ -44,7 +46,7 @@
     background: rgba(18, 21, 26, 0.92);
     backdrop-filter: blur(8px);
     border-bottom: 1px solid var(--line);
-    padding: 22px max(16px, calc(50% - 490px));
+    padding: 20px max(16px, calc(50% - 490px)) 0;
   }
   .masthead-row {
     display: flex;
@@ -52,6 +54,7 @@
     justify-content: space-between;
     gap: 16px;
     flex-wrap: wrap;
+    padding-bottom: 16px;
   }
   .masthead-title {
     font-family: "Iowan Old Style", "Palatino Linotype", Georgia, serif;
@@ -64,6 +67,7 @@
   .masthead-title .glyph { color: var(--accent); margin-right: 8px; }
   .masthead-meta {
     display: flex;
+    align-items: center;
     gap: 18px;
     font-size: 0.72rem;
     letter-spacing: 0.08em;
@@ -89,11 +93,32 @@
   }
   .day-select:hover, .day-select:focus-visible { border-color: var(--accent); outline: none; }
 
+  .tabs {
+    display: flex;
+    gap: 22px;
+  }
+  .tab-btn {
+    background: none;
+    border: none;
+    color: var(--ink-faint);
+    font-size: 0.85rem;
+    letter-spacing: 0.02em;
+    padding: 0 0 12px;
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+    margin-bottom: -1px;
+  }
+  .tab-btn:hover { color: var(--ink); }
+  .tab-btn.active { color: var(--ink); border-bottom-color: var(--accent); font-weight: 600; }
+  .tab-btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
   main {
     max-width: 980px;
     margin: 0 auto;
     padding: 40px 16px 80px;
   }
+
+  .view[hidden] { display: none; }
 
   .empty-state {
     text-align: center;
@@ -206,6 +231,116 @@
     letter-spacing: 0.02em;
   }
 
+  .cal-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 24px;
+  }
+  .cal-nav-btn {
+    background: var(--surface-raised);
+    border: 1px solid var(--line);
+    color: var(--ink);
+    border-radius: 6px;
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+    font-size: 0.95rem;
+    line-height: 1;
+  }
+  .cal-nav-btn:hover, .cal-nav-btn:focus-visible { border-color: var(--accent); outline: none; }
+  .cal-title {
+    font-family: "Iowan Old Style", "Palatino Linotype", Georgia, serif;
+    font-size: 1.3rem;
+    font-weight: 600;
+    min-width: 9ch;
+    text-align: center;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .cal-grid {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 1px;
+    background: var(--line);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  .cal-weekday {
+    background: var(--surface);
+    color: var(--ink-faint);
+    font-size: 0.66rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    text-align: center;
+    padding: 8px 4px;
+  }
+  .cal-cell {
+    background: var(--bg);
+    min-height: 96px;
+    padding: 6px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+  .cal-cell.out { background: var(--surface); opacity: 0.5; }
+  .cal-daynum {
+    font-size: 0.74rem;
+    color: var(--ink-faint);
+    font-variant-numeric: tabular-nums;
+  }
+  .cal-cell.today .cal-daynum {
+    color: var(--bg);
+    background: var(--accent);
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+  }
+  .cal-event {
+    display: block;
+    font-size: 0.68rem;
+    line-height: 1.3;
+    padding: 3px 5px;
+    border-radius: 4px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .cal-event:hover, .cal-event:focus-visible { border-bottom: none; filter: brightness(1.2); }
+  .cal-event.type-update { background: var(--wire-industry-soft); color: var(--wire-industry); }
+  .cal-event.type-beta { background: var(--beta-soft); color: var(--beta); }
+
+  @media (max-width: 720px) {
+    .cal-cell { min-height: 64px; padding: 4px; }
+    .cal-event { font-size: 0.62rem; padding: 2px 4px; }
+    .cal-weekday { font-size: 0.6rem; padding: 6px 2px; }
+  }
+
+  .cal-legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 18px;
+    margin-top: 18px;
+    font-size: 0.72rem;
+    color: var(--ink-faint);
+  }
+  .cal-legend-dot {
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    margin-right: 6px;
+    vertical-align: middle;
+  }
+
   footer {
     max-width: 980px;
     margin: 0 auto;
@@ -218,6 +353,7 @@
 </style>
 
 <script id="dispatch-data" type="application/json">[{"lede":"예고된 Xbox 대규모 구조조정이 오늘 시작될 것으로 알려지며 아케인 스튜디오 폐쇄 가능성까지 거론됐고, 넷마블은 해킹 사고 이후 정보보호 투자 확대 로드맵을 내놨습니다. 파리에서는 역대 최대 상금의 e스포츠 월드컵이 개막했고 니케는 여름 업데이트로 매출 1위를 탈환했으며, 신작 쪽에서는 팰월드 1.0과 어쌔신 크리드 블랙 플래그 리싱크드 발매가 임박했고 스플래툰 레이더스 체험판이 매장에 등장했습니다.","industry":[{"blurb":"마이크로소프트의 대규모 Xbox 구조조정이 7월 6일부터 시작될 것으로 알려졌으며, 아케인 스튜디오 폐쇄와 '마블 블레이드' 개발 취소까지 검토되고 있습니다. 직원 1,000명 이상이 영향을 받을 수 있다는 전망입니다.","title":"Xbox layoff plans reportedly include closing Arkane, canceling Blade","url":"https://www.engadget.com/2205451/xbox-layoff-plans-reportedly-include-closing-arkane-canceling-blade/","source":"Engadget"},{"url":"https://www.tweaktown.com/news/112407/xbox-may-close-5-studios-in-july-layoffs-including-arkane-compulsion-ninja-theory-and-more/index.html","source":"TweakTown","title":"Xbox may close 5 studios in July layoffs, including Arkane, Compulsion, Ninja Theory and more","blurb":"아케인, 컴펄션 게임즈, 더블 파인, 닌자 테오리, 언데드 랩스 등 최대 5개 스튜디오가 폐쇄 또는 매각 대상으로 검토되고 있다는 보도가 나왔습니다. 마이크로소프트나 해당 스튜디오의 공식 확인은 아직 없습니다."},{"title":"엑스박스, 5개 스튜디오 폐쇄 검토...게임업계 \"인재 줄이면 비전 잃는다\"","blurb":"마이크로소프트 회계연도 종료(6월 30일) 이후 순차적으로 실행될 것으로 전망되던 엑스박스 구조조정이 임박하면서, 업계에서는 과도한 스튜디오 인수 이후의 인재 유출이 장기적으로 콘텐츠 경쟁력을 해칠 것이라는 우려가 나오고 있습니다.","url":"https://zdnet.co.kr/view/?no=20260701092413","source":"ZDNet Korea"},{"title":"해킹 사고 그 후···넷마블, '예측형 보안 로드맵' 짠다","blurb":"지난해 11월 대규모 해킹으로 611만 명의 개인정보가 유출된 넷마블이 2028년까지 283억 원을 투입해 정보보호 체계를 재정비하기로 했습니다. 보안 조직을 유출대응·정보보호정책·보안개발·보안기술 4개 팀으로 재편하고 2030년까지 AI 기반 예측형 위협 탐지 체계를 구축할 계획입니다.","source":"뉴스웨이","url":"https://www.newsway.co.kr/news/view?ud=2026070118013250127"},{"title":"작년 글로벌 게임 다운로드 520억 건, 모바일이 96%","blurb":"센서타워가 발표한 '2026년 게임 현황' 리포트에 따르면 2025년 전 세계 게임 다운로드는 520억 건으로 이 중 모바일이 96%를 차지했습니다. PC·콘솔 플랫폼에서는 스팀이 다운로드 1위를, 플레이스테이션과 엑스박스가 뒤를 이었습니다.","url":"https://www.gamemeca.com/view.php?gid=1772572","source":"게임메카"},{"url":"https://www.goodkyung.com/news/articleView.html?idxno=288389","source":"굿모닝경제","blurb":"e스포츠 월드컵(EWC) 2026이 7월 6일부터 8월 23일까지 프랑스 파리에서 처음으로 해외 개최되며, 100여 개국 2천여 명의 선수와 200여 개 클럽이 24개 종목에서 e스포츠 사상 최대인 7,500만 달러 상금을 두고 경쟁합니다.","title":"파리로 간 e스포츠 월드컵…글로벌 스타 총출동"},{"title":"'승리의 여신: 니케', 여름 업데이트로 한국 앱스토어 매출 1위 탈환","blurb":"시프트업의 '승리의 여신: 니케'가 7월 2일 시작한 여름 업데이트로 한국 앱스토어 매출 1위를 탈환했고 일본·대만에서도 2위를 기록했습니다. 수영복 콘셉트 신규 캐릭터와 풀보이스 스토리 이벤트 'WAVE TO YOU' 등이 반영됐습니다.","source":"인벤","url":"https://www.inven.co.kr/webzine/news/?news=318103"},{"blurb":"스마일게이트가 북미 최대 규모의 서브컬처 축제인 애니메 엑스포 2026에 부스를 열고 자사 게임을 알렸습니다.","title":"스마일게이트, 북미 최대 규모 서브컬처 페스티벌 애니메 엑스포 참가","url":"https://www.khgames.co.kr/news/articleView.html?idxno=306027","source":"경향게임스"},{"blurb":"7~8월 중 10여 종의 PS5·PS4 게임이 판매 중단되거나 온라인 기능이 비활성화될 예정이라는 목록이 공개됐습니다. 라이브 서비스 축소와 라이선스 만료가 주된 이유로 꼽힙니다.","title":"These 10+ PS5, PS4 Games Will Be Delisted or Disabled in July and August 2026","source":"Push Square","url":"https://www.pushsquare.com/news/2026/07/these-10plus-ps5-ps4-games-will-be-delisted-or-disabled-in-july-and-august-2026"}],"games":[{"source":"Tech Times","url":"https://www.techtimes.com/articles/319440/20260701/palworld-10-launches-july-10-wing-pack-world-tree-free-existing-players.htm","blurb":"포켓페어의 '팰월드'가 7월 10일 PC·PS5·엑스박스·게임패스에서 동시에 1.0 정식 버전으로 출시됩니다. 월드 트리, 신규 팰과 지역 등 27페이지 분량의 패치노트가 예고됐으며, 기존 구매자는 추가 결제 없이 업데이트를 받습니다.","title":"Palworld 1.0 Launches July 10: Wing Pack, World Tree, Free for Existing Players"},{"title":"신규 모드 공개한 '슈퍼 단간론파 2x2', 2027년 초로 출시 연기","blurb":"스파이크 춘소프트가 애니메 엑스포 2026에서 '슈퍼 단간론파 2x2'의 출시를 2026년에서 2027년 초로 연기한다고 발표했습니다. PC·PS5·XSX|S·스위치1·2로 출시되며, 오리지널과 신규 모드 '슬레이헴'을 선택해 즐길 수 있습니다.","url":"https://www.inven.co.kr/webzine/news/?news=318122","source":"인벤"},{"blurb":"넷마블이 MMORPG '아스달 연대기'의 신규 서버 '뉴 월드' 사전등록을 시작했습니다. 유료 소환 뽑기 없이 파밍 위주로 운영되는 서버로, 7월 14일 오픈을 앞두고 오늘 특별 생방송이 진행됩니다.","title":"넷마블 '아스달 연대기', 신규 서버 사전등록 시작","source":"경향게임스","url":"https://www.khgames.co.kr/news/articleView.html?idxno=306041"},{"blurb":"뉴로나 게임즈가 개발하고 인디아이오가 퍼블리싱한 '이스포츠 매니저 2026'이 7월 6일 스팀을 통해 정식 출시됩니다. 카운터 스트라이크 2(CS2)를 기반으로 프로 e스포츠 구단을 운영하는 경영 시뮬레이션 게임입니다.","title":"CS2 구단주 되기, e스포츠 매니저 2026 7월 6일 출시","source":"경향게임스","url":"https://www.khgames.co.kr/news/articleView.html?idxno=305106"},{"blurb":"유비소프트의 '어쌔신 크리드 블랙 플래그: 리싱크드'가 7월 9일 PS5·PC·엑스박스로 출시됩니다. 최신 앤빌 엔진으로 완전히 재구축됐으며, 신규 스토리 콘텐츠와 포토 모드 등이 추가된 싱글플레이 전용작입니다.","title":"Assassin's Creed Black Flag Resynced Out July 9: Everything You Need to Know","url":"https://www.ubisoft.com/en-us/game/assassins-creed/news/3pdOduSqqhRaxjaGYP4QP7/assassins-creed-black-flag-resynced-out-july-9-everything-you-need-to-know","source":"Ubisoft"},{"url":"https://www.nintendolife.com/news/2026/07/splatoon-raiders-demo-now-available-at-switch-2-kiosks-north-america","source":"Nintendo Life","title":"Splatoon Raiders Demo Now Available At Switch 2 Kiosks (North America)","blurb":"닌텐도 스위치2 독점 신작 '스플래툰 레이더스'의 체험판이 북미 베스트바이·월마트·타겟·게임스탑 매장 키오스크에 등장했습니다. 3개 스테이지와 다양한 무기를 미리 체험할 수 있으며, 정식 출시는 7월 23일입니다."},{"source":"루리웹","url":"https://bbs.ruliweb.com/family/1476/board/300007/read/2349491","blurb":"나인 도츠 스튜디오의 오픈월드 생존 액션 RPG '아웃워드 2'가 7월 7일로 예정됐던 얼리 액세스 출시를 연기한다고 발표했습니다. 정확한 신규 출시일은 아직 공지되지 않았습니다.","title":"아웃워드 2 출시 연기"},{"url":"https://bbs.ruliweb.com/news/read/226445","source":"루리웹","title":"7월에 출시되는 PC·모바일 게임 목록","blurb":"7월 국내 출시 예정인 PC·모바일 신작 게임 목록이 정리됐으며, 다양한 장르의 신작과 리메이크 타이틀이 포함돼 있습니다."}],"date":"2026-07-06"},{"lede":"Xbox의 대규모 스튜디오 정리와 유비소프트 바르셀로나 파업 등 업계 감원 이슈가 두드러진 하루였고, 소니의 물리 디스크 발매 중단 논란도 계속됐습니다. 신작 쪽에서는 헤일로 리메이크와 귀무자 신작 발매일 조정, 서머 게임 페스트발 트레일러 공개가 이어졌습니다.","industry":[{"blurb":"소니가 물리 디스크 게임 발매를 중단한다고 발표했습니다. 업계 개발자들 다수가 이 결정에 반대 의견을 내고 있습니다.","title":"Sony's PlayStation to Stop Releasing Games on Physical Discs","url":"https://variety.com/2026/gaming/news/playstation-ending-games-physical-discs-2028-1236799978/","source":"Variety"},{"source":"경향게임스","url":"https://www.khgames.co.kr/news/articleView.html?idxno=305428","blurb":"마이크로소프트가 아케인 스튜디오를 포함해 최소 5개 스튜디오 폐쇄를 검토 중이며, 예산을 초과한 '마블 블레이드'는 2027년 말로 연기되면서 취소 가능성까지 거론되고 있습니다. 대규모 구조조정은 7월 6일부터 시작될 것으로 알려졌습니다.","title":"신작 발표한 스튜디오도 정리 대상...XBOX, 대규모 구조조정 움직임"},{"title":"Gaming Industry Layoffs Spread Beyond Xbox: July Purge Threatens Sony and EA Studios","blurb":"엑스박스발 구조조정이 소니, EA, 바이오웨어 등으로 확산될 수 있다는 경고가 나왔습니다. Compulsion Games, Double Fine, Ninja Theory, Undead Labs 등도 폐쇄·매각 대상으로 거론됩니다.","source":"Tech Times","url":"https://www.techtimes.com/articles/318519/20260616/gaming-industry-layoffs-spread-beyond-xbox-july-purge-threatens-sony-ea-studios.htm"},{"url":"https://www.teamblind.com/layoffs/2026/industry/gaming","source":"Layoff Tracker","blurb":"유비소프트 바르셀로나 스튜디오에서 인원의 28%에 해당하는 51명 감원에 반발해 6월 30일부터 파업이 이어지고 있으며, 노동자들은 5년간 집단 해고 금지를 요구하고 있습니다.","title":"Ubisoft Barcelona strike over 51 layoffs (28% of studio)"},{"title":"Krafton Agrees to Pay 'Subnautica 2' Bonuses as Developer's CEO Resigns","blurb":"크래프톤이 서브노티카2 개발사 보너스 지급에 합의했으며, 2.5억 달러 보상 분쟁 끝에 해임됐다 복직한 CEO가 다시 퇴사하는 등 내홍이 이어지고 있습니다.","source":"Bloomberg","url":"https://www.bloomberg.com/news/articles/2026-07-01/krafton-agrees-to-pay-subnautica-2-bonuses-as-developer-s-ceo-resigns"},{"title":"Video Game Industry Layoffs 2026: 1 in 3 US Devs Cut","blurb":"2026 게임 산업 현황 보고서에 따르면 미국 게임 업계 종사자의 33%가 최근 2년 내 해고를 경험한 것으로 나타났습니다. 2022년부터 누적 약 4만 5천 개의 일자리가 사라졌습니다.","url":"https://tech-insider.org/video-game-industry-layoffs-2026/","source":"Tech Insider"},{"source":"게임메카","url":"https://www.gamemeca.com/news.php","blurb":"원스토어가 다운로드 중심을 넘어 개발사와 이용자에게 새로운 선택지를 제공하는 것을 목표로 하는 비전을 공개했습니다.","title":"원스토어, 창립 10주년 맞아 '올인원 스토어' 비전 발표"},{"source":"게임메카","url":"https://www.gamemeca.com/news.php","title":"에버소울, 오는 6월 서비스 종료 발표","blurb":"2023년 1월 출시된 카카오게임즈의 에버소울이 공식 카페를 통해 서비스 종료 일정을 발표했습니다."},{"title":"그라나도 에스파다M, 누적 매출 400억 원 돌파","blurb":"한빛소프트는 그라나도 에스파다M이 국내외 시장에서 누적 매출 400억 원을 넘어섰다고 밝혔습니다.","url":"https://www.gamemeca.com/news.php","source":"게임메카"},{"source":"게임메카","url":"https://www.gamemeca.com/news.php","title":"넥슨게임즈 박용현 대표, \"다작 전략은 지속가능한 구조적 대응\"","blurb":"넥슨게임즈의 다작 행보에 대해 박용현 대표가 지속 가능성을 위한 구조적 대응이라고 밝혔습니다."}],"games":[{"title":"Onimusha: Way of the Sword release date moved up to September 4","blurb":"캡콤이 20여 년 만의 신작 '귀무자: 웨이 오브 더 소드' 발매일을 원래 예정보다 3주 앞당긴 9월 4일로 변경했습니다. 9월 24일 출시되는 '사일런트 힐: 타운폴', '컨트롤: 레저넌트'와의 정면 충돌을 피하려는 의도로 풀이됩니다.","url":"https://www.gematsu.com/2026/07/onimusha-way-of-the-sword-release-date-moved-up-to-september-4","source":"Gematsu"},{"url":"https://screenrant.com/july-2026-video-games-releases-schedule-lineup/","source":"ScreenRant","title":"Halo: Campaign Evolved","blurb":"헤일로 시리즈 최초로 PS5에 출시되는 리메이크작. 오리지널 이전 시점을 다루는 신규 프리퀄 미션 3개가 추가됩니다."},{"url":"https://screenrant.com/july-2026-video-games-releases-schedule-lineup/","source":"ScreenRant","blurb":"에드워드 케이웨이가 돌아오는 어쌔신 크리드 블랙 플래그 리메이크로, 7월 주요 출시작 중 하나로 꼽힙니다.","title":"Assassin's Creed Black Flag: Resynced"},{"title":"Xenoblade Chronicles 2 — Nintendo Switch 2 Edition","blurb":"닌텐도 스위치2 전용으로 개선된 제노블레이드 크로니클스 2 에디션이 7월 출시 라인업에 포함됐습니다.","url":"https://screenrant.com/july-2026-video-games-releases-schedule-lineup/","source":"ScreenRant"},{"source":"Push Square","url":"https://www.pushsquare.com/news/2026/07/ps-plus-essential-games-for-july-2026-announced","blurb":"7월 7일부터 콜 오브 듀티: 모던 워페어3, For the King 2, CrossCode 등 PS 플러스 에센셜 7월 무료 게임 3종이 공개됐습니다.","title":"PS Plus Essential Games for July 2026 Announced"},{"blurb":"넥슨게임즈의 '퍼스트 디센던트'가 서비스 2주년을 맞아 특별 생방송을 열고 다음 달 20일을 포함한 하반기 업데이트 로드맵을 공개했습니다.","title":"'2주년' 퍼스트 디센던트, 내달 20일 등 하반기 업데이트 발표","url":"https://www.khgames.co.kr/news/articleView.html?idxno=305986","source":"경향게임스"},{"title":"넷이즈 신작 '렘넌트의 바다', 2026 서머 게임 페스트서 신규 트레일러 공개","blurb":"넷이즈게임즈 산하 24 엔터테인먼트 스튜디오가 서머 게임 페스트를 통해 신작 '렘넌트의 바다'의 신규 트레일러를 뮤직비디오 형식으로 공개했습니다.","url":"https://www.inven.co.kr/webzine/news/?news=317252","source":"인벤"},{"url":"https://www.gamevu.co.kr/news/articleView.html?idxno=58541","source":"게임뷰","title":"블러드 메시지, '여명이 틀 때까지' 신규 트레일러 공개","blurb":"넷이즈게임즈의 신작 '블러드 메시지'가 서머 게임 페스트 기간 새로운 트레일러를 선보였습니다."},{"title":"사이버펑크: 엣지러너2 트레일러 공개","blurb":"잔혹하고 화려한 비주얼을 담은 '사이버펑크: 엣지러너2'의 신규 트레일러가 공개됐습니다.","source":"인벤","url":"https://www.inven.co.kr/webzine/news/?news=317954"},{"url":"https://bbs.ruliweb.com/news/read/226417","source":"루리웹","blurb":"7월 국내 정식 발매되는 한국어 지원 콘솔 게임 목록이 정리됐으며, 다양한 인디·중견 타이틀이 포함됐습니다.","title":"7월 출시되는 한국어 콘솔 게임 목록 공개"}],"date":"2026-07-03"}]</script>
+<script id="release-data" type="application/json">[{"date":"2026-07-06","title":"e스포츠 매니저 2026","type":"정식출시","url":"https://www.khgames.co.kr/news/articleView.html?idxno=305106","source":"경향게임스"},{"date":"2026-07-09","title":"Assassin's Creed Black Flag: Resynced","type":"정식출시","url":"https://www.ubisoft.com/en-us/game/assassins-creed/news/3pdOduSqqhRaxjaGYP4QP7/assassins-creed-black-flag-resynced-out-july-9-everything-you-need-to-know","source":"Ubisoft"},{"date":"2026-07-10","title":"Palworld 1.0","type":"정식출시","url":"https://www.techtimes.com/articles/319440/20260701/palworld-10-launches-july-10-wing-pack-world-tree-free-existing-players.htm","source":"Tech Times"},{"date":"2026-07-14","title":"아스달 연대기 신규 서버 '뉴 월드'","type":"오픈","url":"https://www.khgames.co.kr/news/articleView.html?idxno=306041","source":"경향게임스"},{"date":"2026-07-23","title":"Splatoon Raiders","type":"정식출시","url":"https://www.nintendolife.com/news/2026/07/splatoon-raiders-demo-now-available-at-switch-2-kiosks-north-america","source":"Nintendo Life"},{"date":"2026-08-20","title":"퍼스트 디센던트 하반기 업데이트","type":"업데이트","url":"https://www.khgames.co.kr/news/articleView.html?idxno=305986","source":"경향게임스"},{"date":"2026-09-04","title":"Onimusha: Way of the Sword","type":"정식출시","url":"https://www.gematsu.com/2026/07/onimusha-way-of-the-sword-release-date-moved-up-to-september-4","source":"Gematsu"}]</script>
 
 <header class="masthead">
   <div class="masthead-row">
@@ -227,26 +363,49 @@
       <select id="day-select" class="day-select mono" aria-label="날짜 선택"></select>
     </div>
   </div>
+  <nav class="tabs" role="tablist">
+    <button class="tab-btn active" type="button" data-tab="news" role="tab" aria-selected="true">뉴스</button>
+    <button class="tab-btn" type="button" data-tab="calendar" role="tab" aria-selected="false">신작 달력</button>
+  </nav>
 </header>
 
 <main>
-  <div class="timeline" id="timeline"></div>
-  <div class="empty-state" id="empty-state" hidden>아직 수집된 브리핑이 없습니다.</div>
+  <section id="view-news" class="view">
+    <div class="timeline" id="timeline"></div>
+    <div class="empty-state" id="empty-state" hidden>아직 수집된 브리핑이 없습니다.</div>
+  </section>
+
+  <section id="view-calendar" class="view" hidden>
+    <div class="cal-header">
+      <button class="cal-nav-btn" type="button" id="cal-prev" aria-label="이전 달">‹</button>
+      <h2 class="cal-title mono" id="cal-title">–</h2>
+      <button class="cal-nav-btn" type="button" id="cal-next" aria-label="다음 달">›</button>
+    </div>
+    <div class="cal-grid" id="cal-grid"></div>
+    <div class="cal-legend">
+      <span><span class="cal-legend-dot" style="background:var(--accent)"></span>정식 출시</span>
+      <span><span class="cal-legend-dot" style="background:var(--wire-industry)"></span>업데이트 · 오픈</span>
+      <span><span class="cal-legend-dot" style="background:var(--beta)"></span>CBT · OBT · 베타</span>
+    </div>
+  </section>
 </main>
 
 <footer>매일 오전 자동 수집 · 게임 업계 동향과 신작 소식</footer>
 
 <script>
   (function () {
-    var raw = document.getElementById('dispatch-data').textContent;
     var entries = [];
-    try { entries = JSON.parse(raw) || []; } catch (e) { entries = []; }
+    try { entries = JSON.parse(document.getElementById('dispatch-data').textContent) || []; } catch (e) { entries = []; }
     entries.sort(function (a, b) { return a.date < b.date ? 1 : -1; });
 
-    var timeline = document.getElementById('timeline');
-    var emptyState = document.getElementById('empty-state');
-    var statCount = document.getElementById('stat-count');
-    var daySelect = document.getElementById('day-select');
+    var releases = [];
+    try { releases = JSON.parse(document.getElementById('release-data').textContent) || []; } catch (e) { releases = []; }
+
+    function esc(s) {
+      var d = document.createElement('div');
+      d.textContent = s == null ? '' : s;
+      return d.innerHTML;
+    }
 
     function fmtDate(iso) {
       var parts = iso.split('-');
@@ -254,11 +413,24 @@
       return parts[0] + '.' + parts[1] + '.' + parts[2];
     }
 
-    function esc(s) {
-      var d = document.createElement('div');
-      d.textContent = s == null ? '' : s;
-      return d.innerHTML;
-    }
+    /* ---- tabs ---- */
+    var tabBtns = document.querySelectorAll('.tab-btn');
+    var views = { news: document.getElementById('view-news'), calendar: document.getElementById('view-calendar') };
+    tabBtns.forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        tabBtns.forEach(function (b) {
+          b.classList.toggle('active', b === btn);
+          b.setAttribute('aria-selected', b === btn ? 'true' : 'false');
+        });
+        Object.keys(views).forEach(function (key) { views[key].hidden = key !== btn.dataset.tab; });
+      });
+    });
+
+    /* ---- news view ---- */
+    var timeline = document.getElementById('timeline');
+    var emptyState = document.getElementById('empty-state');
+    var statCount = document.getElementById('stat-count');
+    var daySelect = document.getElementById('day-select');
 
     function renderStory(story) {
       var title = story.url
@@ -322,5 +494,88 @@
 
       renderSelection();
     }
+
+    /* ---- calendar view ---- */
+    var calGrid = document.getElementById('cal-grid');
+    var calTitle = document.getElementById('cal-title');
+    var calPrev = document.getElementById('cal-prev');
+    var calNext = document.getElementById('cal-next');
+
+    var releasesByDate = {};
+    releases.forEach(function (r) {
+      if (!r || !r.date) return;
+      (releasesByDate[r.date] = releasesByDate[r.date] || []).push(r);
+    });
+
+    function typeClass(type) {
+      if (['CBT', 'OBT', '베타', '얼리엑세스'].indexOf(type) !== -1) return 'type-beta';
+      if (['업데이트', '오픈'].indexOf(type) !== -1) return 'type-update';
+      return '';
+    }
+
+    var today = new Date();
+    var seedDate = releases.length ? releases.slice().sort(function (a, b) { return a.date < b.date ? -1 : 1; })[0].date
+      : (entries.length ? entries[0].date : null);
+    var viewYear = today.getFullYear();
+    var viewMonth = today.getMonth();
+    if (seedDate) {
+      var sp = seedDate.split('-');
+      viewYear = parseInt(sp[0], 10);
+      viewMonth = parseInt(sp[1], 10) - 1;
+    }
+
+    var WEEKDAYS = ['일', '월', '화', '수', '목', '금', '토'];
+
+    function pad2(n) { return n < 10 ? '0' + n : String(n); }
+
+    function renderCalendar() {
+      calTitle.textContent = viewYear + '.' + pad2(viewMonth + 1);
+
+      var firstOfMonth = new Date(viewYear, viewMonth, 1);
+      var startOffset = firstOfMonth.getDay();
+      var gridStart = new Date(viewYear, viewMonth, 1 - startOffset);
+
+      var todayKey = today.getFullYear() + '-' + pad2(today.getMonth() + 1) + '-' + pad2(today.getDate());
+
+      var cells = WEEKDAYS.map(function (w) { return '<div class="cal-weekday">' + w + '</div>'; }).join('');
+
+      for (var i = 0; i < 42; i++) {
+        var d = new Date(gridStart.getFullYear(), gridStart.getMonth(), gridStart.getDate() + i);
+        var key = d.getFullYear() + '-' + pad2(d.getMonth() + 1) + '-' + pad2(d.getDate());
+        var isOut = d.getMonth() !== viewMonth;
+        var isToday = key === todayKey;
+        var dayReleases = releasesByDate[key] || [];
+
+        var events = dayReleases.map(function (r) {
+          var cls = typeClass(r.type);
+          var label = esc(r.title);
+          return r.url
+            ? '<a class="cal-event ' + cls + '" href="' + esc(r.url) + '" target="_blank" rel="noopener" title="' + esc(r.title + (r.type ? ' · ' + r.type : '')) + '">' + label + '</a>'
+            : '<span class="cal-event ' + cls + '" title="' + esc(r.title) + '">' + label + '</span>';
+        }).join('');
+
+        cells.push(
+          '<div class="cal-cell' + (isOut ? ' out' : '') + (isToday ? ' today' : '') + '">' +
+            '<span class="cal-daynum mono">' + d.getDate() + '</span>' +
+            events +
+          '</div>'
+        );
+      }
+
+      calGrid.innerHTML = cells.join('');
+    }
+
+    calPrev.addEventListener('click', function () {
+      viewMonth -= 1;
+      if (viewMonth < 0) { viewMonth = 11; viewYear -= 1; }
+      renderCalendar();
+    });
+    calNext.addEventListener('click', function () {
+      viewMonth += 1;
+      if (viewMonth > 11) { viewMonth = 0; viewYear += 1; }
+      renderCalendar();
+    });
+
+    renderCalendar();
   })();
 </script>

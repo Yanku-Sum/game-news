@@ -1,5 +1,56 @@
 {
   "pagesUrl": "https://yanku-sum.github.io/game-news/",
+  "releases": [
+    {
+      "date": "2026-07-06",
+      "title": "e스포츠 매니저 2026",
+      "type": "정식출시",
+      "url": "https://www.khgames.co.kr/news/articleView.html?idxno=305106",
+      "source": "경향게임스"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "Assassin's Creed Black Flag: Resynced",
+      "type": "정식출시",
+      "url": "https://www.ubisoft.com/en-us/game/assassins-creed/news/3pdOduSqqhRaxjaGYP4QP7/assassins-creed-black-flag-resynced-out-july-9-everything-you-need-to-know",
+      "source": "Ubisoft"
+    },
+    {
+      "date": "2026-07-10",
+      "title": "Palworld 1.0",
+      "type": "정식출시",
+      "url": "https://www.techtimes.com/articles/319440/20260701/palworld-10-launches-july-10-wing-pack-world-tree-free-existing-players.htm",
+      "source": "Tech Times"
+    },
+    {
+      "date": "2026-07-14",
+      "title": "아스달 연대기 신규 서버 '뉴 월드'",
+      "type": "오픈",
+      "url": "https://www.khgames.co.kr/news/articleView.html?idxno=306041",
+      "source": "경향게임스"
+    },
+    {
+      "date": "2026-07-23",
+      "title": "Splatoon Raiders",
+      "type": "정식출시",
+      "url": "https://www.nintendolife.com/news/2026/07/splatoon-raiders-demo-now-available-at-switch-2-kiosks-north-america",
+      "source": "Nintendo Life"
+    },
+    {
+      "date": "2026-08-20",
+      "title": "퍼스트 디센던트 하반기 업데이트",
+      "type": "업데이트",
+      "url": "https://www.khgames.co.kr/news/articleView.html?idxno=305986",
+      "source": "경향게임스"
+    },
+    {
+      "date": "2026-09-04",
+      "title": "Onimusha: Way of the Sword",
+      "type": "정식출시",
+      "url": "https://www.gematsu.com/2026/07/onimusha-way-of-the-sword-release-date-moved-up-to-september-4",
+      "source": "Gematsu"
+    }
+  ],
   "entries": [
     {
       "date": "2026-07-06",
