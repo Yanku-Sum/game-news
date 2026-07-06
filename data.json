@@ -2,6 +2,92 @@
   "pagesUrl": "https://yanku-sum.github.io/game-news/",
   "entries": [
     {
+      "date": "2026-07-06",
+      "lede": "예고된 Xbox 대규모 구조조정이 오늘 시작될 것으로 알려지며 아케인 스튜디오 폐쇄 가능성까지 거론됐고, 넷마블은 해킹 사고 이후 정보보호 투자 확대 로드맵을 내놨습니다. 파리에서는 역대 최대 상금의 e스포츠 월드컵이 개막했으며, 신작 쪽에서는 팰월드 1.0 정식 출시와 어쌔신 크리드 블랙 플래그 리싱크드 발매가 임박했고 슈퍼 단간론파 2x2는 2027년으로 연기됐습니다.",
+      "industry": [
+        {
+          "title": "Xbox layoff plans reportedly include closing Arkane, canceling Blade",
+          "url": "https://www.engadget.com/2205451/xbox-layoff-plans-reportedly-include-closing-arkane-canceling-blade/",
+          "blurb": "마이크로소프트의 대규모 Xbox 구조조정이 7월 6일부터 시작될 것으로 알려졌으며, 아케인 스튜디오 폐쇄와 '마블 블레이드' 개발 취소까지 검토되고 있습니다. 직원 1,000명 이상이 영향을 받을 수 있다는 전망입니다.",
+          "source": "Engadget"
+        },
+        {
+          "title": "Xbox may close 5 studios in July layoffs, including Arkane, Compulsion, Ninja Theory and more",
+          "url": "https://www.tweaktown.com/news/112407/xbox-may-close-5-studios-in-july-layoffs-including-arkane-compulsion-ninja-theory-and-more/index.html",
+          "blurb": "아케인, 컴펄션 게임즈, 더블 파인, 닌자 테오리, 언데드 랩스 등 최대 5개 스튜디오가 폐쇄 또는 매각 대상으로 검토되고 있다는 보도가 나왔습니다. 마이크로소프트나 해당 스튜디오의 공식 확인은 아직 없습니다.",
+          "source": "TweakTown"
+        },
+        {
+          "title": "해킹 사고 그 후···넷마블, '예측형 보안 로드맵' 짠다",
+          "url": "https://www.newsway.co.kr/news/view?ud=2026070118013250127",
+          "blurb": "지난해 11월 대규모 해킹으로 611만 명의 개인정보가 유출된 넷마블이 2028년까지 283억 원을 투입해 정보보호 체계를 재정비하기로 했습니다. 보안 조직을 유출대응·정보보호정책·보안개발·보안기술 4개 팀으로 재편하고 2030년까지 AI 기반 예측형 위협 탐지 체계를 구축할 계획입니다.",
+          "source": "뉴스웨이"
+        },
+        {
+          "title": "작년 글로벌 게임 다운로드 520억 건, 모바일이 96%",
+          "url": "https://www.gamemeca.com/view.php?gid=1772572",
+          "blurb": "센서타워가 발표한 '2026년 게임 현황' 리포트에 따르면 2025년 전 세계 게임 다운로드는 520억 건으로 이 중 모바일이 96%를 차지했습니다. PC·콘솔 플랫폼에서는 스팀이 다운로드 1위를, 플레이스테이션과 엑스박스가 뒤를 이었습니다.",
+          "source": "게임메카"
+        },
+        {
+          "title": "파리로 간 e스포츠 월드컵…글로벌 스타 총출동",
+          "url": "https://www.goodkyung.com/news/articleView.html?idxno=288389",
+          "blurb": "e스포츠 월드컵(EWC) 2026이 7월 6일부터 8월 23일까지 프랑스 파리에서 처음으로 해외 개최되며, 100여 개국 2천여 명의 선수와 200여 개 클럽이 24개 종목에서 e스포츠 사상 최대인 7,500만 달러 상금을 두고 경쟁합니다.",
+          "source": "굿모닝경제"
+        },
+        {
+          "title": "스마일게이트, 북미 최대 규모 서브컬처 페스티벌 애니메 엑스포 참가",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=306027",
+          "blurb": "스마일게이트가 북미 최대 규모의 서브컬처 축제인 애니메 엑스포 2026에 부스를 열고 자사 게임을 알렸습니다.",
+          "source": "경향게임스"
+        },
+        {
+          "title": "These 10+ PS5, PS4 Games Will Be Delisted or Disabled in July and August 2026",
+          "url": "https://www.pushsquare.com/news/2026/07/these-10plus-ps5-ps4-games-will-be-delisted-or-disabled-in-july-and-august-2026",
+          "blurb": "7~8월 중 10여 종의 PS5·PS4 게임이 판매 중단되거나 온라인 기능이 비활성화될 예정이라는 목록이 공개됐습니다. 라이브 서비스 축소와 라이선스 만료가 주된 이유로 꼽힙니다.",
+          "source": "Push Square"
+        }
+      ],
+      "games": [
+        {
+          "title": "Palworld 1.0 Launches July 10: Wing Pack, World Tree, Free for Existing Players",
+          "url": "https://www.techtimes.com/articles/319440/20260701/palworld-10-launches-july-10-wing-pack-world-tree-free-existing-players.htm",
+          "blurb": "포켓페어의 '팰월드'가 7월 10일 PC·PS5·엑스박스·게임패스에서 동시에 1.0 정식 버전으로 출시됩니다. 월드 트리, 신규 팰과 지역 등 27페이지 분량의 패치노트가 예고됐으며, 기존 구매자는 추가 결제 없이 업데이트를 받습니다.",
+          "source": "Tech Times"
+        },
+        {
+          "title": "신규 모드 공개한 '슈퍼 단간론파 2x2', 2027년 초로 출시 연기",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318122",
+          "blurb": "스파이크 춘소프트가 애니메 엑스포 2026에서 '슈퍼 단간론파 2x2'의 출시를 2026년에서 2027년 초로 연기한다고 발표했습니다. PC·PS5·XSX|S·스위치1·2로 출시되며, 오리지널과 신규 모드 '슬레이헴'을 선택해 즐길 수 있습니다.",
+          "source": "인벤"
+        },
+        {
+          "title": "넷마블 '아스달 연대기', 신규 서버 사전등록 시작",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=306041",
+          "blurb": "넷마블이 MMORPG '아스달 연대기'의 신규 서버 '뉴 월드' 사전등록을 시작했습니다. 유료 소환 뽑기 없이 파밍 위주로 운영되는 서버로, 7월 14일 오픈을 앞두고 오늘 특별 생방송이 진행됩니다.",
+          "source": "경향게임스"
+        },
+        {
+          "title": "CS2 구단주 되기, e스포츠 매니저 2026 7월 6일 출시",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=305106",
+          "blurb": "뉴로나 게임즈가 개발하고 인디아이오가 퍼블리싱한 '이스포츠 매니저 2026'이 7월 6일 스팀을 통해 정식 출시됩니다. 카운터 스트라이크 2(CS2)를 기반으로 프로 e스포츠 구단을 운영하는 경영 시뮬레이션 게임입니다.",
+          "source": "경향게임스"
+        },
+        {
+          "title": "Assassin's Creed Black Flag Resynced Out July 9: Everything You Need to Know",
+          "url": "https://www.ubisoft.com/en-us/game/assassins-creed/news/3pdOduSqqhRaxjaGYP4QP7/assassins-creed-black-flag-resynced-out-july-9-everything-you-need-to-know",
+          "blurb": "유비소프트의 '어쌔신 크리드 블랙 플래그: 리싱크드'가 7월 9일 PS5·PC·엑스박스로 출시됩니다. 최신 앤빌 엔진으로 완전히 재구축됐으며, 신규 스토리 콘텐츠와 포토 모드 등이 추가된 싱글플레이 전용작입니다.",
+          "source": "Ubisoft"
+        },
+        {
+          "title": "7월에 출시되는 PC·모바일 게임 목록",
+          "url": "https://bbs.ruliweb.com/news/read/226445",
+          "blurb": "7월 국내 출시 예정인 PC·모바일 신작 게임 목록이 정리됐으며, 다양한 장르의 신작과 리메이크 타이틀이 포함돼 있습니다.",
+          "source": "루리웹"
+        }
+      ]
+    },
+    {
       "date": "2026-07-03",
       "lede": "Xbox의 대규모 스튜디오 정리와 유비소프트 바르셀로나 파업 등 업계 감원 이슈가 두드러진 하루였고, 소니의 물리 디스크 발매 중단 논란도 계속됐습니다. 신작 쪽에서는 헤일로 리메이크와 귀무자 신작 발매일 조정, 서머 게임 페스트발 트레일러 공개가 이어졌습니다.",
       "industry": [
