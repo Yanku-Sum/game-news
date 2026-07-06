@@ -76,6 +76,19 @@
     font-variant-numeric: tabular-nums;
   }
 
+  .day-select {
+    background: var(--surface-raised);
+    color: var(--ink);
+    border: 1px solid var(--line);
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-size: 0.72rem;
+    letter-spacing: 0.04em;
+    text-transform: none;
+    cursor: pointer;
+  }
+  .day-select:hover, .day-select:focus-visible { border-color: var(--accent); outline: none; }
+
   main {
     max-width: 980px;
     margin: 0 auto;
@@ -211,7 +224,7 @@
     <h1 class="masthead-title"><span class="glyph">◆</span>게임 업계 뉴스 브리핑</h1>
     <div class="masthead-meta mono">
       <span>DISPATCHES <strong id="stat-count">0</strong></span>
-      <span id="stat-range">–</span>
+      <select id="day-select" class="day-select mono" aria-label="날짜 선택"></select>
     </div>
   </div>
 </header>
@@ -233,7 +246,7 @@
     var timeline = document.getElementById('timeline');
     var emptyState = document.getElementById('empty-state');
     var statCount = document.getElementById('stat-count');
-    var statRange = document.getElementById('stat-range');
+    var daySelect = document.getElementById('day-select');
 
     function fmtDate(iso) {
       var parts = iso.split('-');
@@ -272,28 +285,42 @@
       );
     }
 
+    function renderDay(entry) {
+      var groups = renderGroup('업계 동향', 'industry', entry.industry) +
+                   renderGroup('신작 소식', 'release', entry.games);
+      return (
+        '<section class="day">' +
+          '<h2 class="day-date mono">' + fmtDate(entry.date) + '</h2>' +
+          (entry.lede ? '<p class="day-lede">' + esc(entry.lede) + '</p>' : '') +
+          '<div class="day-groups">' + groups + '</div>' +
+        '</section>'
+      );
+    }
+
+    function renderSelection() {
+      var val = daySelect.value;
+      var shown = val === 'all' ? entries : entries.filter(function (e) { return e.date === val; });
+      timeline.innerHTML = shown.map(renderDay).join('');
+    }
+
     if (!entries.length) {
       emptyState.hidden = false;
       statCount.textContent = '0';
+      daySelect.hidden = true;
     } else {
       emptyState.hidden = true;
       statCount.textContent = String(entries.length);
-      var oldest = entries[entries.length - 1].date;
       var newest = entries[0].date;
-      statRange.textContent = oldest === newest ? oldest : oldest + ' – ' + newest;
       document.title = '게임 업계 뉴스 브리핑 · ' + fmtDate(newest);
 
-      timeline.innerHTML = entries.map(function (entry) {
-        var groups = renderGroup('업계 동향', 'industry', entry.industry) +
-                     renderGroup('신작 소식', 'release', entry.games);
-        return (
-          '<section class="day">' +
-            '<h2 class="day-date mono">' + fmtDate(entry.date) + '</h2>' +
-            (entry.lede ? '<p class="day-lede">' + esc(entry.lede) + '</p>' : '') +
-            '<div class="day-groups">' + groups + '</div>' +
-          '</section>'
-        );
+      var options = '<option value="all">전체 보기</option>' + entries.map(function (entry, i) {
+        return '<option value="' + esc(entry.date) + '">' + fmtDate(entry.date) + (i === 0 ? ' (최신)' : '') + '</option>';
       }).join('');
+      daySelect.innerHTML = options;
+      daySelect.value = newest;
+      daySelect.addEventListener('change', renderSelection);
+
+      renderSelection();
     }
   })();
 </script>
