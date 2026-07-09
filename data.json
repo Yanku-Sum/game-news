@@ -2,6 +2,34 @@
   "pagesUrl": "https://yanku-sum.github.io/game-news/",
   "releases": [
     {
+      "date": "2026-07-09",
+      "title": "그랑블루 판타지: 리링크 - 엔드리스 라그나로크",
+      "type": "정식출시",
+      "url": "https://relink-ragnarok.granbluefantasy.com/en/news/246/",
+      "source": "Cygames"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "EA 스포츠 칼리지 풋볼 27",
+      "type": "정식출시",
+      "url": "https://www.forbes.com/sites/games/2026/07/04/ea-college-football-27-review-the-good-the-bad-and-the-bottom-line/",
+      "source": "Forbes"
+    },
+    {
+      "date": "2026-07-10",
+      "title": "마블 라이벌즈 시즌9 '테베의 수수께끼'",
+      "type": "업데이트",
+      "url": "https://gamerant.com/marvel-rivals-season-9-jubilee-release-time/",
+      "source": "GameRant"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "서브노티카 2 1.1 업데이트",
+      "type": "업데이트",
+      "url": "https://www.gamemeca.com/view.php?gid=1777579",
+      "source": "게임메카"
+    },
+    {
       "date": "2026-07-06",
       "title": "e스포츠 매니저 2026",
       "type": "정식출시",
@@ -108,6 +136,80 @@
     }
   ],
   "entries": [
+    {
+      "date": "2026-07-09",
+      "lede": "라인게임즈 조동현 공동대표가 사의를 표명하며 카카오게임즈 합류설이 불거지는 등 경영진 이탈이 이어졌고, 소니 그룹 CEO의 대규모 자사주 매각과 카카오게임즈의 자사주 소각 결정 소식도 전해졌습니다. 도쿄게임쇼 2026에는 51개국 759개사 참가가 확정된 가운데, 신작 쪽에서는 팰월드가 정식 출시를 하루 앞두고 누적 4000만 플레이어를 달성했고 '그랑블루 판타지: 리링크' 확장팩 '엔드리스 라그나로크'와 EA 스포츠 '칼리지 풋볼 27'이 나란히 오늘 출시됐습니다.",
+      "industry": [
+        {
+          "title": "라인게임즈 조동현 공동대표 사의 표명...카카오게임즈行 무게, 경영진 연쇄 이동",
+          "url": "https://www.newspim.com/news/view/20260707001085",
+          "blurb": "라인게임즈 조동현 공동대표가 사의를 표명하고 카카오게임즈로 자리를 옮길 것으로 알려지며, 지난달 김태환 최고전략책임자에 이은 두 번째 경영진 이탈 사례가 나왔습니다. 8년 연속 적자와 자본잠식에 시달린 라인게임즈는 앞서 전사 희망퇴직에도 나선 상태로, 라인야후 산하 게임 사업 재편 가능성이 제기되고 있습니다.",
+          "source": "뉴스핌"
+        },
+        {
+          "title": "소니 그룹 CEO, 자사주 56.5% 매각",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318264",
+          "blurb": "소니그룹 CEO가 보유 자사주의 56.5%에 해당하는 약 65억 원 규모를 매각한 사실이 알려졌습니다. 플레이스테이션의 물리 디스크 발매 중단 방침을 둘러싼 논란이 이어지는 가운데 나온 소식이라 업계의 관심을 모으고 있습니다.",
+          "source": "인벤"
+        },
+        {
+          "title": "카카오게임즈, 자사주 50만 주 소각",
+          "url": "https://www.gamemeca.com/view.php?gid=1777562",
+          "blurb": "카카오게임즈가 보유 자사주 50만 주, 보유분의 약 60%를 7월 15일 소각한다고 밝혔습니다. 주주가치 제고와 장기 주주환원 정책 강화를 위한 조치라고 설명했습니다.",
+          "source": "게임메카"
+        },
+        {
+          "title": "도쿄게임쇼 2026, 51개국 759개사 참가 확정",
+          "url": "https://www.gamemeca.com/view.php?gid=1777568",
+          "blurb": "9월 개최되는 도쿄게임쇼 2026에 51개국 759개 기업의 참가가 확정됐습니다. 넥슨, 넷마블, 엔씨소프트를 비롯해 캡콤, 스퀘어에닉스, 소니 등 국내외 주요 퍼블리셔가 대거 이름을 올렸습니다.",
+          "source": "게임메카"
+        },
+        {
+          "title": "Xbox Game Pass New Games For July Revealed",
+          "url": "https://www.gamespot.com/articles/xbox-game-pass-new-games-for-july-revealed/",
+          "blurb": "엑스박스가 7월 게임패스 신규 추가작 1차 라인업을 공개했습니다. 7월 9일에는 '기어스 오브 워: 리로디드'와 '타마시카'가 게임패스에 합류하며, 최근 대규모 구조조정 여파 속에서도 서비스 확장은 이어가는 모습입니다.",
+          "source": "GameSpot"
+        }
+      ],
+      "games": [
+        {
+          "title": "'팰월드', 4000만 플레이어 달성...10일 정식 출시 앞두고 경사",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318257",
+          "blurb": "포켓페어의 '팰월드'가 정식 1.0 출시를 하루 앞두고 누적 플레이어 4000만 명을 돌파했습니다. 얼리 액세스 기간의 꾸준한 인기를 바탕으로 7월 10일 정식판 출시에 대한 기대감이 커지고 있습니다.",
+          "source": "인벤"
+        },
+        {
+          "title": "Granblue Fantasy: Relink - Endless Ragnarok Launches on July 9, 2026",
+          "url": "https://relink-ragnarok.granbluefantasy.com/en/news/246/",
+          "blurb": "사이게임즈의 '그랑블루 판타지: 리링크' 확장팩 '엔드리스 라그나로크'가 7월 9일 PS5·PS4·스위치2·PC로 정식 출시됐습니다. 신규 캐릭터 6종과 로그라이트 엔드게임 모드, 개편된 소환수 시스템이 추가됐으며 시리즈 최초로 크로스플레이도 지원합니다.",
+          "source": "Cygames"
+        },
+        {
+          "title": "서브노티카 2, 1.1 업데이트로 초반 경험 개선",
+          "url": "https://www.gamemeca.com/view.php?gid=1777579",
+          "blurb": "크래프톤 산하 언노운 월즈의 '서브노티카 2'가 얼리 액세스 첫 정식 업데이트인 1.1 패치를 적용했습니다. 이용자 피드백을 반영해 초반 게임 경험과 핵심 시스템을 개선하는 데 초점을 맞췄습니다.",
+          "source": "게임메카"
+        },
+        {
+          "title": "아이온 2, 신규 클래스 '권성' 추가 후 순위 상승",
+          "url": "https://www.gamemeca.com/view.php?gid=1777560",
+          "blurb": "엔씨소프트의 '아이온 2'가 신규 클래스 '권성' 업데이트와 성장 지원 이벤트에 힘입어 순위 8위로 올라섰습니다. 다만 PvP 밸런스 문제는 여전히 과제로 지적되고 있습니다.",
+          "source": "게임메카"
+        },
+        {
+          "title": "Marvel Rivals Season 9: Release Date (July 10), New Heroes Jubilee & The Hood",
+          "url": "https://gamerant.com/marvel-rivals-season-9-jubilee-release-time/",
+          "blurb": "'마블 라이벌즈' 시즌9 '테베의 수수께끼'가 7월 10일 개막하며 신규 영웅 '주빌리'와 '더 후드'가 합류합니다. 팀업 어빌리티 개편과 블랙 위도우 리워크, '둠의 심판' 이벤트도 함께 추가됩니다.",
+          "source": "GameRant"
+        },
+        {
+          "title": "EA College Football 27 Review: The Good, The Bad And The Bottom Line",
+          "url": "https://www.forbes.com/sites/games/2026/07/04/ea-college-football-27-review-the-good-the-bad-and-the-bottom-line/",
+          "blurb": "EA 스포츠 '칼리지 풋볼 27'이 7월 9일 PS5·엑스박스 시리즈·PC로 전 세계 동시 출시되며, 시리즈 최초로 PC(스팀·EA 앱·에픽)를 지원합니다. 다이나믹 날씨와 신규 중계 연출, 강화된 다이나스티 모드가 호평받았으나 얼티밋 팀 모드의 잦은 로딩 오류는 아쉬운 점으로 꼽혔습니다.",
+          "source": "Forbes"
+        }
+      ]
+    },
     {
       "date": "2026-07-08",
       "lede": "엑스박스 신임 CEO 아샤 샤르마가 대규모 구조조정의 책임을 전임 필 스펜서의 확장 전략으로 돌리며 '킹'과 '모장'을 직속 보고 체계로 편입했고, 나이언틱 게임사업부는 인수 1년 만에 '스코플리 익스플로어'로 개명했습니다. 국내에서는 엔씨의 '저니 오브 모나크'가 서비스 종료를 예고했고 차이나조이 2026 티켓 예매가 시작되는 등 여름 성수기 업계 움직임이 분주한 가운데, 신작 쪽에서는 로스트아크 신규 클래스 '차원술사'가 출시됐고 '프로야구 스피리츠 2026'·'파이널 판타지 10/10-2 HD 리마스터' 스위치2판이 각각 7월 16일, 23일 출시를 확정했습니다.",
