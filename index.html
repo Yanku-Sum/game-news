@@ -285,12 +285,11 @@
   }
   .cal-cell {
     background: var(--bg);
-    height: 96px;
+    min-height: 96px;
     padding: 6px;
     display: flex;
     flex-direction: column;
     gap: 4px;
-    overflow: hidden;
   }
   .cal-cell.out { background: var(--surface); opacity: 0.5; }
   .cal-daynum {
@@ -328,7 +327,7 @@
   .cal-event.type-beta { background: var(--beta-soft); color: var(--beta); }
 
   @media (max-width: 720px) {
-    .cal-cell { height: 64px; padding: 4px; }
+    .cal-cell { min-height: 64px; padding: 4px; }
     .cal-event { font-size: 0.62rem; padding: 2px 4px; }
     .cal-weekday { font-size: 0.6rem; padding: 6px 2px; }
   }
