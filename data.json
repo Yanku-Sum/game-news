@@ -2,6 +2,46 @@
     "pagesUrl": "https://yanku-sum.github.io/game-news/",
     "analyses": [
         {
+            "date": "2026-08-03",
+            "game": "붉은사막 (Crimson Desert)",
+            "hook": "차이나조이 2026 마지막 날까지 펄어비스는 자체 B2C 부스 없이 TCL 부스 시연대 10대만으로 현장 최대 화제의 한국 게임 자리를 지켰고, 8월 1일 적용된 1.16.00 패치가 무역소 133곳을 한 번에 추가하는 경제 콘텐츠 대개편이라 국내외 커뮤니티가 다시 달아올랐다.",
+            "coreLoop": "핵심 루프는 '탐험 → 거점 해방·보스 격파 → 장비/자원 획득 → 더 강한 지역 진입'의 오픈월드 액션 어드벤처 구조다. 파이웰 대륙을 이동하며 야영지와 요새를 제압하고, 그 과정에서 얻은 재료로 장비를 강화해 상위 보스에 도전한다. 전투는 격투 게임식 커맨드와 레슬링 계열 그래플, 무기 전환을 섞은 논타깃 액션이라 '조작 숙련' 자체가 보상이 되도록 설계됐다. 1.16.00 패치로 여기에 '무역'이라는 두 번째 루프가 본격적으로 붙었다 — 무역품을 싸게 사서 마차에 적재하고, 마차 진입이 어려운 오지일수록 높은 이윤을 얻으며, 한곳에 과다 판매하면 가격이 조절되는 지역 시세 시스템이다. 전투 루프(위험 감수 → 강해짐)와 경제 루프(운송 리스크 → 골드)가 마차 호위·습격을 매개로 맞물리는 구조다.",
+            "growthCurve": "레벨 대신 장비 등급과 스킬 해금, 그리고 무엇보다 '플레이어 숙련도'가 성장의 축이다. 보스전이 체력 스펀지가 아니라 패턴 학습형으로 짜여 있어, 캐릭터 스펙이 낮아도 회피·패링·그래플 타이밍을 익히면 돌파가 가능한 대신 스펙만 올려서는 넘기 어렵다. 이 설계는 '숙달됐을 때 엄청난 만족감'이라는 리뷰 평가로 이어졌지만, 동시에 초중반 조작 반응성과 인위적 난이도 배치가 감점 요인으로 지적되기도 했다. 경제 곡선은 출시 후 계속 재조정 중인데, 1.16.00에서 왕실 납품지 무역품 가격을 4배 올리고 고가치 무역품 24종을 추가한 것은 후반부 골드 싱크가 부족했던 구간을 메우려는 조치로 읽힌다. 6~9월 로드맵에도 '재봉쇄 콘텐츠 개편'과 신규 전투 콘텐츠가 예고돼, 엔드게임 밀도를 라이브 운영으로 채워 넣는 방향이 뚜렷하다.",
+            "funMechanics": "재미의 1차 동력은 '보는 재미'다. 다수 매체가 파이웰 대륙을 최근 몇 년간 가장 생동감 있는 오픈월드로 꼽았고, 지형·날씨·NPC 생활 연출의 밀도가 이동 자체를 콘텐츠로 만든다. 2차 동력은 격투 게임 문법을 오픈월드에 이식한 전투다. 커맨드 입력과 그래플이 성공했을 때의 물리적 타격감은 '내가 잘해서 이겼다'는 자기효능감을 직접 자극하고, 보스 패턴을 외워 무피격으로 넘겼을 때의 쾌감이 스트리밍·클립 소재로 재생산된다. 1.16.00이 더한 무역 루프는 전혀 다른 결의 쾌감을 준다 — 시세 차익 계산, 마차에 짐을 가득 싣고 험로를 통과하는 긴장, 지도 무역 탭을 보며 최적 경로를 짜는 '계획하는 재미'다. 액션의 순간적 각성과 경제의 느린 계산이 한 게임 안에 공존하는 것이 현재 붉은사막의 감정 설계다.",
+            "benchmarks": "① 하드웨어 파트너 부스 차용 — 차이나조이에서 자체 B2C 부스 없이 TCL 부스에 시연대 10대만 놓고 최대 화제작이 됐다. 대형 게임쇼 참가 비용의 대부분은 부스 자체인데, '고사양을 보여줄 이유가 있는' 하드웨어 브랜드와 이해관계를 맞추면 체험 접점만 최소 비용으로 살 수 있다. 데모를 10분·전투+거점 해방으로 잘라낸 것도 대기열 회전율을 계산한 설계다. ② 출시 후 '두 번째 루프' 이식 — 전투 일변도였던 게임에 5개월 차에 무역이라는 별개 코어 루프를 통째로 붙였다. 신규 지역·신규 보스 같은 수평 확장 대신 기존 맵 위에 새 동사(動詞)를 얹으면, 개발비 대비 체감 신작성이 크고 기존 맵 자산의 수명도 늘어난다. ③ 리스크-보상 지형 연동 — '마차 접근이 어려운 곳일수록 이윤이 높다'는 단 한 줄의 규칙이 방치돼 있던 오지 지형에 경제적 의미를 부여했다. 콘텐츠를 추가하지 않고 보상 계수만으로 기존 맵의 활용도를 재분배한 사례로, 라이브 게임 밸런싱에서 비용 대비 효율이 가장 높은 수단이다. ④ 비평과 시장의 괴리 관리 — 메타크리틱 78점이라는 애매한 점수를 받고도 첫날 200만 장을 팔았다. 스토리 혹평이 명확했던 만큼 '스토리 개연성 보강'을 로드맵에 공개적으로 올려 약점을 정면으로 인정한 운영 커뮤니케이션이, 초기 판매를 장기 리텐션으로 전환하는 데 결정적이었다.",
+            "businessModel": "부분유료화가 아닌 순수 패키지 판매(뷰투플레이) 모델이며, 출시 시점에 에디션 3종을 나눠 상위 에디션에 부가 콘텐츠를 얹는 전통적 구성을 택했다. 2026년 3월 19일 PC·PS5·Xbox 동시 출시 이후 첫날 200만 장, 나흘 만에 300만 장, 한 달 이내 500만 장, 83일 만에 600만 장을 기록했다. 스팀에서만 1억 9,000만 달러(약 2,600억 원) 이상을 벌어 2026년 신규 IP 중 스팀 매출 1위, 전체로는 포르자 호라이즌 6·바이오하자드 레퀴엠에 이은 3위다. 펄어비스는 1분기 연결 매출 3,285억 원·영업이익 2,121억 원을 기록했고, 연간 매출 8,790억~9,754억 원 중 붉은사막 몫을 6,441억~7,348억 원으로 전망하고 있다. 확장 전략은 무료 대규모 업데이트로 리텐션을 유지하면서 유료 DLC를 별도 제작하는 이원 구조이며, 시장 수요에 따라 멀티플레이 콘텐츠를 추가하는 방안도 검토 중이라고 공식화했다. 사실상 단일 타이틀이 회사 전체 실적을 좌우하는 구조라, 붙잡아 둔 유저 풀을 DLC 구매로 전환하는 것이 다음 분기의 핵심 과제다.",
+            "onboarding": "초반 진입 장벽은 이 게임의 가장 뚜렷한 약점으로 지적됐다. 커맨드 입력, 그래플, 무기 전환, 자원 관리가 초반에 한꺼번에 쏟아져 '복잡한 시스템과 불편한 조작감'이 여러 리뷰에서 공통 감점 요인으로 언급됐다. 오픈월드 특성상 튜토리얼 이후 방향 제시가 느슨한 것도 이탈 요인이었다. 펄어비스는 이를 라이브 운영으로 보정하는 쪽을 택했다 — 6~9월 로드맵에 스토리 개연성 보강과 편의성 개선을 넣고, 크로스 세이브를 도입해 플랫폼 간 복귀 마찰을 줄였다. 1.16.00의 무역 온보딩은 초기 설계보다 훨씬 친절해졌는데, 지도에 무역 탭을 별도로 신설하고 마차 탑승 시 미니맵에 주행 가능 경로를 직접 표시해 '어디로 어떻게 가야 하는지'를 UI가 대신 알려준다. 무역품을 1개 단위로도 팔 수 있게 하고 스택 상한을 10/100으로 넉넉히 잡은 것도 초기 시행착오 비용을 낮추는 장치다.",
+            "targetUser": "주 타깃은 소울라이크·몬스터헌터 계열의 고난도 액션에 익숙하면서 위처 3·엘든 링 급의 오픈월드 볼륨을 원하는 30대 전후 코어 콘솔/PC 유저다. 경쟁 포지션에서 붉은사막의 차별점은 '격투 게임식 입력을 정면으로 채택한 오픈월드'라는 점이다 — 소울라이크가 회피·패링 타이밍에 집중한다면, 붉은사막은 커맨드와 그래플을 추가해 조작 표현력 자체를 넓혔다. 리뷰가 '검은사막 MMO의 DNA가 흐른다'고 평한 것처럼 액션 밀도와 월드 스케일에 강점이 몰려 있고, 대신 서사 몰입도는 경쟁작 대비 약하다는 평가가 굳어졌다. 결과적으로 '이야기를 보러 오는 유저'보다 '조작을 파고드는 유저'와 '월드를 배회하는 유저'에게 강한 포지션이며, 1.16.00 무역 개편은 후자에 더해 시뮬레이션·경제 플레이 취향의 장기 체류형 유저를 새로 끌어들이려는 시도로 볼 수 있다.",
+            "community": "싱글 플레이 기반이라 게임 내 상시 소셜 장치는 약한 편이고, 커뮤니티 동력은 대부분 게임 밖에서 만들어진다. 고난도 보스 무피격 클리어, 그래플 콤보 같은 '조작 자랑' 클립이 스트리밍과 커뮤니티에서 자연스럽게 유통되는 구조가 사실상의 바이럴 엔진이다. 하우징 기능 확장과 신규 장비 업데이트는 스크린샷 공유형 자기표현 수요를 겨냥한 장치이며, 크로스 세이브는 플랫폼이 갈린 친구 그룹이 같은 진행도를 화제로 삼을 수 있게 하는 간접적 소셜 접점이다. 운영 측면에서는 '개발자 노트'로 6월부터 9월까지의 업데이트 계획을 미리 공개하고 로드맵 단위로 진행 상황을 알리는 방식을 정착시켰는데, 출시 초 혹평 구간을 지나면서 이 예고형 커뮤니케이션이 이탈 방지에 상당한 역할을 했다. 다만 지속적인 동시접속 유지를 위해서는 멀티플레이 콘텐츠 도입 여부가 관건이며, 회사도 이를 검토 대상으로 남겨 둔 상태다.",
+            "links": [
+                {
+                    "title": "붉은사막, 1.16.00 패치…무역 콘텐츠 개선",
+                    "url": "https://bbs.ruliweb.com/news/read/227628",
+                    "source": "루리웹"
+                },
+                {
+                    "title": "[Chinajoy 26] B2C 부스 없던 붉은사막, 현장서 자주 보인 이유",
+                    "url": "https://www.gamemeca.com/view.php?gid=1778609",
+                    "source": "게임메카"
+                },
+                {
+                    "title": "Pearl Abyss Showcases 'Crimson Desert' at ChinaJoy 2026 in Partnership with TCL",
+                    "url": "https://www.invenglobal.com/articles/24346/pearl-abyss-showcases-crimson-desert-at-chinajoy-2026-in-partnership-with-tcl",
+                    "source": "Inven Global"
+                },
+                {
+                    "title": "'붉은사막' 스팀서 2600억원 벌었다…2026년 신규 IP 매출 1위",
+                    "url": "https://www.segye.com/newsView/20260727504717",
+                    "source": "세계일보"
+                },
+                {
+                    "title": "펄어비스 '붉은사막' DLC 준비 중, 9월까지의 로드맵 공개",
+                    "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=58389",
+                    "source": "게임뷰"
+                }
+            ]
+        },
+        {
             "date": "2026-07-31",
             "game": "미스트폴 헌터 (Mistfall Hunter)",
             "hook": "'디아블로'의 아버지 데이비드 브레빅이 세운 스카이스톤 게임즈가 퍼블리싱하는 다크 판타지 익스트랙션 ARPG가 7월 29~30일 정식 출시되자마자 스팀 글로벌 최고 인기 게임(판매) 1위·매출 3위에 올랐습니다. 다만 스팀 평가는 긍정 54% 수준의 '복합적'에 머물러, 게임성 자체보다 서버·튕김 같은 기술적 완성도가 화제의 절반을 차지하는 상태입니다.",
@@ -1005,9 +1045,322 @@
             "type": "정식출시",
             "url": "https://newsroom.2k.com/news/2k-releases-nbar-2k27-gameplay-trailer-showcasing-nba-and-wnba-superstars",
             "source": "2K Newsroom"
+        },
+        {
+            "date": "2026-08-01",
+            "title": "붉은사막 1.16.00 '무역 대개편'",
+            "type": "업데이트",
+            "url": "https://bbs.ruliweb.com/news/read/227628",
+            "source": "루리웹"
+        },
+        {
+            "date": "2026-08-01",
+            "title": "소드 오브 콘발라리아 2주년 신규 챕터 '얼어붙은 길'",
+            "type": "업데이트",
+            "url": "https://www.gamemeca.com/view.php?gid=1778550",
+            "source": "게임메카"
+        },
+        {
+            "date": "2026-08-01",
+            "title": "Corsair Cove",
+            "type": "정식출시",
+            "url": "https://www.inven.co.kr/webzine/calendar/",
+            "source": "인벤 게임캘린더"
+        },
+        {
+            "date": "2026-08-03",
+            "title": "Anomaly President",
+            "type": "정식출시",
+            "url": "https://www.inven.co.kr/webzine/calendar/",
+            "source": "인벤 게임캘린더"
+        },
+        {
+            "date": "2026-08-04",
+            "title": "Liquidation",
+            "type": "정식출시",
+            "url": "https://www.inven.co.kr/webzine/calendar/",
+            "source": "인벤 게임캘린더"
+        },
+        {
+            "date": "2026-08-05",
+            "title": "Kill the Shadow",
+            "type": "정식출시",
+            "url": "https://www.inven.co.kr/webzine/calendar/",
+            "source": "인벤 게임캘린더"
+        },
+        {
+            "date": "2026-08-06",
+            "title": "Lies of P: Complete Edition (Switch 2)",
+            "type": "정식출시",
+            "url": "https://www.gematsu.com/2026/06/lies-of-p-complete-edition-coming-to-switch-2-on-august-6",
+            "source": "Gematsu"
+        },
+        {
+            "date": "2026-08-06",
+            "title": "Fields of Mistria",
+            "type": "정식출시",
+            "url": "https://www.inven.co.kr/webzine/calendar/",
+            "source": "인벤 게임캘린더"
+        },
+        {
+            "date": "2026-08-06",
+            "title": "Akatori",
+            "type": "정식출시",
+            "url": "https://www.inven.co.kr/webzine/calendar/",
+            "source": "인벤 게임캘린더"
+        },
+        {
+            "date": "2026-08-07",
+            "title": "MARVEL Tōkon: Fighting Souls",
+            "type": "정식출시",
+            "url": "https://www.inven.co.kr/webzine/calendar/",
+            "source": "인벤 게임캘린더"
+        },
+        {
+            "date": "2026-08-07",
+            "title": "Expeditions: Samurai",
+            "type": "정식출시",
+            "url": "https://www.inven.co.kr/webzine/calendar/",
+            "source": "인벤 게임캘린더"
+        },
+        {
+            "date": "2026-08-13",
+            "title": "군주의전쟁: 진격",
+            "type": "정식출시",
+            "url": "https://www.inven.co.kr/webzine/news/?news=318964",
+            "source": "인벤"
+        },
+        {
+            "date": "2026-08-13",
+            "title": "리그 오브 레전드 26.16 패치 (원딜 버프)",
+            "type": "업데이트",
+            "url": "https://www.gamemeca.com/view.php?gid=1778602",
+            "source": "게임메카"
+        },
+        {
+            "date": "2026-08-13",
+            "title": "EA SPORTS Madden NFL 27",
+            "type": "정식출시",
+            "url": "https://www.inven.co.kr/webzine/calendar/",
+            "source": "인벤 게임캘린더"
+        },
+        {
+            "date": "2026-08-13",
+            "title": "Duskfade",
+            "type": "정식출시",
+            "url": "https://www.inven.co.kr/webzine/calendar/",
+            "source": "인벤 게임캘린더"
+        },
+        {
+            "date": "2026-08-13",
+            "title": "Hell Let Loose: Vietnam",
+            "type": "정식출시",
+            "url": "https://www.inven.co.kr/webzine/calendar/",
+            "source": "인벤 게임캘린더"
+        },
+        {
+            "date": "2026-08-14",
+            "title": "Mafia: The Old Country - Man of Honor",
+            "type": "업데이트",
+            "url": "https://www.inven.co.kr/webzine/calendar/",
+            "source": "인벤 게임캘린더"
+        },
+        {
+            "date": "2026-08-18",
+            "title": "The Sinking City 2",
+            "type": "정식출시",
+            "url": "https://www.inven.co.kr/webzine/calendar/",
+            "source": "인벤 게임캘린더"
+        },
+        {
+            "date": "2026-08-18",
+            "title": "Darkest Dungeon: The Fire's Edge",
+            "type": "정식출시",
+            "url": "https://www.inven.co.kr/webzine/calendar/",
+            "source": "인벤 게임캘린더"
+        },
+        {
+            "date": "2026-08-19",
+            "title": "Astrae Oratio 테스트 (~9/21)",
+            "type": "CBT",
+            "url": "https://www.inven.co.kr/webzine/calendar/",
+            "source": "인벤 게임캘린더"
+        },
+        {
+            "date": "2026-08-20",
+            "title": "Mortal Shell II",
+            "type": "정식출시",
+            "url": "https://www.inven.co.kr/webzine/calendar/",
+            "source": "인벤 게임캘린더"
+        },
+        {
+            "date": "2026-08-20",
+            "title": "STEINS;GATE RE:BOOT",
+            "type": "정식출시",
+            "url": "https://www.inven.co.kr/webzine/calendar/",
+            "source": "인벤 게임캘린더"
+        },
+        {
+            "date": "2026-08-25",
+            "title": "Aliens: Fireteam Elite 2",
+            "type": "정식출시",
+            "url": "https://www.inven.co.kr/webzine/calendar/",
+            "source": "인벤 게임캘린더"
+        },
+        {
+            "date": "2026-08-26",
+            "title": "BRIGANDINE ABYSS",
+            "type": "정식출시",
+            "url": "https://www.inven.co.kr/webzine/calendar/",
+            "source": "인벤 게임캘린더"
+        },
+        {
+            "date": "2026-08-27",
+            "title": "METAL GEAR SOLID: MASTER COLLECTION Vol.2",
+            "type": "정식출시",
+            "url": "https://www.inven.co.kr/webzine/calendar/",
+            "source": "인벤 게임캘린더"
+        },
+        {
+            "date": "2026-08-27",
+            "title": "CAPTAIN TSUBASA 2: WORLD FIGHTERS",
+            "type": "정식출시",
+            "url": "https://www.inven.co.kr/webzine/calendar/",
+            "source": "인벤 게임캘린더"
+        },
+        {
+            "date": "2026-10-02",
+            "title": "Lies of P: Complete Edition 실물 패키지",
+            "type": "정식출시",
+            "url": "https://www.gematsu.com/2026/06/lies-of-p-complete-edition-coming-to-switch-2-on-august-6",
+            "source": "Gematsu"
+        },
+        {
+            "date": "2026-11-20",
+            "title": "마법사의 밤 리마스터 (스마트폰판)",
+            "type": "정식출시",
+            "url": "https://www.gamemeca.com/view.php?gid=1778612",
+            "source": "게임메카"
         }
     ],
     "entries": [
+        {
+            "date": "2026-08-03",
+            "lede": "상하이 차이나조이 2026이 7월 31일부터 오늘까지 나흘간 열리며 아시아 최대 게임쇼의 화두를 '오픈월드'와 'AI'로 정리했고, 그 한복판에서 펄어비스 '붉은사막'이 B2C 부스 없이 TCL 부스 시연대만으로 현장 최대 화제작 자리를 차지했습니다. 붉은사막은 8월 1일 1.16.00 패치로 무역소 133곳을 한꺼번에 추가하는 경제 콘텐츠 대개편까지 단행해 국내외 커뮤니티가 다시 달아올랐습니다. 업계 쪽에서는 AI발 메모리 가격 폭등이 결국 그래픽카드로 옮겨붙어 엔비디아가 GPU 키트를 20~30%, AMD가 라데온을 10% 인상한다는 보도가 잇따랐고, 소니는 실물 디스크 생산 중단의 근거를 다시 공개했지만 소매 현장은 의외로 담담한 반응을 보였습니다.",
+            "industry": [
+                {
+                    "title": "[Chinajoy 26] 중국은 지금 '오픈월드 게임' 광풍",
+                    "url": "https://www.gamemeca.com/view.php?gid=1778611",
+                    "blurb": "차이나조이 2026 현장을 관통한 키워드는 '오픈월드'였다. 원신, 검은 신화: 오공, 명조·연운십육성 계열이 만든 흐름을 따라 대형 퍼블리셔 대부분이 오픈월드 신작을 전면에 내세웠고, 장르 자체가 중국 시장의 기본값이 됐다는 진단이 나왔다. 900여 개사가 1,000종 이상을 출품한 역대 최대 규모다.",
+                    "source": "게임메카",
+                    "articleDate": "2026-08-02"
+                },
+                {
+                    "title": "[Chinajoy 26] B2C 부스 없던 붉은사막, 현장서 자주 보인 이유",
+                    "url": "https://www.gamemeca.com/view.php?gid=1778609",
+                    "blurb": "펄어비스는 차이나조이에 자체 B2C 부스를 내지 않았지만, TCL 부스에 마련된 시연대를 통해 '붉은사막'이 현장에서 가장 눈에 띄는 한국 게임이 됐다. 하드웨어 파트너의 부스를 빌려 체험 접점만 확보하는 저비용 노출 전략이 대형 게임쇼에서 유효하다는 사례로 읽힌다.",
+                    "source": "게임메카",
+                    "articleDate": "2026-08-01"
+                },
+                {
+                    "title": "ChinaJoy 2026: A Comprehensive Festival Spanning Goods, Indies, and AI",
+                    "url": "https://www.invenglobal.com/articles/24362/chinajoy-2026-a-comprehensive-festival-spanning-goods-indies-and-ai",
+                    "blurb": "차이나조이가 게임 전시를 넘어 굿즈·인디·AI를 아우르는 종합 페스티벌로 확장됐다는 현장 리포트. 상하이 신국제엑스포센터에서 7월 31일부터 8월 3일까지 열렸으며, 팬덤 커머스와 AI 기술 부스가 전시장의 상당 면적을 차지했다.",
+                    "source": "Inven Global"
+                },
+                {
+                    "title": "[Chinajoy 26] 넥써쓰와 두바이 DMCC, 중동-아시아 잇는다",
+                    "url": "https://www.gamemeca.com/view.php?gid=1778606",
+                    "blurb": "넥써쓰가 두바이 DMCC와 협력해 중동과 아시아 게임 시장을 잇는 교두보 구축에 나섰다. 웹3·블록체인 게임 규제 환경이 상대적으로 유연한 두바이를 거점으로 삼아 중동 자본과 아시아 개발사를 연결하겠다는 구상이다.",
+                    "source": "게임메카",
+                    "articleDate": "2026-08-01"
+                },
+                {
+                    "title": "RAM도 비싼데, 엔비디아·AMD GPU 인상 보도",
+                    "url": "https://www.gamemeca.com/view.php?gid=1778603",
+                    "blurb": "AI 수요로 촉발된 메모리 단가 상승이 그래픽카드로 번졌다. 엔비디아는 GDDR6·GDDR7을 쓰는 GPU 키트 가격을 20~30% 올리는 것으로 전해졌고, 이는 올해 세 번째 인상이다. 하이엔드에 국한되지 않고 대중적인 구형 지포스까지 대상에 포함돼 PC 게이밍 진입 비용 전반이 오를 전망이다.",
+                    "source": "게임메카",
+                    "articleDate": "2026-08-01"
+                },
+                {
+                    "title": "AMD Radeon GPU and memory kit prices reportedly rising 10% in August",
+                    "url": "https://videocardz.com/newz/amd-radeon-gpu-and-memory-kit-prices-reportedly-rising-10-in-august",
+                    "blurb": "AMD도 8월부터 라데온 GPU와 메모리 키트 가격을 최소 10% 인상한다고 파트너사에 통보한 것으로 보도됐다. GDDR6 가격 급등이 직접적인 원인으로, 엔비디아에 이어 AMD까지 인상 대열에 합류하면서 하반기 그래픽카드 시장의 가격 반등이 사실상 확정됐다는 분석이다.",
+                    "source": "VideoCardz"
+                },
+                {
+                    "title": "디지털이 대세, 소니 디스크 생산 중단한 이유 발표",
+                    "url": "https://www.gamemeca.com/view.php?gid=1778604",
+                    "blurb": "소니가 2028년 1월 이후 실물 디스크 생산을 중단하는 근거를 공식적으로 다시 설명했다. 지난 회계연도 PS4·PS5 타이틀 구매의 약 80%가 이미 디지털이었다는 자체 데이터가 핵심 논거다. 발표 한 달이 지나도록 소유권 논쟁은 가라앉지 않고 있다.",
+                    "source": "게임메카",
+                    "articleDate": "2026-08-01"
+                },
+                {
+                    "title": "[매장탐방] 디스크 생산 중단, 게임 소매점은 무덤덤하다",
+                    "url": "https://www.gamemeca.com/view.php?gid=1778511",
+                    "blurb": "정작 타격이 클 것으로 예상됐던 국내 게임 소매점들은 담담한 반응을 보였다. 이미 패키지 매출 비중이 크게 줄어 중고·주변기기·굿즈로 무게중심이 옮겨간 지 오래고, 2028년까지 남은 시간 동안 사업 구조를 조정할 여지가 있다는 것이다. 온라인 여론과 실제 유통 현장의 온도차를 보여준다.",
+                    "source": "게임메카",
+                    "articleDate": "2026-08-01"
+                }
+            ],
+            "games": [
+                {
+                    "title": "35주년 슈퍼로봇대전, 합체기 잔뜩 Y 新확장팩에 '2차Z 리마스터' 발표",
+                    "url": "https://www.inven.co.kr/webzine/news/?news=319116",
+                    "blurb": "반다이남코가 슈퍼로봇대전 35주년 기념 생방송에서 '제2차 슈퍼로봇대전 Z 파계편' 리마스터 제작을 발표했다. 함께 공개된 신규 확장팩은 합체기 물량을 대폭 늘린 것이 특징으로, 시리즈 팬층을 겨냥한 리마스터와 신작 동시 전개 전략이다.",
+                    "source": "인벤",
+                    "articleDate": "2026-08-02"
+                },
+                {
+                    "title": "기존 연출 유지, 마법사의 밤 리마스터 11월 모바일 출시",
+                    "url": "https://www.gamemeca.com/view.php?gid=1778612",
+                    "blurb": "타입문 비주얼 노벨 '마법사의 밤' 리마스터가 11월 20일 스마트폰으로 출시된다. 일본 기준 2,900엔이며 일본어·영어·중국어 간체/번체를 지원한다. 풀 보이스와 콘솔판 연출을 그대로 유지한 채 터치 조작에 맞춰 최적화했고, 한국어 지원 여부는 아직 미정이다.",
+                    "source": "게임메카",
+                    "articleDate": "2026-08-02"
+                },
+                {
+                    "title": "붉은사막, 1.16.00 패치…무역 콘텐츠 개선",
+                    "url": "https://bbs.ruliweb.com/news/read/227628",
+                    "blurb": "펄어비스가 8월 1일 붉은사막 1.16.00 패치를 적용해 무역 시스템을 전면 개편했다. 신규 무역소 133곳 추가, 왕실 납품지 무역품 가격 4배 상향, 고가치 무역품 24종·일반 무역품 4종 추가, 마차 공방 7곳 신설, 지도 무역 탭 도입 등 경제 루프 전반을 손봤다. 마차 접근이 어려운 지역일수록 이윤이 커지는 구조다.",
+                    "source": "루리웹",
+                    "articleDate": "2026-08-01"
+                },
+                {
+                    "title": "Pearl Abyss Showcases 'Crimson Desert' at ChinaJoy 2026 in Partnership with TCL",
+                    "url": "https://www.invenglobal.com/articles/24346/pearl-abyss-showcases-crimson-desert-at-chinajoy-2026-in-partnership-with-tcl",
+                    "blurb": "펄어비스가 TCL과 손잡고 차이나조이 N4홀 TCL 부스에 붉은사막 시연대 10대를 설치했다. 7월 31일부터 8월 3일까지 운영되며, 약 10분 분량으로 전투와 거점 해방을 체험하는 구성이다.",
+                    "source": "Inven Global"
+                },
+                {
+                    "title": "비원딜 체제 조정, 롤 26.16 '원딜 버프' 실시한다",
+                    "url": "https://www.gamemeca.com/view.php?gid=1778602",
+                    "blurb": "라이엇이 8월 13일 적용될 롤 26.16 패치에서 봇 라인 마법사 메타를 억제한다. 서포터 로밍 페널티(5레벨까지 골드·경험치 감소) 강화, 광전사의 군화·톱니 단검 등 원딜 핵심 아이템 상향, 기본 마법 저항력 상승과 성장 마저 하향으로 초반 교전 내구도 개선, 점화 대비 회복 주문 강화가 골자다.",
+                    "source": "게임메카",
+                    "articleDate": "2026-08-01"
+                },
+                {
+                    "title": "브더 2 글레이시아, 계획보다 노출도 줄어든 이유는?",
+                    "url": "https://www.gamemeca.com/view.php?gid=1778614",
+                    "blurb": "브라운더스트2 신규 캐릭터 글레이시아의 코스튬 노출 수위가 당초 기획보다 낮아진 배경을 다룬 기사. 서브컬처 게임의 심의·플랫폼 기준과 개발 의도 사이 조율 과정이 다시 도마에 올랐고, 이용자 커뮤니티에서는 사후 수정 방식에 대한 논쟁이 이어지고 있다.",
+                    "source": "게임메카",
+                    "articleDate": "2026-08-02"
+                },
+                {
+                    "title": "춘추부터 삼국까지, '군주의전쟁: 진격' 사전예약 진행",
+                    "url": "https://www.inven.co.kr/webzine/news/?news=318964",
+                    "blurb": "스카이샤크게임즈의 모바일 전략 시뮬레이션 '군주의전쟁: 진격'이 사전예약에 돌입했다. 8월 13일 정식 출시 예정이며 사전예약 보상으로 초선을 지급한다. 춘추전국·진초·한·삼국 시대 무장이 한 전장에 뒤섞이는 설정과 5종 병종 상성, 짧게 압축한 시즌 사이클이 특징이다.",
+                    "source": "인벤",
+                    "articleDate": "2026-08-03"
+                },
+                {
+                    "title": "소드 오브 콘발라리아, 2주년 신규 챕터 '얼어붙은 길' 공개",
+                    "url": "https://www.gamemeca.com/view.php?gid=1778550",
+                    "blurb": "'소드 오브 콘발라리아'가 8월 1일 2주년 신규 챕터 '얼어붙은 길'을 업데이트했다. 루시아 설원을 무대로 한 신규 스토리와 추가 캐릭터, 2주년 기념 이벤트 보상이 함께 제공된다.",
+                    "source": "게임메카",
+                    "articleDate": "2026-07-31"
+                }
+            ]
+        },
         {
             "date": "2026-07-31",
             "lede": "어제 출시된 다크 판타지 익스트랙션 ARPG '미스트폴 헌터'가 스팀 글로벌 판매 1위·매출 3위에 오르며 오늘 최대 화제작이 됐지만, 서버 이슈와 튕김으로 유저 평가는 긍정 54%의 '복합적'에 머물렀습니다. 업계 쪽에서는 엔씨소프트가 상하이에서 셩취게임즈와 '아이온2' 중국 진출 협력을 체결하며 현지 서비스명 '영원의탑 2'를 공개했고, 2028년 실물 디스크 생산 중단을 선언한 소니를 향한 반발은 청원 서명 규모가 커지며 한 달 넘게 이어지고 있습니다. 캡콤은 신규 IP '프라그마타'가 내부 기대치를 넘겼다며 시리즈화 검토를 공식화했고, 국내에서는 '더 렐릭: 퍼스트 가디언'이 오늘 정식 출시됐습니다.",
