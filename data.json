@@ -3,6 +3,46 @@
   "analyses": [
     {
       "date": "2026-08-14",
+      "game": "팬텀 블레이드 제로 (Phantom Blade Zero)",
+      "hook": "8월 12일 예약 판매를 시작한 지 하루 만에 스팀 글로벌 매출 1위에 올라, 아직 출시도 하지 않은 게임이 판매 차트 정상을 찍는 이례적인 장면을 만들었다. 위시리스트 공개 15일 만에 100만을 돌파하고 그중 절반 이상이 중국 밖에서 등록됐다는 점에서, '검은 신화: 오공' 이후 중국산 싱글 패키지 게임이 글로벌 주류 시장에 안착하는 두 번째 사례가 될지가 관전 포인트다.",
+      "coreLoop": "소울라이크의 외형을 빌렸지만 루프의 목적지는 정반대인 게임이다. ①여러 무기를 동시에 장착한 채 스테이지에 진입해 → ②경공과 콤보로 적을 압박하며 '사기(Sha-Chi)' 자원을 관리하고 → ③무기를 끊김 없이 스왑해 상황별 최적 콤보를 이어붙여 → ④보스를 격파하고 얻은 자원으로 무기·기예를 확장해 → ⑤더 화려한 연계가 가능해진 상태로 다음 구간에 들어가는 구조다. 핵심 설계는 사기 게이지다. 스태미나·포이즈·스킬 게이지를 하나로 합친 이 자원을 플레이어와 모든 적이 동시에 소모한다. 약공격은 저비용으로 콤보를 잇고, 강공격·특수기·지속 방어는 빠르게 게이지를 태운다. 즉 '내 자원을 아끼면서 상대 자원을 깎는' 공방이 전투의 실질적 승부처가 되고, 방어가 안전한 선택이 아니라 비용을 지불하는 선택이 된다. 소울라이크와 달리 적이 리스폰하지 않고 사망 시 재화도 잃지 않기 때문에, 루프의 마찰이 '반복 파밍'이 아니라 '한 판의 완성도'에 걸린다.",
+      "growthCurve": "성장의 축이 캐릭터 스탯보다 '무기 세트와 손'에 놓여 있다. 무기마다 사거리·발동 속도·사기 소모량·공격 패턴이 다르게 설정돼 있어, 성장은 수치 상승보다 사용 가능한 선택지가 늘어나는 방향으로 진행된다. 난이도 페이싱에서 눈에 띄는 것은 실패 비용을 의도적으로 낮춘 설계다. 보스 1페이즈를 넘긴 뒤 2페이즈에서 죽으면 2페이즈부터 재개되고, 죽어도 재화를 떨어뜨리지 않으며, 잡몹이 리스폰하지 않아 보스 앞까지 다시 걸어가는 반복 구간 자체가 없다. 프롬 소프트웨어 계열이 '죽음의 대가'로 긴장을 만드는 것과 달리, 이 게임은 재도전 비용을 깎아 플레이어를 계속 공격적으로 밀어붙이게 만든다. 여기에 별도의 난이도 설정을 제공해 하드코어 액션 팬과 무협 연출을 보러 온 관객을 같은 게임 안에 수용한다. 시연 매체들은 최고 난이도조차 '거짓말의 P'나 '엘든 링'만큼 가혹하지는 않다고 평가했다.",
+      "funMechanics": "재미의 정체는 '내가 홍콩 무협 영화의 합을 직접 짰다'는 감각이다. 이 게임은 소울라이크의 신중한 관찰-회피-한 대가 아니라, 액션 영화의 연속 합처럼 끊기지 않는 화면을 만드는 데 쾌감을 몰아넣었다. 무기 스왑이 전투 흐름을 끊지 않고 콤보 도중에 삽입되도록 설계된 것이 결정적인데, 덕분에 플레이어는 '무기를 바꿨다'가 아니라 '연출이 한 단계 고조됐다'고 체감한다. 여기에 견자단이 3년간 무공 액션 전반을 감수하고 직접 모션캡처로 참여한 결과물이 얹히면서, 동작 하나하나가 게임적 애니메이션이 아니라 실제 무술 합처럼 읽힌다. 쿵푸와 홍가권이라는 실존 무술을 베이스로 두고 그 위에 기계 의수·괴이한 병장기 같은 이질적 요소를 섞은 '쿵푸펑크' 미학은, 익숙한 무협의 리듬과 낯선 비주얼을 동시에 제공해 첫인상 자체를 강한 후킹 요소로 만들었다. 11분짜리 예약 구매 트레일러가 곧바로 판매 1위로 이어진 것도 이 '보는 재미'가 그만큼 즉각적이라는 방증이다.",
+      "benchmarks": "① 출시 두 달 전 예약 판매로 화력을 한 번 몰아 쓰는 타이밍 설계 — 11분 분량의 긴 게임플레이 트레일러를 예약 개시 시점에 붙여, 100만 위시리스트라는 축적된 관심을 하루짜리 판매 스파이크로 환전했다. 위시리스트를 '출시일에 터뜨리는 저수지'로만 보지 않고 중간에 한 번 회수하는 접근은 사전예약 마케팅 설계에 그대로 적용할 수 있다. ② 실패 비용을 낮춰 장르 문턱을 내린 판단 — 재화 손실 없음, 페이즈 이어하기, 적 리스폰 없음, 난이도 설정이라는 네 장치를 묶어 '소울라이크의 압박감은 싫지만 화려한 액션은 원하는' 층을 통째로 흡수했다. 하드코어 액션의 진입 장벽을 낮출 때 참고할 표준 조합이다. ③ 실존 인물 IP를 홍보 모델이 아니라 개발 파이프라인에 넣은 협업 — 견자단을 광고 얼굴이 아니라 크리에이티브 컨설턴트로 3년간 붙여 액션 품질 자체를 끌어올렸고, 그 결과 협업 사실이 그대로 게임성 마케팅 소재가 됐다. 콜라보 설계 시 '노출'과 '품질 기여' 중 어디에 붙일지를 다시 보게 하는 사례다. ④ 로컬 소재의 글로벌 번역 — 무협이라는 로컬 장르를 홍콩 액션 영화라는 이미 세계화된 문법에 실어 전달해, 위시리스트의 절반 이상을 중국 밖에서 확보했다. 로컬 IP를 해외로 내보낼 때 '소재'가 아니라 '이미 통용되는 연출 문법'을 매개로 삼는 전략이다.",
+      "businessModel": "라이브 서비스가 아닌 정통 패키지 판매 모델이다. 국내 기준 스탠다드 에디션 69,800원, 디럭스 에디션 79,800원(미국 $59.99 / $69.99)으로, 최근 대형 신작들이 $70~80으로 올라선 흐름과 비교하면 의도적으로 낮게 잡은 가격대다. 디럭스는 외형 아이템 2종과 디지털 아트북, 공식 OST를 더한 구성이고, 예약 구매자에게는 장신구 '보물 항아리'(의식의 잔재 획득 확률 10% 증가)와 외형 아이템 '유산'이 지급된다. 성능이 아니라 획득 확률과 외형에 특전을 묶어 본편 밸런스를 건드리지 않는 선을 지켰다. 판매 채널은 PS5와 PC(스팀·에픽게임즈 스토어)로, 콘솔 독점을 택하지 않고 PC를 동시에 여는 쪽을 골랐다. 출시 후에는 코스메틱과 시즌 로드맵 형태의 추가 콘텐츠가 언급됐으나 구체적인 구성과 가격은 아직 공개되지 않았다. 요약하면 낮은 가격으로 초기 판매량을 최대화하고, 확장 콘텐츠로 꼬리를 늘리는 '오공형' 구조에 가깝다.",
+      "onboarding": "진입 설계의 핵심은 '소울라이크가 아니다'라는 메시지를 반복적으로 못 박은 것이다. 다크한 세계관과 맵 구조 때문에 장르를 오해하기 쉬운 게임인데, 개발사와 시연 기사 모두 적 리스폰 없음·재화 손실 없음·페이즈 이어하기·난이도 설정을 앞세워 기대치를 먼저 교정했다. 마케팅 단계에서 장르 기대치를 조정하는 것 자체가 온보딩의 일부로 작동하는 사례다. 실제 학습 곡선에서 가장 무거운 덩어리는 사기 자원과 무기 스왑이다. 플레이어와 적이 같은 자원을 공유한다는 규칙은 한 번 이해하면 전투 전체를 관통하지만 문장으로 설명하면 추상적이라, 초반 구간에서 체감으로 익히게 만드는 설계가 필요하다. 무기 종류가 늘어날수록 조합의 폭이 곧 정보량이 되는 구조라, 한 번에 모든 무기를 쥐어주지 않고 순차 해금하는 방식이 병행될 가능성이 높다. 8월 18일 예정된 스테이트 오브 플레이 게임플레이 딥 다이브는 출시 전 마지막으로 조작 이해도를 끌어올리는 창구가 된다.",
+      "targetUser": "1차 타깃은 '세키로·데빌 메이 크라이·검은 신화: 오공'을 모두 즐긴 액션 게임 코어층이고, 2차 타깃은 홍콩 무협 영화 세대다. 포지셔닝은 두 방향으로 동시에 잡혀 있다. 소울라이크에 대해서는 '더 빠르고 덜 가혹한 대안'으로, 순수 스타일리시 액션에 대해서는 '무협이라는 미개척 소재'로 차별화한다. 특히 경쟁작 대비 결정적인 차별점은 소재의 희소성이다. 사무라이·다크 판타지 기반 액션은 포화 상태인 반면, 홍콩 무협 액션을 정면으로 다룬 대형 콘솔 게임은 사실상 비어 있는 칸이다. 견자단이라는 이름은 게임을 하지 않는 영화 관객까지 인지 범위 안으로 끌어들이는 확장 장치로 기능한다. 위시리스트의 절반 이상이 중국 밖에서 나왔다는 수치는 이 포지셔닝이 자국 시장 의존형이 아니라는 것을 보여주며, 개발사 스스로도 처음부터 글로벌을 1차 시장으로 놓고 설계했음을 시사한다.",
+      "community": "싱글 플레이 패키지라 게임 내 소셜 장치는 최소화돼 있고, 커뮤니티 화력은 전적으로 게임 밖에서 만들어졌다. S-GAME은 베이징에서 S-Party 같은 오프라인 시연 행사를 열어 1시간 분량 데모를 직접 만지게 하고, 그 자리에서 나온 22분짜리 최고 난이도 공략 영상을 공식 채널로 다시 배포하는 방식을 반복해 왔다. 개발사가 직접 '가장 잘 만든 플레이 영상'을 유통해 커뮤니티의 기준점을 세우는 접근이다. 여기에 긴 호흡의 게임플레이 영상을 주기적으로 공개하는 리듬(11분 예약 트레일러, 22분 데모 워크스루)이 붙으면서, 매 공개마다 프레임 단위로 액션을 뜯어보는 분석 콘텐츠가 자생했다. '검은 신화: 오공'의 프로듀서 펑지가 글로벌 싱글 플레이 게임을 만들도록 격려했고 오공의 성공이 추가 투자 유치로 이어졌다는 서사 역시, 중국 싱글 패키지 게임의 계보라는 맥락 안에서 커뮤니티가 이 게임을 응원하게 만드는 정서적 연결 고리로 작동하고 있다.",
+      "links": [
+        {
+          "title": "[스팀체크] 中 게임 기세 무섭네, 하루 만에 스팀 매출 1위",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319521",
+          "source": "인벤"
+        },
+        {
+          "title": "견자단도 나온다! '팬텀 블레이드 제로' 예구 트레일러 공개",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319418",
+          "source": "인벤"
+        },
+        {
+          "title": "State of Play, '팬텀 블레이드 제로' 게임플레이 딥다이브 - 8월 18일(화) 방송 예정",
+          "url": "https://blog.ko.playstation.com/2026/08/12/20260812-pbz/",
+          "source": "PlayStation 블로그"
+        },
+        {
+          "title": "Phantom Blade Zero - Steam 예약 구매 페이지",
+          "url": "https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/?l=koreana",
+          "source": "Steam"
+        },
+        {
+          "title": "Phantom Blade Zero HANDS-ON Preview: It's Not a Soulslike, But It's Damn Good",
+          "url": "https://insider-gaming.com/phantom-blade-zero-hands-on-preview/",
+          "source": "Insider Gaming"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-14",
       "game": "헬 렛 루즈: 베트남 (Hell Let Loose: Vietnam)",
       "hook": "8월 13일 출시 직후 스팀 동시접속 3만 명대를 찍으면서도 유저 평가가 '대체로 부정적'(긍정 32%)까지 떨어졌다가 하루 만에 '복합적'(49%)으로 반등하는 극단적인 롤러코스터를 탔다. 부정 평가의 대부분이 게임성이 아니라 '서버가 꽉 차서 못 들어간다'였다는 점에서, 하드코어 대규모 멀티플레이어 신작의 런치 캐파 설계가 어디까지 흥행 리스크가 되는지를 실시간으로 보여주는 사례다.",
       "coreLoop": "50대 50, 총 100명이 한 전장에서 섹터를 차례로 밀어내는 진지전이 큰 틀이다. 개인 단위 루프는 ①분대(스쿼드)에 소속돼 병과를 고르고 → ②분대장이 설치한 전방 거점(개리슨·아웃포스트)에서 리스폰해 → ③목표 섹터로 이동·교전하며 → ④거점이 파괴되면 리스폰 지점이 뒤로 밀려 이동 시간이 길어지고 → ⑤다시 거점을 세우기 위해 보급과 엄호가 필요해지는 구조다. 핵심은 '역할 잠금'으로 루프를 강제 연결한 설계다. 건설은 공병만, 대전차 화기는 대전차병만, 거점 설치는 분대장만 가능하고, 사령관(커맨더)이 분대에 명령을 내리면 분대장이 이를 받아 분대를 움직인다. 혼자서는 어떤 루프도 완결할 수 없게 만들어 협동을 선택이 아닌 전제 조건으로 바꿔 놓았다. 베트남전 재해석에서는 여기에 북베트남군의 땅굴망(은밀 이동·기습·증원)과 미군의 헬리콥터(화력 지원·보급 투하), 삼각주의 초계정(수로 통제=보급선 통제)이 진영 비대칭 축으로 얹혔다.",
@@ -864,10 +904,10 @@
     },
     {
       "date": "2026-07-09",
-      "title": "EA 스포츠 칼리지 풋볼 27",
-      "type": "정식출시",
-      "url": "https://www.forbes.com/sites/games/2026/07/04/ea-college-football-27-review-the-good-the-bad-and-the-bottom-line/",
-      "source": "Forbes"
+      "title": "붕괴: 넥서스 아니마 (에볼루션 테스트)",
+      "type": "CBT",
+      "url": "https://www.sportskeeda.com/esports/honkai-nexus-anima-evolution-test-new-cbt-release-date-apply-system-requirements",
+      "source": "Sportskeeda"
     },
     {
       "date": "2026-07-09",
@@ -885,10 +925,10 @@
     },
     {
       "date": "2026-07-09",
-      "title": "붕괴: 넥서스 아니마 (에볼루션 테스트)",
-      "type": "CBT",
-      "url": "https://www.sportskeeda.com/esports/honkai-nexus-anima-evolution-test-new-cbt-release-date-apply-system-requirements",
-      "source": "Sportskeeda"
+      "title": "EA 스포츠 칼리지 풋볼 27",
+      "type": "정식출시",
+      "url": "https://www.forbes.com/sites/games/2026/07/04/ea-college-football-27-review-the-good-the-bad-and-the-bottom-line/",
+      "source": "Forbes"
     },
     {
       "date": "2026-07-10",
@@ -899,17 +939,17 @@
     },
     {
       "date": "2026-07-10",
-      "title": "Palworld 1.0",
-      "type": "정식출시",
-      "url": "https://www.techtimes.com/articles/319440/20260701/palworld-10-launches-july-10-wing-pack-world-tree-free-existing-players.htm",
-      "source": "Tech Times"
-    },
-    {
-      "date": "2026-07-10",
       "title": "에코스 오브 아인크라드",
       "type": "정식출시",
       "url": "https://www.inven.co.kr/webzine/calendar/game/13518",
       "source": "인벤 게임캘린더"
+    },
+    {
+      "date": "2026-07-10",
+      "title": "Palworld 1.0",
+      "type": "정식출시",
+      "url": "https://www.techtimes.com/articles/319440/20260701/palworld-10-launches-july-10-wing-pack-world-tree-free-existing-players.htm",
+      "source": "Tech Times"
     },
     {
       "date": "2026-07-13",
@@ -920,10 +960,10 @@
     },
     {
       "date": "2026-07-14",
-      "title": "아스달 연대기 신규 서버 '뉴 월드'",
-      "type": "오픈",
-      "url": "https://www.khgames.co.kr/news/articleView.html?idxno=306041",
-      "source": "경향게임스"
+      "title": "디-토피아",
+      "type": "정식출시",
+      "url": "https://www.inven.co.kr/webzine/news/?news=315723",
+      "source": "인벤"
     },
     {
       "date": "2026-07-14",
@@ -934,17 +974,10 @@
     },
     {
       "date": "2026-07-14",
-      "title": "디-토피아",
-      "type": "정식출시",
-      "url": "https://www.inven.co.kr/webzine/news/?news=315723",
-      "source": "인벤"
-    },
-    {
-      "date": "2026-07-15",
-      "title": "붕괴: 스타레일 4.4 업데이트",
-      "type": "업데이트",
-      "url": "https://www.betanews.net/article/view/beta202607060008",
-      "source": "베타뉴스"
+      "title": "아스달 연대기 신규 서버 '뉴 월드'",
+      "type": "오픈",
+      "url": "https://www.khgames.co.kr/news/articleView.html?idxno=306041",
+      "source": "경향게임스"
     },
     {
       "date": "2026-07-15",
@@ -954,39 +987,11 @@
       "source": "인벤 게임캘린더"
     },
     {
-      "date": "2026-07-16",
-      "title": "알케론",
-      "type": "CBT",
-      "url": "https://www.inven.co.kr/webzine/news/?news=318275",
-      "source": "인벤"
-    },
-    {
-      "date": "2026-07-16",
-      "title": "Celestial Return",
-      "type": "정식출시",
-      "url": "https://www.rpgfan.com/2026/07/12/rpgs-coming-this-week-july-12-18-2026/",
-      "source": "RPGFan"
-    },
-    {
-      "date": "2026-07-16",
-      "title": "마비노기 모바일 신규 레이드 '카브락'",
+      "date": "2026-07-15",
+      "title": "붕괴: 스타레일 4.4 업데이트",
       "type": "업데이트",
-      "url": "https://www.betanews.net/article/view/beta202606260083",
+      "url": "https://www.betanews.net/article/view/beta202607060008",
       "source": "베타뉴스"
-    },
-    {
-      "date": "2026-07-16",
-      "title": "프로야구 스피리츠 2026",
-      "type": "정식출시",
-      "url": "https://bbs.ruliweb.com/news/read/223514",
-      "source": "루리웹"
-    },
-    {
-      "date": "2026-07-16",
-      "title": "컬드셉트 비긴즈",
-      "type": "정식출시",
-      "url": "https://www.inven.co.kr/webzine/calendar/game/13681",
-      "source": "인벤 게임캘린더"
     },
     {
       "date": "2026-07-16",
@@ -1011,10 +1016,45 @@
     },
     {
       "date": "2026-07-16",
+      "title": "마비노기 모바일 신규 레이드 '카브락'",
+      "type": "업데이트",
+      "url": "https://www.betanews.net/article/view/beta202606260083",
+      "source": "베타뉴스"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "알케론",
+      "type": "CBT",
+      "url": "https://www.inven.co.kr/webzine/news/?news=318275",
+      "source": "인벤"
+    },
+    {
+      "date": "2026-07-16",
       "title": "체이싱 칼레이도라이더",
       "type": "CBT",
       "url": "https://www.betanews.net/article/view/beta202607160088",
       "source": "베타뉴스"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "컬드셉트 비긴즈",
+      "type": "정식출시",
+      "url": "https://www.inven.co.kr/webzine/calendar/game/13681",
+      "source": "인벤 게임캘린더"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "프로야구 스피리츠 2026",
+      "type": "정식출시",
+      "url": "https://bbs.ruliweb.com/news/read/223514",
+      "source": "루리웹"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "Celestial Return",
+      "type": "정식출시",
+      "url": "https://www.rpgfan.com/2026/07/12/rpgs-coming-this-week-july-12-18-2026/",
+      "source": "RPGFan"
     },
     {
       "date": "2026-07-17",
@@ -1053,24 +1093,10 @@
     },
     {
       "date": "2026-07-23",
-      "title": "Splatoon Raiders",
-      "type": "정식출시",
-      "url": "https://www.nintendolife.com/news/2026/07/splatoon-raiders-demo-now-available-at-switch-2-kiosks-north-america",
-      "source": "Nintendo Life"
-    },
-    {
-      "date": "2026-07-23",
-      "title": "프로스트 킹덤",
-      "type": "정식출시",
-      "url": "https://www.inven.co.kr/webzine/news/?news=318194",
-      "source": "인벤"
-    },
-    {
-      "date": "2026-07-23",
-      "title": "파이널 판타지 10/10-2 HD 리마스터 (스위치2)",
-      "type": "정식출시",
-      "url": "https://www.betanews.net/article/view/beta202607060019",
-      "source": "베타뉴스"
+      "title": "그림 던: 아스터칸의 송곳니 (Fangs of Asterkarn)",
+      "type": "업데이트",
+      "url": "https://store.steampowered.com/app/2699230/Grim_Dawn__Fangs_of_Asterkarn/",
+      "source": "Steam"
     },
     {
       "date": "2026-07-23",
@@ -1095,6 +1121,27 @@
     },
     {
       "date": "2026-07-23",
+      "title": "파이널 판타지 10/10-2 HD 리마스터 (스위치2)",
+      "type": "정식출시",
+      "url": "https://www.betanews.net/article/view/beta202607060019",
+      "source": "베타뉴스"
+    },
+    {
+      "date": "2026-07-23",
+      "title": "포인피",
+      "type": "정식출시",
+      "url": "https://www.inven.co.kr/webzine/calendar/game/13859",
+      "source": "인벤 게임캘린더"
+    },
+    {
+      "date": "2026-07-23",
+      "title": "프로스트 킹덤",
+      "type": "정식출시",
+      "url": "https://www.inven.co.kr/webzine/news/?news=318194",
+      "source": "인벤"
+    },
+    {
+      "date": "2026-07-23",
       "title": "히간: 이루실",
       "type": "정식출시",
       "url": "https://www.inven.co.kr/webzine/news/?news=318803",
@@ -1102,16 +1149,16 @@
     },
     {
       "date": "2026-07-23",
-      "title": "그림 던: 아스터칸의 송곳니 (Fangs of Asterkarn)",
-      "type": "업데이트",
-      "url": "https://store.steampowered.com/app/2699230/Grim_Dawn__Fangs_of_Asterkarn/",
-      "source": "Steam"
+      "title": "Splatoon Raiders",
+      "type": "정식출시",
+      "url": "https://www.nintendolife.com/news/2026/07/splatoon-raiders-demo-now-available-at-switch-2-kiosks-north-america",
+      "source": "Nintendo Life"
     },
     {
-      "date": "2026-07-23",
-      "title": "포인피",
+      "date": "2026-07-24",
+      "title": "다이노블레이드",
       "type": "정식출시",
-      "url": "https://www.inven.co.kr/webzine/calendar/game/13859",
+      "url": "https://www.inven.co.kr/webzine/calendar/game/13792",
       "source": "인벤 게임캘린더"
     },
     {
@@ -1129,17 +1176,17 @@
       "source": "인벤 게임캘린더"
     },
     {
-      "date": "2026-07-24",
-      "title": "다이노블레이드",
-      "type": "정식출시",
-      "url": "https://www.inven.co.kr/webzine/calendar/game/13792",
-      "source": "인벤 게임캘린더"
-    },
-    {
       "date": "2026-07-25",
       "title": "패스 오브 엑자일 신규 리그 '올플레임의 저주'",
       "type": "업데이트",
       "url": "https://www.inven.co.kr/webzine/news/?news=318678",
+      "source": "인벤"
+    },
+    {
+      "date": "2026-07-29",
+      "title": "열혈강호: 넥스트",
+      "type": "정식출시",
+      "url": "https://www.inven.co.kr/webzine/news/?news=318978",
       "source": "인벤"
     },
     {
@@ -1157,38 +1204,24 @@
       "source": "인벤 게임캘린더"
     },
     {
-      "date": "2026-07-29",
-      "title": "열혈강호: 넥스트",
-      "type": "정식출시",
-      "url": "https://www.inven.co.kr/webzine/news/?news=318978",
+      "date": "2026-07-30",
+      "title": "건즈 앤 드래곤즈 (스팀 테스트)",
+      "type": "베타",
+      "url": "https://www.inven.co.kr/webzine/news/?news=318942",
       "source": "인벤"
     },
     {
       "date": "2026-07-30",
-      "title": "새나라: 더 새크라멘트",
+      "title": "고요한 시골 정원 이야기",
       "type": "정식출시",
-      "url": "https://www.inven.co.kr/webzine/news/?news=319024",
-      "source": "인벤"
-    },
-    {
-      "date": "2026-07-30",
-      "title": "V4 신규 시즌 'DUEL'",
-      "type": "업데이트",
-      "url": "https://www.inven.co.kr/webzine/news/?news=319021",
-      "source": "인벤"
+      "url": "https://www.inven.co.kr/webzine/calendar/game/13831",
+      "source": "인벤 게임캘린더"
     },
     {
       "date": "2026-07-30",
       "title": "나 혼자만 레벨업: 어라이즈 신규 계승자 '그림자 군주 성진우'",
       "type": "업데이트",
       "url": "https://www.inven.co.kr/webzine/news/?news=319023",
-      "source": "인벤"
-    },
-    {
-      "date": "2026-07-30",
-      "title": "THE 라그나로크 원스토어·갤럭시스토어",
-      "type": "오픈",
-      "url": "https://www.inven.co.kr/webzine/news/?news=319022",
       "source": "인벤"
     },
     {
@@ -1207,16 +1240,23 @@
     },
     {
       "date": "2026-07-30",
-      "title": "쿠산: 늑대의 도시",
-      "type": "정식출시",
-      "url": "https://www.inven.co.kr/webzine/calendar/game/13679",
-      "source": "인벤 게임캘린더"
+      "title": "브라운더스트2 한국 코스튬 리소스 수정",
+      "type": "업데이트",
+      "url": "https://www.inven.co.kr/webzine/news/?news=318945",
+      "source": "인벤"
     },
     {
       "date": "2026-07-30",
-      "title": "고요한 시골 정원 이야기",
+      "title": "새나라: 더 새크라멘트",
       "type": "정식출시",
-      "url": "https://www.inven.co.kr/webzine/calendar/game/13831",
+      "url": "https://www.inven.co.kr/webzine/news/?news=319024",
+      "source": "인벤"
+    },
+    {
+      "date": "2026-07-30",
+      "title": "쿠산: 늑대의 도시",
+      "type": "정식출시",
+      "url": "https://www.inven.co.kr/webzine/calendar/game/13679",
       "source": "인벤 게임캘린더"
     },
     {
@@ -1228,16 +1268,16 @@
     },
     {
       "date": "2026-07-30",
-      "title": "건즈 앤 드래곤즈 (스팀 테스트)",
-      "type": "베타",
-      "url": "https://www.inven.co.kr/webzine/news/?news=318942",
+      "title": "THE 라그나로크 원스토어·갤럭시스토어",
+      "type": "오픈",
+      "url": "https://www.inven.co.kr/webzine/news/?news=319022",
       "source": "인벤"
     },
     {
       "date": "2026-07-30",
-      "title": "브라운더스트2 한국 코스튬 리소스 수정",
+      "title": "V4 신규 시즌 'DUEL'",
       "type": "업데이트",
-      "url": "https://www.inven.co.kr/webzine/news/?news=318945",
+      "url": "https://www.inven.co.kr/webzine/news/?news=319021",
       "source": "인벤"
     },
     {
@@ -1291,35 +1331,14 @@
     },
     {
       "date": "2026-08-03",
-      "title": "Anomaly President",
-      "type": "정식출시",
-      "url": "https://www.inven.co.kr/webzine/calendar/",
-      "source": "인벤 게임캘린더"
-    },
-    {
-      "date": "2026-08-03",
       "title": "이스케이프 프롬 타르코프 시즌 1 '코드 브리치' (1.1.0.0)",
       "type": "업데이트",
       "url": "https://www.inven.co.kr/webzine/news/?news=319151",
       "source": "인벤"
     },
     {
-      "date": "2026-08-04",
-      "title": "빅 워크 (Big Walk)",
-      "type": "정식출시",
-      "url": "https://store.steampowered.com/app/1478500/Big_Walk/",
-      "source": "Steam"
-    },
-    {
-      "date": "2026-08-04",
-      "title": "비스트 오브 리인카네이션",
-      "type": "정식출시",
-      "url": "https://www.inven.co.kr/webzine/news/?news=318977",
-      "source": "인벤"
-    },
-    {
-      "date": "2026-08-04",
-      "title": "Liquidation",
+      "date": "2026-08-03",
+      "title": "Anomaly President",
       "type": "정식출시",
       "url": "https://www.inven.co.kr/webzine/calendar/",
       "source": "인벤 게임캘린더"
@@ -1333,28 +1352,28 @@
     },
     {
       "date": "2026-08-04",
+      "title": "비스트 오브 리인카네이션",
+      "type": "정식출시",
+      "url": "https://www.inven.co.kr/webzine/news/?news=318977",
+      "source": "인벤"
+    },
+    {
+      "date": "2026-08-04",
+      "title": "빅 워크 (Big Walk)",
+      "type": "정식출시",
+      "url": "https://store.steampowered.com/app/1478500/Big_Walk/",
+      "source": "Steam"
+    },
+    {
+      "date": "2026-08-04",
       "title": "타워 오브 판타지 6.2 '허무와 꿈의 좌표'",
       "type": "업데이트",
       "url": "https://www.inven.co.kr/webzine/news/?news=319170",
       "source": "인벤"
     },
     {
-      "date": "2026-08-05",
-      "title": "포켓몬 포코폴리아 DLC '보글 수중 마을' (+2.0 업데이트)",
-      "type": "업데이트",
-      "url": "https://www.gamemeca.com/view.php?gid=1778515",
-      "source": "게임메카"
-    },
-    {
-      "date": "2026-08-05",
-      "title": "아키텍트: 랜드 오브 엑자일 신규 PvP '격전'",
-      "type": "업데이트",
-      "url": "https://www.gamemeca.com/view.php?gid=1778428",
-      "source": "게임메카"
-    },
-    {
-      "date": "2026-08-05",
-      "title": "Kill the Shadow",
+      "date": "2026-08-04",
+      "title": "Liquidation",
       "type": "정식출시",
       "url": "https://www.inven.co.kr/webzine/calendar/",
       "source": "인벤 게임캘린더"
@@ -1368,23 +1387,9 @@
     },
     {
       "date": "2026-08-05",
-      "title": "슈퍼로봇대전 Y '애니버서리 확장팩' DLC",
-      "type": "업데이트",
-      "url": "https://www.inven.co.kr/webzine/news/?news=319139",
-      "source": "인벤"
-    },
-    {
-      "date": "2026-08-05",
       "title": "로스트아크 신규 레이드 '벨가르딘'",
       "type": "업데이트",
       "url": "https://www.gamemeca.com/view.php?gid=1778762",
-      "source": "게임메카"
-    },
-    {
-      "date": "2026-08-05",
-      "title": "RF 온라인 넥스트 '우샤스 워존'",
-      "type": "업데이트",
-      "url": "https://www.gamemeca.com/view.php?gid=1778766",
       "source": "게임메카"
     },
     {
@@ -1395,53 +1400,39 @@
       "source": "게임메카"
     },
     {
-      "date": "2026-08-06",
-      "title": "Lies of P: Complete Edition (Switch 2)",
-      "type": "정식출시",
-      "url": "https://www.gematsu.com/2026/06/lies-of-p-complete-edition-coming-to-switch-2-on-august-6",
-      "source": "Gematsu"
-    },
-    {
-      "date": "2026-08-06",
-      "title": "Fields of Mistria",
-      "type": "정식출시",
-      "url": "https://www.inven.co.kr/webzine/calendar/",
-      "source": "인벤 게임캘린더"
-    },
-    {
-      "date": "2026-08-06",
-      "title": "Akatori",
-      "type": "정식출시",
-      "url": "https://www.inven.co.kr/webzine/calendar/",
-      "source": "인벤 게임캘린더"
-    },
-    {
-      "date": "2026-08-06",
-      "title": "MARVEL Tōkon: Fighting Souls",
-      "type": "정식출시",
-      "url": "https://www.gematsu.com/2026/07/marvel-tokon-fighting-souls-launch-trailer",
-      "source": "Gematsu"
-    },
-    {
-      "date": "2026-08-06",
-      "title": "아이언 네스트: 헤비 터렛 시뮬레이터",
-      "type": "정식출시",
-      "url": "https://www.inven.co.kr/webzine/calendar/",
-      "source": "인벤 게임캘린더"
-    },
-    {
-      "date": "2026-08-06",
-      "title": "일곱 개의 대죄: Origin 신규 영웅 '데리엘리'",
+      "date": "2026-08-05",
+      "title": "슈퍼로봇대전 Y '애니버서리 확장팩' DLC",
       "type": "업데이트",
-      "url": "https://www.inven.co.kr/webzine/news/?news=319242",
+      "url": "https://www.inven.co.kr/webzine/news/?news=319139",
       "source": "인벤"
     },
     {
-      "date": "2026-08-06",
-      "title": "Monsters Are Coming! (Xbox 게임패스)",
+      "date": "2026-08-05",
+      "title": "아키텍트: 랜드 오브 엑자일 신규 PvP '격전'",
+      "type": "업데이트",
+      "url": "https://www.gamemeca.com/view.php?gid=1778428",
+      "source": "게임메카"
+    },
+    {
+      "date": "2026-08-05",
+      "title": "포켓몬 포코폴리아 DLC '보글 수중 마을' (+2.0 업데이트)",
+      "type": "업데이트",
+      "url": "https://www.gamemeca.com/view.php?gid=1778515",
+      "source": "게임메카"
+    },
+    {
+      "date": "2026-08-05",
+      "title": "Kill the Shadow",
       "type": "정식출시",
-      "url": "https://www.inven.co.kr/webzine/news/?news=319238",
-      "source": "인벤"
+      "url": "https://www.inven.co.kr/webzine/calendar/",
+      "source": "인벤 게임캘린더"
+    },
+    {
+      "date": "2026-08-05",
+      "title": "RF 온라인 넥스트 '우샤스 워존'",
+      "type": "업데이트",
+      "url": "https://www.gamemeca.com/view.php?gid=1778766",
+      "source": "게임메카"
     },
     {
       "date": "2026-08-06",
@@ -1459,6 +1450,13 @@
     },
     {
       "date": "2026-08-06",
+      "title": "돌록 타운 (Doloc Town)",
+      "type": "정식출시",
+      "url": "https://www.gamemeca.com/view.php?gid=1778900",
+      "source": "게임메카"
+    },
+    {
+      "date": "2026-08-06",
       "title": "라그나로크M 클래식 × 단간론파 컬래버 (~9/6)",
       "type": "업데이트",
       "url": "https://www.gamemeca.com/view.php?gid=1778812",
@@ -1466,14 +1464,77 @@
     },
     {
       "date": "2026-08-06",
-      "title": "돌록 타운 (Doloc Town)",
+      "title": "아이언 네스트: 헤비 터렛 시뮬레이터",
       "type": "정식출시",
-      "url": "https://www.gamemeca.com/view.php?gid=1778900",
-      "source": "게임메카"
+      "url": "https://www.inven.co.kr/webzine/calendar/",
+      "source": "인벤 게임캘린더"
+    },
+    {
+      "date": "2026-08-06",
+      "title": "일곱 개의 대죄: Origin 신규 영웅 '데리엘리'",
+      "type": "업데이트",
+      "url": "https://www.inven.co.kr/webzine/news/?news=319242",
+      "source": "인벤"
+    },
+    {
+      "date": "2026-08-06",
+      "title": "Akatori",
+      "type": "정식출시",
+      "url": "https://www.inven.co.kr/webzine/calendar/",
+      "source": "인벤 게임캘린더"
+    },
+    {
+      "date": "2026-08-06",
+      "title": "Fields of Mistria",
+      "type": "정식출시",
+      "url": "https://www.inven.co.kr/webzine/calendar/",
+      "source": "인벤 게임캘린더"
+    },
+    {
+      "date": "2026-08-06",
+      "title": "Lies of P: Complete Edition (Switch 2)",
+      "type": "정식출시",
+      "url": "https://www.gematsu.com/2026/06/lies-of-p-complete-edition-coming-to-switch-2-on-august-6",
+      "source": "Gematsu"
+    },
+    {
+      "date": "2026-08-06",
+      "title": "MARVEL Tōkon: Fighting Souls",
+      "type": "정식출시",
+      "url": "https://www.gematsu.com/2026/07/marvel-tokon-fighting-souls-launch-trailer",
+      "source": "Gematsu"
+    },
+    {
+      "date": "2026-08-06",
+      "title": "Monsters Are Coming! (Xbox 게임패스)",
+      "type": "정식출시",
+      "url": "https://www.inven.co.kr/webzine/news/?news=319238",
+      "source": "인벤"
     },
     {
       "date": "2026-08-07",
-      "title": "Expeditions: Samurai",
+      "title": "볼 x 핏 무료 DLC '자연주의자'",
+      "type": "업데이트",
+      "url": "https://www.inven.co.kr/webzine/news/?news=319288",
+      "source": "인벤"
+    },
+    {
+      "date": "2026-08-07",
+      "title": "스킨 스테이플러 (Skin Stapler)",
+      "type": "정식출시",
+      "url": "https://www.inven.co.kr/webzine/news/?news=319286",
+      "source": "인벤"
+    },
+    {
+      "date": "2026-08-07",
+      "title": "킹 오브 파이터 AFK 신규 파이터 '애쉬 크림존'",
+      "type": "업데이트",
+      "url": "https://www.inven.co.kr/webzine/news/?news=319289",
+      "source": "인벤"
+    },
+    {
+      "date": "2026-08-07",
+      "title": "타이탄 러쉬: 서바이벌",
       "type": "정식출시",
       "url": "https://www.inven.co.kr/webzine/calendar/",
       "source": "인벤 게임캘린더"
@@ -1484,6 +1545,20 @@
       "type": "정식출시",
       "url": "https://www.gamemeca.com/view.php?gid=1778629",
       "source": "게임메카"
+    },
+    {
+      "date": "2026-08-07",
+      "title": "BIC 2026 온라인 페스티벌 (~8/28)",
+      "type": "오픈",
+      "url": "https://www.inven.co.kr/webzine/calendar/",
+      "source": "인벤 게임캘린더"
+    },
+    {
+      "date": "2026-08-07",
+      "title": "Expeditions: Samurai",
+      "type": "정식출시",
+      "url": "https://www.inven.co.kr/webzine/calendar/",
+      "source": "인벤 게임캘린더"
     },
     {
       "date": "2026-08-07",
@@ -1500,53 +1575,11 @@
       "source": "인벤 게임캘린더"
     },
     {
-      "date": "2026-08-07",
-      "title": "BIC 2026 온라인 페스티벌 (~8/28)",
-      "type": "오픈",
-      "url": "https://www.inven.co.kr/webzine/calendar/",
-      "source": "인벤 게임캘린더"
-    },
-    {
-      "date": "2026-08-07",
-      "title": "볼 x 핏 무료 DLC '자연주의자'",
-      "type": "업데이트",
-      "url": "https://www.inven.co.kr/webzine/news/?news=319288",
-      "source": "인벤"
-    },
-    {
-      "date": "2026-08-07",
-      "title": "킹 오브 파이터 AFK 신규 파이터 '애쉬 크림존'",
-      "type": "업데이트",
-      "url": "https://www.inven.co.kr/webzine/news/?news=319289",
-      "source": "인벤"
-    },
-    {
-      "date": "2026-08-07",
-      "title": "스킨 스테이플러 (Skin Stapler)",
-      "type": "정식출시",
-      "url": "https://www.inven.co.kr/webzine/news/?news=319286",
-      "source": "인벤"
-    },
-    {
-      "date": "2026-08-07",
-      "title": "타이탄 러쉬: 서바이벌",
-      "type": "정식출시",
-      "url": "https://www.inven.co.kr/webzine/calendar/",
-      "source": "인벤 게임캘린더"
-    },
-    {
       "date": "2026-08-10",
       "title": "Hole is Mine",
       "type": "정식출시",
       "url": "https://www.inven.co.kr/webzine/news/?news=319147",
       "source": "인벤"
-    },
-    {
-      "date": "2026-08-11",
-      "title": "Echoes of Mistralia",
-      "type": "정식출시",
-      "url": "https://bbs.ruliweb.com/news/read/227627",
-      "source": "루리웹"
     },
     {
       "date": "2026-08-11",
@@ -1563,11 +1596,18 @@
       "source": "Wowhead"
     },
     {
-      "date": "2026-08-12",
-      "title": "원신 7.0 '신이 사랑하지 않은 설국' (스네즈나야 개방)",
-      "type": "업데이트",
-      "url": "https://www.khgames.co.kr/news/articleView.html?idxno=306921",
-      "source": "경향게임스"
+      "date": "2026-08-11",
+      "title": "Echoes of Mistralia",
+      "type": "정식출시",
+      "url": "https://bbs.ruliweb.com/news/read/227627",
+      "source": "루리웹"
+    },
+    {
+      "date": "2026-08-11",
+      "title": "Grounded 2 (PS5 얼리 액세스 + 'Into the Abyss' 업데이트)",
+      "type": "얼리엑세스",
+      "url": "https://grounded2.obsidian.net/news/grounded-2/grounded-2-is-coming-to-playstation-5",
+      "source": "옵시디언 공식"
     },
     {
       "date": "2026-08-12",
@@ -1582,6 +1622,20 @@
       "type": "오픈",
       "url": "https://www.gamemeca.com/view.php?gid=1778765",
       "source": "게임메카"
+    },
+    {
+      "date": "2026-08-12",
+      "title": "오버워치 시즌 4 '부산의 영웅들' (신규 돌격 영웅 D.Mon)",
+      "type": "업데이트",
+      "url": "https://www.inven.co.kr/webzine/news/?news=319359",
+      "source": "인벤"
+    },
+    {
+      "date": "2026-08-12",
+      "title": "원신 7.0 '신이 사랑하지 않은 설국' (스네즈나야 개방)",
+      "type": "업데이트",
+      "url": "https://www.khgames.co.kr/news/articleView.html?idxno=306921",
+      "source": "경향게임스"
     },
     {
       "date": "2026-08-13",
@@ -1599,21 +1653,21 @@
     },
     {
       "date": "2026-08-13",
-      "title": "EA SPORTS Madden NFL 27",
-      "type": "정식출시",
-      "url": "https://www.inven.co.kr/webzine/calendar/",
-      "source": "인벤 게임캘린더"
+      "title": "승리의 여신: 니케 × 페르소나 3·4·5 콜라보",
+      "type": "업데이트",
+      "url": "https://www.inven.co.kr/webzine/news/?news=319133",
+      "source": "인벤"
     },
     {
       "date": "2026-08-13",
-      "title": "Duskfade",
+      "title": "죠죠의 기묘한 모험: 골든 스피릿",
       "type": "정식출시",
-      "url": "https://www.inven.co.kr/webzine/calendar/",
-      "source": "인벤 게임캘린더"
+      "url": "https://www.gamemeca.com/view.php?gid=1779142",
+      "source": "게임메카"
     },
     {
       "date": "2026-08-13",
-      "title": "Hell Let Loose: Vietnam",
+      "title": "클로드 (Clod)",
       "type": "정식출시",
       "url": "https://www.inven.co.kr/webzine/calendar/",
       "source": "인벤 게임캘린더"
@@ -1627,13 +1681,6 @@
     },
     {
       "date": "2026-08-13",
-      "title": "Low Budget Repairs",
-      "type": "정식출시",
-      "url": "https://www.inven.co.kr/webzine/calendar/",
-      "source": "인벤 게임캘린더"
-    },
-    {
-      "date": "2026-08-13",
       "title": "Defender of the Crown",
       "type": "정식출시",
       "url": "https://www.inven.co.kr/webzine/calendar/",
@@ -1641,7 +1688,35 @@
     },
     {
       "date": "2026-08-13",
-      "title": "Servant of the Lake",
+      "title": "Duskfade",
+      "type": "정식출시",
+      "url": "https://www.inven.co.kr/webzine/calendar/",
+      "source": "인벤 게임캘린더"
+    },
+    {
+      "date": "2026-08-13",
+      "title": "EA SPORTS Madden NFL 27",
+      "type": "정식출시",
+      "url": "https://www.inven.co.kr/webzine/calendar/",
+      "source": "인벤 게임캘린더"
+    },
+    {
+      "date": "2026-08-13",
+      "title": "Hell Let Loose: Vietnam",
+      "type": "정식출시",
+      "url": "https://www.inven.co.kr/webzine/calendar/",
+      "source": "인벤 게임캘린더"
+    },
+    {
+      "date": "2026-08-13",
+      "title": "IGS 클래식 아케이드 컬렉션 (Steam)",
+      "type": "정식출시",
+      "url": "https://bbs.ruliweb.com/news/board/300007/read/2352221",
+      "source": "루리웹"
+    },
+    {
+      "date": "2026-08-13",
+      "title": "Low Budget Repairs",
       "type": "정식출시",
       "url": "https://www.inven.co.kr/webzine/calendar/",
       "source": "인벤 게임캘린더"
@@ -1655,24 +1730,31 @@
     },
     {
       "date": "2026-08-13",
-      "title": "클로드 (Clod)",
+      "title": "Servant of the Lake",
       "type": "정식출시",
       "url": "https://www.inven.co.kr/webzine/calendar/",
       "source": "인벤 게임캘린더"
     },
     {
-      "date": "2026-08-13",
-      "title": "승리의 여신: 니케 × 페르소나 3·4·5 콜라보",
-      "type": "업데이트",
-      "url": "https://www.inven.co.kr/webzine/news/?news=319133",
-      "source": "인벤"
+      "date": "2026-08-14",
+      "title": "건즈 (GunZ) 스팀 글로벌 서비스",
+      "type": "오픈",
+      "url": "https://www.gamemeca.com/view.php?gid=1779141",
+      "source": "게임메카"
     },
     {
-      "date": "2026-08-13",
-      "title": "IGS 클래식 아케이드 컬렉션 (Steam)",
+      "date": "2026-08-14",
+      "title": "부산인디커넥트페스티벌 2026 개막 (인디게임 332종)",
+      "type": "오픈",
+      "url": "https://www.gamemeca.com/view.php?gid=1779122",
+      "source": "게임메카"
+    },
+    {
+      "date": "2026-08-14",
+      "title": "Grave Seasons (Xbox 게임패스)",
       "type": "정식출시",
-      "url": "https://bbs.ruliweb.com/news/board/300007/read/2352221",
-      "source": "루리웹"
+      "url": "https://www.inven.co.kr/webzine/news/?news=319238",
+      "source": "인벤"
     },
     {
       "date": "2026-08-14",
@@ -1689,18 +1771,18 @@
       "source": "인벤 게임캘린더"
     },
     {
-      "date": "2026-08-14",
-      "title": "Grave Seasons (Xbox 게임패스)",
-      "type": "정식출시",
-      "url": "https://www.inven.co.kr/webzine/news/?news=319238",
-      "source": "인벤"
-    },
-    {
       "date": "2026-08-15",
       "title": "부산인디커넥트페스티벌 2026 오프라인 페스티벌 (~8/17)",
       "type": "오픈",
       "url": "https://www.inven.co.kr/webzine/calendar/",
       "source": "인벤 게임캘린더"
+    },
+    {
+      "date": "2026-08-17",
+      "title": "SOOP ASL 시즌22 개막",
+      "type": "오픈",
+      "url": "https://www.gamemeca.com/view.php?gid=1779140",
+      "source": "게임메카"
     },
     {
       "date": "2026-08-17",
@@ -1711,10 +1793,10 @@
     },
     {
       "date": "2026-08-18",
-      "title": "The Sinking City 2",
-      "type": "정식출시",
-      "url": "https://www.inven.co.kr/webzine/calendar/",
-      "source": "인벤 게임캘린더"
+      "title": "월드 오브 워크래프트: 미드나이트 시즌 2",
+      "type": "업데이트",
+      "url": "https://www.wowhead.com/news/midnight-season-2-launches-august-18th-382287",
+      "source": "Wowhead"
     },
     {
       "date": "2026-08-18",
@@ -1725,17 +1807,24 @@
     },
     {
       "date": "2026-08-18",
+      "title": "State of Play: 팬텀 블레이드 제로 게임플레이 딥 다이브",
+      "type": "오픈",
+      "url": "https://blog.ko.playstation.com/2026/08/12/20260812-pbz/",
+      "source": "PlayStation 블로그"
+    },
+    {
+      "date": "2026-08-18",
+      "title": "The Sinking City 2",
+      "type": "정식출시",
+      "url": "https://www.inven.co.kr/webzine/calendar/",
+      "source": "인벤 게임캘린더"
+    },
+    {
+      "date": "2026-08-18",
       "title": "Yandere Virus",
       "type": "정식출시",
       "url": "https://bbs.ruliweb.com/news/read/227627",
       "source": "루리웹"
-    },
-    {
-      "date": "2026-08-18",
-      "title": "월드 오브 워크래프트: 미드나이트 시즌 2",
-      "type": "업데이트",
-      "url": "https://www.wowhead.com/news/midnight-season-2-launches-august-18th-382287",
-      "source": "Wowhead"
     },
     {
       "date": "2026-08-19",
@@ -1753,6 +1842,34 @@
     },
     {
       "date": "2026-08-20",
+      "title": "도깨비의세계 사전예약",
+      "type": "오픈",
+      "url": "https://www.gamemeca.com/view.php?gid=1779126",
+      "source": "게임메카"
+    },
+    {
+      "date": "2026-08-20",
+      "title": "리그 오브 레전드 KeSPA컵 파이널 스테이지 개막",
+      "type": "오픈",
+      "url": "https://www.gamemeca.com/view.php?gid=1778974",
+      "source": "게임메카"
+    },
+    {
+      "date": "2026-08-20",
+      "title": "명조: 워더링 웨이브 3.6 (신규 공명자 청초·경연)",
+      "type": "업데이트",
+      "url": "https://www.gamemeca.com/view.php?gid=1778892",
+      "source": "게임메카"
+    },
+    {
+      "date": "2026-08-20",
+      "title": "언리얼 페스트 서울 2026 (~8/21)",
+      "type": "오픈",
+      "url": "https://www.inven.co.kr/webzine/calendar/",
+      "source": "인벤 게임캘린더"
+    },
+    {
+      "date": "2026-08-20",
       "title": "퍼스트 디센던트 하반기 업데이트",
       "type": "업데이트",
       "url": "https://www.khgames.co.kr/news/articleView.html?idxno=305986",
@@ -1760,21 +1877,14 @@
     },
     {
       "date": "2026-08-20",
-      "title": "Mortal Shell II",
-      "type": "정식출시",
-      "url": "https://www.inven.co.kr/webzine/calendar/",
-      "source": "인벤 게임캘린더"
-    },
-    {
-      "date": "2026-08-20",
-      "title": "STEINS;GATE RE:BOOT",
-      "type": "정식출시",
-      "url": "https://www.inven.co.kr/webzine/calendar/",
-      "source": "인벤 게임캘린더"
-    },
-    {
-      "date": "2026-08-20",
       "title": "Gallipoli",
+      "type": "정식출시",
+      "url": "https://www.inven.co.kr/webzine/calendar/",
+      "source": "인벤 게임캘린더"
+    },
+    {
+      "date": "2026-08-20",
+      "title": "Mortal Shell II",
       "type": "정식출시",
       "url": "https://www.inven.co.kr/webzine/calendar/",
       "source": "인벤 게임캘린더"
@@ -1788,10 +1898,17 @@
     },
     {
       "date": "2026-08-20",
-      "title": "명조: 워더링 웨이브 3.6 (신규 공명자 청초·경연)",
+      "title": "S.T.A.L.K.E.R. 2: Cost of Hope DLC + 업데이트 2.0 (UE 5.5)",
       "type": "업데이트",
-      "url": "https://www.gamemeca.com/view.php?gid=1778892",
-      "source": "게임메카"
+      "url": "https://www.thefpsreview.com/2026/08/03/s-t-a-l-k-e-r-2-cost-of-hope-paid-dlc-arrives-august-20-alongside-update-2-0-which-will-overhaul-the-game-engine-to-ue-5-5/",
+      "source": "The FPS Review"
+    },
+    {
+      "date": "2026-08-20",
+      "title": "STEINS;GATE RE:BOOT",
+      "type": "정식출시",
+      "url": "https://www.inven.co.kr/webzine/calendar/",
+      "source": "인벤 게임캘린더"
     },
     {
       "date": "2026-08-21",
@@ -1823,8 +1940,29 @@
     },
     {
       "date": "2026-08-25",
+      "title": "1666: Amsterdam (얼리 액세스)",
+      "type": "얼리엑세스",
+      "url": "https://www.invenglobal.com/articles/24615/1666-amsterdam-early-access-launch-on-august-25",
+      "source": "인벤 글로벌"
+    },
+    {
+      "date": "2026-08-25",
+      "title": "게임스컴 오프닝 나이트 라이브 2026",
+      "type": "오픈",
+      "url": "https://www.inven.co.kr/webzine/calendar/",
+      "source": "인벤 게임캘린더"
+    },
+    {
+      "date": "2026-08-25",
       "title": "Aliens: Fireteam Elite 2",
       "type": "정식출시",
+      "url": "https://www.inven.co.kr/webzine/calendar/",
+      "source": "인벤 게임캘린더"
+    },
+    {
+      "date": "2026-08-26",
+      "title": "게임스컴 2026 (~8/30)",
+      "type": "오픈",
       "url": "https://www.inven.co.kr/webzine/calendar/",
       "source": "인벤 게임캘린더"
     },
@@ -1843,29 +1981,8 @@
       "source": "게임메카"
     },
     {
-      "date": "2026-08-26",
-      "title": "게임스컴 2026 (~8/30)",
-      "type": "오픈",
-      "url": "https://www.inven.co.kr/webzine/calendar/",
-      "source": "인벤 게임캘린더"
-    },
-    {
-      "date": "2026-08-27",
-      "title": "Star Wars Zero Company",
-      "type": "정식출시",
-      "url": "https://www.rpgfan.com/2026/07/04/star-wars-zero-company-on-august-27th/",
-      "source": "RPGFan"
-    },
-    {
       "date": "2026-08-27",
       "title": "BRIGANDINE ABYSS",
-      "type": "정식출시",
-      "url": "https://www.inven.co.kr/webzine/calendar/",
-      "source": "인벤 게임캘린더"
-    },
-    {
-      "date": "2026-08-27",
-      "title": "METAL GEAR SOLID: MASTER COLLECTION Vol.2",
       "type": "정식출시",
       "url": "https://www.inven.co.kr/webzine/calendar/",
       "source": "인벤 게임캘린더"
@@ -1878,11 +1995,32 @@
       "source": "인벤 게임캘린더"
     },
     {
-      "date": "2026-08-28",
-      "title": "Resonance: A Plague Tale Legacy",
+      "date": "2026-08-27",
+      "title": "DK 온라인 하드코어 서버",
+      "type": "오픈",
+      "url": "https://www.gamemeca.com/view.php?gid=1779129",
+      "source": "게임메카"
+    },
+    {
+      "date": "2026-08-27",
+      "title": "METAL GEAR SOLID: MASTER COLLECTION Vol.2",
       "type": "정식출시",
       "url": "https://www.inven.co.kr/webzine/calendar/",
       "source": "인벤 게임캘린더"
+    },
+    {
+      "date": "2026-08-27",
+      "title": "Star Wars Zero Company",
+      "type": "정식출시",
+      "url": "https://www.rpgfan.com/2026/07/04/star-wars-zero-company-on-august-27th/",
+      "source": "RPGFan"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "엘든 링: 티니시드 에디션 (Nintendo Switch 2)",
+      "type": "정식출시",
+      "url": "https://en.bandainamcoent.eu/elden-ring/news/elden-ring-tarnished-edition-coming-nintendo-switch-2-august",
+      "source": "Bandai Namco"
     },
     {
       "date": "2026-08-28",
@@ -1893,10 +2031,17 @@
     },
     {
       "date": "2026-08-28",
-      "title": "엘든 링: 티니시드 에디션 (Nintendo Switch 2)",
+      "title": "CAPTAIN TSUBASA 2: WORLD FIGHTERS (PC)",
       "type": "정식출시",
-      "url": "https://en.bandainamcoent.eu/elden-ring/news/elden-ring-tarnished-edition-coming-nintendo-switch-2-august",
-      "source": "Bandai Namco"
+      "url": "https://www.inven.co.kr/webzine/calendar/",
+      "source": "인벤 게임캘린더"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Resonance: A Plague Tale Legacy",
+      "type": "정식출시",
+      "url": "https://www.inven.co.kr/webzine/calendar/",
+      "source": "인벤 게임캘린더"
     },
     {
       "date": "2026-09-03",
@@ -1907,10 +2052,10 @@
     },
     {
       "date": "2026-09-04",
-      "title": "Onimusha: Way of the Sword",
-      "type": "정식출시",
-      "url": "https://www.gematsu.com/2026/07/onimusha-way-of-the-sword-release-date-moved-up-to-september-4",
-      "source": "Gematsu"
+      "title": "웨이스트 더 폴른 클로즈드 알파 테스트",
+      "type": "CBT",
+      "url": "https://www.inven.co.kr/webzine/news/?news=319490",
+      "source": "인벤"
     },
     {
       "date": "2026-09-04",
@@ -1918,6 +2063,20 @@
       "type": "정식출시",
       "url": "https://newsroom.2k.com/news/2k-releases-nbar-2k27-gameplay-trailer-showcasing-nba-and-wnba-superstars",
       "source": "2K Newsroom"
+    },
+    {
+      "date": "2026-09-04",
+      "title": "Onimusha: Way of the Sword",
+      "type": "정식출시",
+      "url": "https://www.gematsu.com/2026/07/onimusha-way-of-the-sword-release-date-moved-up-to-september-4",
+      "source": "Gematsu"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "환세록 리메이크",
+      "type": "정식출시",
+      "url": "https://www.gamemeca.com/view.php?gid=1779139",
+      "source": "게임메카"
     },
     {
       "date": "2026-09-17",
@@ -1941,6 +2100,13 @@
       "source": "Gematsu"
     },
     {
+      "date": "2026-10-08",
+      "title": "아크 레이더스 대규모 업데이트",
+      "type": "업데이트",
+      "url": "https://www.inven.co.kr/webzine/news/?news=319523",
+      "source": "인벤"
+    },
+    {
       "date": "2026-10-24",
       "title": "콜 오브 듀티: 모던 워페어 4",
       "type": "정식출시",
@@ -1962,6 +2128,13 @@
       "source": "인벤"
     },
     {
+      "date": "2026-10-29",
+      "title": "팬텀 블레이드 제로 (Phantom Blade Zero)",
+      "type": "정식출시",
+      "url": "https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/?l=koreana",
+      "source": "Steam"
+    },
+    {
       "date": "2026-11-20",
       "title": "마법사의 밤 리마스터 (스마트폰판)",
       "type": "정식출시",
@@ -1974,89 +2147,12 @@
       "type": "정식출시",
       "url": "https://bbs.ruliweb.com/news/read/227699",
       "source": "루리웹"
-    },
-    {
-      "date": "2026-08-11",
-      "title": "Grounded 2 (PS5 얼리 액세스 + 'Into the Abyss' 업데이트)",
-      "type": "얼리엑세스",
-      "url": "https://grounded2.obsidian.net/news/grounded-2/grounded-2-is-coming-to-playstation-5",
-      "source": "옵시디언 공식"
-    },
-    {
-      "date": "2026-08-12",
-      "title": "오버워치 시즌 4 '부산의 영웅들' (신규 돌격 영웅 D.Mon)",
-      "type": "업데이트",
-      "url": "https://www.inven.co.kr/webzine/news/?news=319359",
-      "source": "인벤"
-    },
-    {
-      "date": "2026-08-25",
-      "title": "1666: Amsterdam (얼리 액세스)",
-      "type": "얼리엑세스",
-      "url": "https://www.invenglobal.com/articles/24615/1666-amsterdam-early-access-launch-on-august-25",
-      "source": "인벤 글로벌"
-    },
-    {
-      "date": "2026-08-20",
-      "title": "언리얼 페스트 서울 2026 (~8/21)",
-      "type": "오픈",
-      "url": "https://www.inven.co.kr/webzine/calendar/",
-      "source": "인벤 게임캘린더"
-    },
-    {
-      "date": "2026-08-20",
-      "title": "리그 오브 레전드 KeSPA컵 파이널 스테이지 개막",
-      "type": "오픈",
-      "url": "https://www.gamemeca.com/view.php?gid=1778974",
-      "source": "게임메카"
-    },
-    {
-      "date": "2026-08-25",
-      "title": "게임스컴 오프닝 나이트 라이브 2026",
-      "type": "오픈",
-      "url": "https://www.inven.co.kr/webzine/calendar/",
-      "source": "인벤 게임캘린더"
-    },
-    {
-      "date": "2026-08-28",
-      "title": "CAPTAIN TSUBASA 2: WORLD FIGHTERS (PC)",
-      "type": "정식출시",
-      "url": "https://www.inven.co.kr/webzine/calendar/",
-      "source": "인벤 게임캘린더"
-    },
-    {
-      "date": "2026-08-14",
-      "title": "부산인디커넥트페스티벌 2026 개막 (인디게임 332종)",
-      "type": "오픈",
-      "url": "https://www.gamemeca.com/view.php?gid=1779122",
-      "source": "게임메카"
-    },
-    {
-      "date": "2026-08-20",
-      "title": "S.T.A.L.K.E.R. 2: Cost of Hope DLC + 업데이트 2.0 (UE 5.5)",
-      "type": "업데이트",
-      "url": "https://www.thefpsreview.com/2026/08/03/s-t-a-l-k-e-r-2-cost-of-hope-paid-dlc-arrives-august-20-alongside-update-2-0-which-will-overhaul-the-game-engine-to-ue-5-5/",
-      "source": "The FPS Review"
-    },
-    {
-      "date": "2026-08-27",
-      "title": "DK 온라인 하드코어 서버",
-      "type": "오픈",
-      "url": "https://www.gamemeca.com/view.php?gid=1779129",
-      "source": "게임메카"
-    },
-    {
-      "date": "2026-09-04",
-      "title": "웨이스트 더 폴른 클로즈드 알파 테스트",
-      "type": "CBT",
-      "url": "https://www.inven.co.kr/webzine/news/?news=319490",
-      "source": "인벤"
     }
   ],
   "entries": [
     {
       "date": "2026-08-14",
-      "lede": "8월 13일 '헬 렛 루즈: 베트남'이 PC·PS5·Xbox 시리즈에 동시 출시되며 시리즈 최초로 완전 크로스플레이를 열었지만, 서버 대기열과 최적화 문제로 스팀 평가가 출시 첫날 '대체로 부정적'까지 떨어졌다가 '복합적'(49%)으로 회복하는 롤러코스터를 탔다. 국내에서는 넥슨이 2분기 매출 1조 1,390억 원으로 상반기 최대 실적을 새로 썼고, 부산에서는 인디게임 332개가 모인 BIC 2026이 개막했다. 해외에서는 슈퍼매시브 게임즈의 3년 내 세 번째 감원과 베데스다 앞 붉은 깃발 시위가 이어지며 업계 구조조정 국면이 계속되고 있다.",
+      "lede": "아직 출시도 안 한 '팬텀 블레이드 제로'가 8월 12일 예약 판매 개시 하루 만에 스팀 글로벌 매출 1위에 오르며, '검은 신화: 오공' 이후 중국산 싱글 패키지 게임의 글로벌 화력을 다시 확인시켰다. 국내에서는 넥슨이 2분기 매출 1조 1,390억 원으로 상반기 최대 실적을 새로 썼고, 부산에서는 인디게임 332개가 모인 BIC 2026이 개막했다. 8월 13일 출시된 '헬 렛 루즈: 베트남'은 서버 대기열 탓에 스팀 평가가 '대체로 부정적'까지 떨어졌다가 '복합적'(49%)으로 반등했고, 해외에서는 슈퍼매시브 게임즈의 3년 내 세 번째 감원과 베데스다 앞 붉은 깃발 시위로 구조조정 국면이 이어지고 있다.",
       "industry": [
         {
           "title": "[컨콜] 넥슨 2분기 매출 1조 1,390억, 메이플·아크 레이더스가 '쌍끌이'",
@@ -2066,11 +2162,25 @@
           "articleDate": "2026-08-13"
         },
         {
+          "title": "[스팀체크] 中 게임 기세 무섭네, 하루 만에 스팀 매출 1위",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319521",
+          "blurb": "S-GAME의 무협 액션 RPG '팬텀 블레이드 제로'가 8월 12일 예약 판매를 시작한 지 하루 만에 스팀 글로벌 매출 1위에 올랐다. 11분 분량의 예약 구매 트레일러가 함께 공개됐으며, 정식 출시는 10월 29일이다. 같은 기간 할인에 들어간 '검은 신화: 오공'도 판매량이 크게 뛰며 중국산 싱글 패키지 게임의 존재감이 차트 상단을 동시에 점령했다.",
+          "source": "인벤",
+          "articleDate": "2026-08-13"
+        },
+        {
           "title": "\"부진했던 던파 실적, '인력충원+AI'로 극복하겠다\"",
           "url": "https://www.gamemeca.com/view.php?gid=1779131",
           "blurb": "넥슨이 컨퍼런스콜에서 던전앤파이터 IP의 실적 부진에 대해 개발 인력 충원과 AI 기술 도입으로 대응하겠다고 밝혔다. 연내 모바일 방치형 RPG '던전앤파이터 키우기'를 선보이고, 내년에는 PC 2D 액션 RPG '던전앤파이터 클래식', '프로젝트 오버킬', '던전앤파이터: 아라드'를 순차 출시할 계획이다.",
           "source": "게임메카",
           "articleDate": "2026-08-13"
+        },
+        {
+          "title": "라인게임즈 'QUIET', 스팀 플레이 테스트 참가자 15만 돌파",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319539",
+          "blurb": "라인게임즈의 협동 코미디 호러 신작 'QUIET'가 스팀 플레이 테스트 참가자 15만 명을 넘어섰다. 시작 3일 만에 3만 명, 약 열흘 만에 15만 명을 기록했으며 참가자는 아시아·유럽·중남미에 고르게 분포했다. 지구에 불시착한 오리 외계인들이 집주인 할머니의 감시를 피해 탈출하는 설정으로, 싱글은 물론 최대 4인 협동을 지원한다.",
+          "source": "인벤",
+          "articleDate": "2026-08-14"
         },
         {
           "title": "슈퍼매시브 게임즈, 최대 75명 감원… 3년 내 세 번째",
@@ -2113,23 +2223,16 @@
           "blurb": "부산인디커넥트페스티벌(BIC) 2026이 8월 14일 개막한다. 역대 최다인 332개 인디게임이 출품되며, 오프라인 페스티벌은 8월 15일부터 17일까지 부산에서 열린다. 온라인 페스티벌은 8월 28일까지 이어진다.",
           "source": "게임메카",
           "articleDate": "2026-08-13"
-        },
-        {
-          "title": "[TGS 26] 스마일게이트, '미래시'와 '데드 어카운드' 출품",
-          "url": "https://www.gamemeca.com/view.php?gid=1779123",
-          "blurb": "스마일게이트가 도쿄게임쇼 2026에 신작 두 종을 출품한다고 밝혔다. 서브컬처 신작 '미래시'와 '데드 어카운드'를 현지 관람객 대상으로 선보이며 일본 시장 공략에 나선다.",
-          "source": "게임메카",
-          "articleDate": "2026-08-13"
-        },
-        {
-          "title": "아시안게임 e스포츠 국가대표 출정식, 25일 열린다",
-          "url": "https://www.gamemeca.com/view.php?gid=1779124",
-          "blurb": "2026 아시안게임 e스포츠 국가대표 출정식이 8월 25일 열린다. 대표팀은 출정식 이후 본선 무대에 나선다.",
-          "source": "게임메카",
-          "articleDate": "2026-08-13"
         }
       ],
       "games": [
+        {
+          "title": "견자단도 나온다! '팬텀 블레이드 제로' 예약 구매 트레일러 공개",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319418",
+          "blurb": "S-GAME의 무협 액션 RPG '팬텀 블레이드 제로'가 11분 분량의 예약 구매 트레일러를 공개했다. 배우 견자단이 모션캡처로 참여해 주인공 소울의 아버지 '모원'을 연기하며, 크리에이티브 컨설턴트로 3년간 무공 액션 전반을 총괄·검수했다. 국내 가격은 스탠다드 69,800원, 디럭스 79,800원이며 10월 29일 PS5·PC로 출시된다.",
+          "source": "인벤",
+          "articleDate": "2026-08-12"
+        },
         {
           "title": "'헬 렛 루즈: 베트남' 13일 출시, 시리즈 최초 완전 크로스플레이",
           "url": "https://www.techtimes.com/articles/323505/20260807/hell-let-loose-vietnam-launches-august-13-crossplay-pc-consoles.htm",
@@ -2145,6 +2248,34 @@
           "articleDate": "2026-08-13"
         },
         {
+          "title": "원작 장면 그대로, 전략 신작 '죠죠의 기묘한 모험: 골든 스피릿' 출시",
+          "url": "https://www.gamemeca.com/view.php?gid=1779142",
+          "blurb": "완다시네마스게임즈가 8월 13일 모바일 전략 어드벤처 '죠죠의 기묘한 모험: 골든 스피릿'을 출시했다. 애니메이션 공식 라이선스 기반으로 '팬텀 블러드'부터 '스톤 오션'까지 50명이 넘는 캐릭터를 수집해 팀을 꾸리는 구조이며, 3D 그래픽과 Live2D로 원작 대표 장면을 재현했다. 출시 기념 특별 소환과 캐릭터 스토리 이벤트, 길드·친구 기능이 함께 제공된다.",
+          "source": "게임메카",
+          "articleDate": "2026-08-14"
+        },
+        {
+          "title": "원작 감성 살렸다, '환세록 리메이크' 9월 10일 출시 확정",
+          "url": "https://www.gamemeca.com/view.php?gid=1779139",
+          "blurb": "1998년작 전략 RPG를 되살린 '환세록 리메이크'가 9월 10일 PC 스팀으로 출시된다. 유저조이가 개발·유통하며 파노스옹 대륙을 무대로 7대 세력의 갈등과 주인공 레오나드의 서사를 그린다. 한국어·영어·일본어·중국어 번체/간체 등 5개 언어를 지원하며, 앞서 공개된 스팀 데모는 화제성 무료 게임 목록에 오른 바 있다.",
+          "source": "게임메카",
+          "articleDate": "2026-08-14"
+        },
+        {
+          "title": "추억 속 스타일리쉬 액션, '건즈' 스팀 글로벌 서비스 개시",
+          "url": "https://www.gamemeca.com/view.php?gid=1779141",
+          "blurb": "3인칭 스타일리시 액션 온라인 게임 '건즈'가 스팀을 통해 글로벌 서비스를 시작했다. 벽을 타고 공중을 누비는 특유의 이동 액션으로 국내외에서 컬트적 인기를 얻었던 타이틀로, 스팀 플랫폼을 창구로 삼아 해외 이용자 유입을 노린다.",
+          "source": "게임메카",
+          "articleDate": "2026-08-14"
+        },
+        {
+          "title": "'아크 레이더스', 출시 후 최대 규모 업데이트 10월 8일 적용",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319523",
+          "blurb": "넥슨의 익스트랙션 슈터 '아크 레이더스'가 출시 이후 최대 규모의 업데이트를 10월 8일 적용한다고 밝혔다. 2분기 넥슨 실적을 메이플스토리와 함께 견인한 타이틀로, 이번 업데이트가 하반기 동시접속 유지의 분기점이 될 전망이다.",
+          "source": "인벤",
+          "articleDate": "2026-08-13"
+        },
+        {
           "title": "'더스크페이드' 13일 출시, 킹덤 하츠에 바치는 클록펑크 액션",
           "url": "https://www.thegamer.com/duskfade-review-kingdom-hearts-inspired/",
           "blurb": "위어드 벨루가가 개발하고 파이어샤인 게임즈가 유통하는 액션 어드벤처 '더스크페이드'가 8월 13일 PC·PS5·Xbox 시리즈·스위치 2로 출시됐다. 시계태엽 세계관에서 소년 지리안이 붙잡힌 누이 알리라를 구하는 여정을 그리며, 캐릭터 액션과 3D 플랫포밍을 결합했다. 연출과 사운드에는 호평이 몰렸지만 카메라 난조, 반복적인 전투, 지도 부재 등이 지적되며 평가가 갈렸다.",
@@ -2152,46 +2283,11 @@
           "articleDate": "2026-08-13"
         },
         {
-          "title": "'백승훈 사단' 로얄크로우, 익스트랙션 슈터 '웨이스트 더 폴른' 공개",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319490",
-          "blurb": "백승훈 대표가 이끄는 로얄크로우가 신작 익스트랙션 슈터 '웨이스트 더 폴른'을 공개했다. 9월 4일부터 클로즈드 알파 테스트를 시작한다.",
+          "title": "'배틀그라운드', 웰치스와 여름 시즌 한정 컬래버레이션",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319540",
+          "blurb": "크래프톤의 '배틀그라운드'가 음료 브랜드 웰치스와 여름 시즌 한정 컬래버레이션을 진행한다. 게임 내 아이템과 오프라인 프로모션을 결합한 형태로, 여름 성수기 신규·복귀 유저 유입을 노린 브랜드 협업이다.",
           "source": "인벤",
-          "articleDate": "2026-08-13"
-        },
-        {
-          "title": "한국풍 MMORPG '도깨비의세계', 20일 사전예약 시작",
-          "url": "https://www.gamemeca.com/view.php?gid=1779126",
-          "blurb": "한국 전통 설화를 소재로 한 MMORPG '도깨비의세계'가 8월 20일 사전예약을 시작한다. 도깨비를 비롯한 한국풍 세계관과 캐릭터를 전면에 내세운 작품이다.",
-          "source": "게임메카",
-          "articleDate": "2026-08-13"
-        },
-        {
-          "title": "직업 상위에 보상 제공, 'DK 온라인' 하드코어 서버 27일 오픈",
-          "url": "https://www.gamemeca.com/view.php?gid=1779129",
-          "blurb": "'DK 온라인'이 8월 27일 하드코어 서버를 연다. 직업별 상위 랭커에게 보상을 지급하는 경쟁 구조를 앞세워 복귀·신규 유저 유입을 노린다.",
-          "source": "게임메카",
-          "articleDate": "2026-08-13"
-        },
-        {
-          "title": "방패로 공격한다, '그랜드체이스 클래식'에 신규 캐릭터 '에레브' 등장",
-          "url": "https://www.gamemeca.com/view.php?gid=1779128",
-          "blurb": "'그랜드체이스 클래식'에 방패를 무기로 쓰는 신규 캐릭터 '에레브'가 추가된다. 방어 도구를 공격 수단으로 전환한 콘셉트로 기존 캐릭터들과 차별화된 전투 스타일을 제공한다.",
-          "source": "게임메카",
-          "articleDate": "2026-08-13"
-        },
-        {
-          "title": "25주년 맞이한 '라그하임', 71일간 축하 이벤트",
-          "url": "https://www.gamemeca.com/view.php?gid=1779120",
-          "blurb": "서비스 25주년을 맞은 온라인 게임 '라그하임'이 71일에 걸친 대규모 기념 이벤트를 진행한다. 장기 서비스 타이틀의 리텐션 확보 사례로 참고할 만하다.",
-          "source": "게임메카",
-          "articleDate": "2026-08-13"
-        },
-        {
-          "title": "게임스컴 2026 오프닝 나이트 라이브, 8월 25일 개최 확정",
-          "url": "https://www.gamesradar.com/games/events-conferences/gamescom-2026-schedule/",
-          "blurb": "제프 케일리가 진행하는 게임스컴 오프닝 나이트 라이브가 8월 25일 열린다. '파이널 판타지 7 리벨레이션'(하마구치 나오키 디렉터 출연), '위쳐 3: 와일드 헌트 - 송즈 오브 더 패스트' 확장팩, 'METRO 2039' 등이 출연 확정됐다. 본 행사인 게임스컴 2026은 8월 26일부터 30일까지 독일 쾰른에서 열린다.",
-          "source": "GamesRadar+",
-          "articleDate": "2026-08-12"
+          "articleDate": "2026-08-14"
         },
         {
           "title": "'S.T.A.L.K.E.R. 2: 코스트 오브 호프' 8월 20일 출시… 무료 UE 5.5 업그레이드 동반",
