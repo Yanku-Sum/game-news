@@ -2,6 +2,46 @@
   "pagesUrl": "https://yanku-sum.github.io/game-news/",
   "analyses": [
     {
+      "date": "2026-08-20",
+      "game": "모탈 쉘 II (Mortal Shell II)",
+      "hook": "8월 20일 전 세계 정식 출시된 콜드 시메트리의 소울라이크 속편으로, 17일 선행 플레이 5시간 만에 스팀 동시접속 1만 9,242명을 찍어 전작 최고치의 10배를 넘겼다. 오픈크리틱 85점·스팀 88% '매우 긍정적'에 미국 스팀 판매 1위까지 오르며 '스태미나 없는 소울라이크'라는 설계 논쟁을 업계 전면에 올려놨다.",
+      "coreLoop": "압축형 오픈월드를 돌아다니며 → 흩어진 '쉘(Shell)'과 무기, 타르스톤(강화 재화)을 찾고 → 60개 이상의 던전과 보스에서 그 조합을 시험하고 → 휴식 지점에서 쉘·실(Seal)·무기를 갈아끼워 다시 나가는 순환이다. 핵심은 '캐릭터를 키우는 루프'가 아니라 '빌드를 바꿔 끼우는 루프'라는 점이다. 쉘은 잊힌 전사의 잠든 육체를 씌우는 개념으로 8종이 있고 각각 고유 능력과 스탯 성향을 가지며 휴식 지점에서 교체 가능하다. 전작과 결정적으로 다른 지점은 스태미나 바 제거다. 공격·회피에 자원 관리가 붙지 않으니 '치고 빠지며 게이지를 회복하는' 소울라이크 특유의 정지 구간이 사라지고, 유저는 적과 계속 붙어 있도록 유도된다.",
+      "growthCurve": "성장 축이 레벨 숫자가 아니라 '해금된 선택지의 수'에 걸려 있다. 쉘 8종·무기·실이 각각 월드 곳곳에 배치돼 있어, 탐험량이 곧 빌드 폭이 되고 빌드 폭이 곧 난이도 완화가 된다. 난이도 자체도 슬라이더가 아니라 아이템으로 구현했다 — '슬레이어 실'을 끼면 리포스트 처형으로 체력을 회복해 실질적으로 쉬워지지만 일부 보상이 잠기고, 반대로 '글룸바운드 플레임'을 켜면 태양이 사라진 영구 야간 상태가 되어 적이 강해지는 대신 전용 이벤트·NPC·던전·보물이 열린다. 난이도를 낮추면 보상이 줄고 높이면 콘텐츠가 늘어나는 대칭 구조라, 하향 선택에 죄책감을, 상향 선택에 명분을 붙여 유저를 위쪽으로 유인한다. 플레이타임은 30~40시간대로 잡혀 있다.",
+      "funMechanics": "① 스태미나 삭제로 만든 '중단 없는 교전' — 자원 게이지를 보지 않아도 되니 시선과 판단이 전부 적의 모션에 쏠리고, 소울라이크의 학습형 쾌감이 관리 부담 없이 순수하게 남는다. ② '하든(Harden)' — 공격 모션 도중에 몸을 석화시켜 피격을 흡수하고, 흡수가 끝나면 하던 스윙을 그대로 이어간다. 방패처럼 공격을 포기하는 방어가 아니라 '공격을 유지한 채 맞아주는' 방어라, 성공했을 때 상대의 공격 타이밍을 통째로 훔쳐낸 듯한 우월감이 발생한다. ③ 실(Seal) 시스템 — 막기·패링·하든처럼 보통은 기본 조작으로 주어지는 기능을 상호 배타적 선택지로 쪼갰다. 어떤 실은 패링 판정이 넉넉한 대신 브레이크 대미지가 낮고, 어떤 실은 판정 창을 극단적으로 좁히는 대신 완벽한 읽기에 큰 보상을 준다. '내 방어 문법을 내가 고른다'는 감각이 캐릭터 빌드를 넘어 조작 감각 자체의 커스터마이즈로 확장된다.",
+      "benchmarks": "① 장르 관습을 하나 통째로 제거하고 그 공백을 다른 재미로 메우기 — 스태미나는 밸런싱 장치이자 페이싱 장치였는데, 이를 없애고 대신 '실 선택'과 '하든 타이밍'으로 리스크를 재배치했다. 우리 게임에서도 '당연히 있어야 한다고 여겨온 자원 게이지'가 실제로 어떤 기능을 하는지, 그 기능을 다른 장치로 대체 가능한지 점검해볼 만하다. ② 난이도를 옵션 메뉴가 아니라 인게임 아이템으로 노출하기 — 하향에는 보상 페널티, 상향에는 전용 콘텐츠라는 비대칭 보상을 붙여 난이도 선택 자체를 플레이 동기로 전환했다. 접근성과 하드코어 정체성을 동시에 잡아야 하는 액션 게임 설계에 그대로 이식 가능한 구조다. ③ 소규모 스튜디오의 '스코프 압축' 전략 — 광활한 오픈월드 대신 촘촘히 연결된 컴팩트 오픈월드와 60개 소형 던전으로 밀도를 택했다. 인력이 제한된 팀이 AAA와 같은 매대에 서기 위한 현실적 해법. ④ 선행 플레이를 프리미엄 에디션의 핵심 가치로 쓰기 — 72시간 선행이 발매 전 화제성과 초기 동접 스파이크를 만들어 정식 출시일의 차트 순위를 밀어 올렸다.",
+      "businessModel": "완전 매절형 패키지. 표준판 49.99달러(€49.99/£39.99), 디바우트 에디션 59.99달러(8종 쉘 전용 '옵시디언 스킨 세트' + 최대 72시간 선행 플레이), PS5 실물 리비어드 에디션 69.99달러(아트북·스틸케이스·아트 프린트). 라이브서비스형 과금이나 시즌패스 없이, 30~40시간 분량을 49.99달러로 묶어 AAA(69.99달러) 대비 가격 경쟁력을 전면에 내세웠다. 퍼블리셔는 '발라트로'로 알려진 플레이스택으로, 인디·중견 규모 타이틀을 글로벌 유통하는 포지션이다. 프리미엄 에디션의 차별 요소를 '스킨 + 조기 접근'으로 한정해 게임플레이 유불리를 만들지 않은 점도 리뷰 반발을 피한 선택이다.",
+      "onboarding": "손잡아주기를 거의 하지 않는다. 튜토리얼 구간을 길게 두지 않고 곧장 강한 적과 맞닥뜨리게 하며, 시스템 이해는 아이템을 주워 실험하는 과정에서 자연스럽게 쌓이도록 설계했다. 다만 진입 장벽을 방치하지는 않았고, '쉬운 길'을 옵션 메뉴가 아니라 월드 안의 습득 가능한 오브젝트로 배치해 유저가 필요할 때 스스로 찾아 쓰도록 했다. 스태미나 관리가 빠진 덕에 초심자가 동시에 신경 써야 할 정보량 자체가 줄어든 것도 실질적인 온보딩 개선이다. 반대급부로 초반에는 무엇을 해야 하는지 안내가 부족하다는 평도 함께 나온다.",
+      "targetUser": "1차 타겟은 엘든 링·다크 소울 이후 소울라이크를 여러 편 소화한 코어 액션 유저다. 다만 스태미나 삭제와 아이템형 난이도 조절로 '소울라이크는 해보고 싶은데 자원 관리와 사망 반복이 부담스러운' 준코어층까지 흡수 가능한 폭을 열었다. 포지셔닝은 명확하다 — 인왕 3·팬텀 블레이드 제로 같은 대형 액션 타이틀이 몰린 2026년 하반기에, 69.99달러 AAA가 아닌 49.99달러 중가 소울라이크로 가격대를 비워 들어갔고, 차별점은 '스태미나 없는 전투 리듬'이라는 한 문장으로 요약 가능한 훅이다. 전작 인지도(누적 판매·게임패스 노출)를 발판 삼되, 규모를 10배 키워 속편 프리미엄을 회수하는 구조다.",
+      "community": "협동·PvP 같은 직접 소셜 기능보다 '발견의 공유'가 커뮤니티 동력이다. 60개 이상의 던전, 흩어진 8종 쉘, 실 조합, 글룸바운드 플레임 야간 모드 전용 이벤트처럼 안내 없이 숨겨둔 요소가 많아 공략 위키·커뮤니티 정보 교환이 자연스럽게 발생한다. 실제로 출시 전후로 페럴라이프 위키·Game8 등에 난이도·빌드 가이드가 빠르게 축적됐다. 개발사는 정식 출시 전 플레이테스트와 오픈 베타를 별도 스팀 앱으로 돌려 피드백을 받았고, 선행 플레이 기간을 사실상 대규모 공개 검증 구간으로 활용했다. 스팀 리뷰(88% 매우 긍정적)와 오픈크리틱 점수가 출시 당일 마케팅 소재로 곧장 순환되는 구조도 소규모 팀의 전형적인 커뮤니티 레버리지다.",
+      "links": [
+        {
+          "title": "Mortal Shell 2 Is A Fresh And Exciting Shake Up Of The Souls-like Formula",
+          "url": "https://www.gamespot.com/reviews/mortal-shell-2-is-a-fresh-and-exciting-shake-up-of-the-souls-like-formula/",
+          "source": "GameSpot"
+        },
+        {
+          "title": "Mortal Shell II Advanced Access Sees 20,000 Concurrent Players Ahead of Launch",
+          "url": "https://www.techpowerup.com/351668/mortal-shell-ii-advanced-access-sees-20-000-concurrent-players-ahead-of-launch",
+          "source": "TechPowerUp"
+        },
+        {
+          "title": "Hyped PS5 Soulslike Mortal Shell 2 Has an Easy Difficulty Mode, But There's a Catch",
+          "url": "https://www.pushsquare.com/news/2026/08/hyped-ps5-soulslike-mortal-shell-2-has-an-easy-difficulty-mode-but-theres-a-catch",
+          "source": "Push Square"
+        },
+        {
+          "title": "Mortal Shell II Launches to 85 on OpenCritic as Stamina-Free Combat Reshapes Soulslike Design",
+          "url": "https://www.techtimes.com/articles/324767/20260817/mortal-shell-ii-launches-85-opencritic-stamina-free-combat-reshapes-soulslike-design.htm",
+          "source": "TechTimes"
+        },
+        {
+          "title": "Mortal Shell II — Playstack 공식 페이지",
+          "url": "https://www.playstack.com/games/mortalshell2/",
+          "source": "Playstack"
+        }
+      ]
+    },
+    {
       "date": "2026-08-19",
       "game": "인왕 3 (Nioh 3)",
       "hook": "8월 19일 첫 유료 DLC '게이안 지옥변(Hell Rising)'이 출시되며 시리즈 최초의 방패 무기와 3단계 난이도 '깨달음의 길'이 추가됐다. 2월 출시 후 2주 만에 100만 장을 돌파해 시리즈 최속 기록을 세운 작품이 첫 대형 콘텐츠 사이클에 들어간 시점이라, 소울라이크 라이브 운영의 표본으로 볼 만하다.",
@@ -1852,6 +1892,13 @@
     },
     {
       "date": "2026-08-15",
+      "title": "그날의 신문",
+      "type": "정식출시",
+      "url": "https://www.inven.co.kr/webzine/calendar/",
+      "source": "인벤 게임캘린더"
+    },
+    {
+      "date": "2026-08-15",
       "title": "부산인디커넥트페스티벌 2026 오프라인 페스티벌 (~8/17)",
       "type": "오픈",
       "url": "https://www.inven.co.kr/webzine/calendar/",
@@ -1943,6 +1990,27 @@
     },
     {
       "date": "2026-08-19",
+      "title": "네버니스 투 에버니스 1.3 '달안개 속에서 떠오르다'",
+      "type": "업데이트",
+      "url": "https://www.gematsu.com/2026/08/neverness-to-everness-version-1-3-update-rising-from-the-moonlight-fog-launches-august-19",
+      "source": "Gematsu"
+    },
+    {
+      "date": "2026-08-19",
+      "title": "뱀피르 1주년 '레드문 페스타' (~9/16)",
+      "type": "업데이트",
+      "url": "https://www.gamemeca.com/view.php?gid=1779244",
+      "source": "게임메카"
+    },
+    {
+      "date": "2026-08-19",
+      "title": "서브노티카 2 얼리 액세스 2차 업데이트 (근접 보이스 챗·부활 시스템)",
+      "type": "업데이트",
+      "url": "https://www.pcgamer.com/games/survival-crafting/subnautica-2s-latest-1-2-update-is-friend-focused-finally-adding-the-key-mechanic-to-any-great-multiplayer-game/",
+      "source": "PC Gamer"
+    },
+    {
+      "date": "2026-08-19",
       "title": "인왕 3 DLC 제1탄 '게이안 지옥변'",
       "type": "업데이트",
       "url": "https://www.koeitecmoamerica.com/news/travel-to-the-keian-era-with-hell-rising-the-first-dlc-for-nioh-3-coming-aug-19-2026/",
@@ -1954,13 +2022,6 @@
       "type": "CBT",
       "url": "https://www.inven.co.kr/webzine/calendar/",
       "source": "인벤 게임캘린더"
-    },
-    {
-      "date": "2026-08-19",
-      "title": "뱀피르 1주년 '레드문 페스타' (~9/16)",
-      "type": "업데이트",
-      "url": "https://www.gamemeca.com/view.php?gid=1779244",
-      "source": "게임메카"
     },
     {
       "date": "2026-08-20",
@@ -1992,6 +2053,20 @@
     },
     {
       "date": "2026-08-20",
+      "title": "미르의 전설 2 '승룡' 서버 오픈",
+      "type": "오픈",
+      "url": "https://www.gamemeca.com/view.php?gid=1779351",
+      "source": "게임메카"
+    },
+    {
+      "date": "2026-08-20",
+      "title": "아틀란티카 온라인 × 라스트오리진 컬래버레이션",
+      "type": "업데이트",
+      "url": "https://www.inven.co.kr/webzine/news/?news=319702",
+      "source": "인벤"
+    },
+    {
+      "date": "2026-08-20",
       "title": "언리얼 페스트 서울 2026 (~8/21)",
       "type": "오픈",
       "url": "https://www.inven.co.kr/webzine/calendar/",
@@ -1999,10 +2074,24 @@
     },
     {
       "date": "2026-08-20",
+      "title": "철권 8 신규 캐릭터 '밥' (시즌 패스 선공개)",
+      "type": "업데이트",
+      "url": "https://www.inven.co.kr/webzine/news/?news=319546",
+      "source": "인벤"
+    },
+    {
+      "date": "2026-08-20",
       "title": "퍼스트 디센던트 하반기 업데이트",
       "type": "업데이트",
       "url": "https://www.khgames.co.kr/news/articleView.html?idxno=305986",
       "source": "경향게임스"
+    },
+    {
+      "date": "2026-08-20",
+      "title": "피드 더 스코치팟 (Feed the Scorchpot)",
+      "type": "정식출시",
+      "url": "https://www.inven.co.kr/webzine/calendar/",
+      "source": "인벤 게임캘린더"
     },
     {
       "date": "2026-08-20",
@@ -2041,10 +2130,10 @@
     },
     {
       "date": "2026-08-20",
-      "title": "피드 더 스코치팟 (Feed the Scorchpot)",
+      "title": "The Witch's Bakery",
       "type": "정식출시",
-      "url": "https://www.inven.co.kr/webzine/calendar/",
-      "source": "인벤 게임캘린더"
+      "url": "https://www.gamespot.com/articles/the-biggest-new-game-releases-of-august-2026/",
+      "source": "GameSpot"
     },
     {
       "date": "2026-08-21",
@@ -2328,6 +2417,146 @@
     }
   ],
   "entries": [
+    {
+      "date": "2026-08-20",
+      "lede": "콜드 시메트리의 소울라이크 속편 '모탈 쉘 II'가 8월 20일 전 세계 정식 출시됐다. 17일 시작된 선행 플레이만으로 스팀 최고 동시접속 1만 9,242명을 찍어 전작 최고치의 10배를 넘겼고, 오픈크리틱 85점으로 평단도 호평했다. 같은 날 'S.T.A.L.K.E.R. 2'는 유료 확장팩 '코스트 오브 호프'와 함께 언리얼 엔진 5.5로 갈아엎은 무료 업데이트 2.0을 배포했다. 업계에서는 블룸버그가 게릴라 게임즈의 라이브서비스 신작 '호라이즌 헌터스 개더링'이 부정적 플레이테스트 반응 이후 협동 게임으로 리부트 중이라고 보도해 소니의 라이브서비스 전략에 다시 물음표가 붙었다. 국내에서는 카카오게임즈 '도깨비의세계'가 이날 사전등록을 시작했고, 게임스컴 2026(8/26~30) 개막이 일주일 앞으로 다가왔다.",
+      "industry": [
+        {
+          "title": "Bloomberg: Horizon Hunters Gathering being rebooted following negative player feedback",
+          "url": "https://www.gematsu.com/2026/08/bloomberg-horizon-hunters-gathering-being-rebooted-following-negative-player-feedback",
+          "blurb": "블룸버그 보도에 따르면 소니 게릴라 게임즈가 온라인 액션 신작 '호라이즌 헌터스 개더링'을 6월부터 리부트 중이다. 라이브서비스 요소를 걷어내고 스토리 모드가 있는 전통적 협동 멀티플레이로 규모를 크게 축소하는 방향이며, 스튜디오는 12월까지 경영진을 설득할 성과를 내야 하는 상황으로 전해졌다. 차기 싱글플레이 '호라이즌 3'는 소수 인원만 붙어 있어 출시까지 수년이 남았다는 언급도 함께 나왔다.",
+          "source": "Gematsu",
+          "articleDate": "2026-08-19"
+        },
+        {
+          "title": "스팀 유저, 플레이 타임 200시간 넘으면 부정적 리뷰 늘어나",
+          "url": "https://www.gamemeca.com/view.php?gid=1779303",
+          "blurb": "스팀 리뷰를 분석한 연구에서 플레이 타임이 200시간을 넘어가면 오히려 부정적 리뷰 비율이 늘어난다는 결과가 나왔다. 멀티플레이 게임일수록, 유료 게임일수록 이런 '애증형' 리뷰가 많았다. 리뷰 지표를 품질 대리 지표로 쓰는 라이브 서비스 운영 입장에서는, 코어 유저의 장기 이탈 신호와 단순 불만을 구분해 읽어야 한다는 점을 시사한다.",
+          "source": "게임메카",
+          "articleDate": "2026-08-19"
+        },
+        {
+          "title": "[순위분석] 넥슨 이전 후, 서든과 배그 제친 오버워치",
+          "url": "https://www.gamemeca.com/view.php?gid=1779298",
+          "blurb": "넥슨이 국내 PC방 서비스를 맡은 뒤 '오버워치'가 서든어택과 배틀그라운드를 제치고 순위를 끌어올렸다. 8월 12일 국내 서비스 개시와 시즌 4 '부산의 영웅들' 업데이트가 겹친 효과로, 퍼블리셔 이전이 PC방 점유율에 실제로 얼마나 작동하는지 보여주는 사례다.",
+          "source": "게임메카",
+          "articleDate": "2026-08-19"
+        },
+        {
+          "title": "[8월 20일 간추린 뉴스] 스토커2 신규 확장팩 '코스트 오브 호프' 출시",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319687",
+          "blurb": "인벤이 정리한 8월 20일 주요 소식 모음. S.T.A.L.K.E.R. 2 유료 확장팩 '코스트 오브 호프' 출시가 헤드라인으로 다뤄졌고, 국내외 신작·업데이트 소식이 함께 묶였다.",
+          "source": "인벤",
+          "articleDate": "2026-08-20"
+        },
+        {
+          "title": "판교서 개최되는 GXG 2026, 게임문화 확장 협업 공개",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319700",
+          "blurb": "판교에서 열리는 게임문화 행사 GXG 2026이 협업 라인업을 공개했다. 게임을 전시·공연·교육 등 인접 영역과 묶어 확장하는 시도로, 국내 게임 IP의 문화 콘텐츠화 흐름을 보여준다.",
+          "source": "인벤",
+          "articleDate": "2026-08-20"
+        },
+        {
+          "title": "한국게임산업협회·경콘진, 건전 게임문화 조성에 맞손",
+          "url": "https://www.gamemeca.com/view.php?gid=1779299",
+          "blurb": "한국게임산업협회와 경기콘텐츠진흥원이 건전 게임문화 조성을 위한 협력에 나섰다. 과몰입 예방과 이용자 보호 관련 공동 사업이 골자로, 확률형 아이템 규제 이후 이어지는 자율규제·이용자 신뢰 회복 기조의 연장선에 있다.",
+          "source": "게임메카",
+          "articleDate": "2026-08-19"
+        },
+        {
+          "title": "넵튠 강율빈 대표, 인도 에이펙스 서밋 2026서 발표",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319696",
+          "blurb": "넵튠 강율빈 대표가 인도에서 열리는 미디어·콘텐츠 서밋에서 발표자로 나선다. 인도 모바일 게임 시장이 유저 규모 대비 과금 전환이 낮은 시장으로 꼽혀 온 만큼, 국내 게임사의 신흥 시장 접근 전략을 가늠할 수 있는 자리다.",
+          "source": "인벤",
+          "articleDate": "2026-08-20"
+        },
+        {
+          "title": "더코브, 레드브릭하우스와 '배드애스가르드' 글로벌 계약",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319684",
+          "blurb": "더코브가 레드브릭하우스와 '배드애스가르드'의 글로벌 서비스 계약을 체결했다. 국내 중소 개발사가 퍼블리싱 파트너를 통해 해외로 나가는 전형적인 구조로, 신작 파이프라인이 얇아진 중견 시장에서 계속 나오는 형태다.",
+          "source": "인벤",
+          "articleDate": "2026-08-19"
+        },
+        {
+          "title": "Gamescom 2026 schedule: All of the dates, times, and where to watch the showcases",
+          "url": "https://www.gamesradar.com/games/events-conferences/gamescom-2026-schedule/",
+          "blurb": "게임스컴 2026이 8월 26~30일 독일 쾰른에서 열린다. 전야제 오프닝 나이트 라이브는 25일 현지 저녁(한국시간 26일 새벽) 게프 케일리·이피 데포르테르 진행으로 시작된다. 반다이남코·엑스박스·닌텐도·크래프톤·넷이즈·유비소프트·세가·호요버스 등이 파트너로 참여하며, 엔씨는 ONL에서 '아이온2'·'신더시티'·'프로젝트 본파이어'를 선보인다.",
+          "source": "GamesRadar+"
+        }
+      ],
+      "games": [
+        {
+          "title": "Mortal Shell 2 Is A Fresh And Exciting Shake Up Of The Souls-like Formula",
+          "url": "https://www.gamespot.com/reviews/mortal-shell-2-is-a-fresh-and-exciting-shake-up-of-the-souls-like-formula/",
+          "blurb": "콜드 시메트리의 '모탈 쉘 II'가 8월 20일 PC·PS5·Xbox 시리즈로 정식 출시됐다. 데몬즈 소울 이래 소울라이크의 기본 문법이던 스태미나 바를 통째로 들어내 전투 리듬을 바꿨고, 8종의 '쉘'(직업 역할)과 방어 방식을 택일하는 '실(Seal)' 시스템, 60개가 넘는 던전이 깔린 압축형 오픈월드를 얹었다. 표준판 49.99달러.",
+          "source": "GameSpot",
+          "articleDate": "2026-08-17"
+        },
+        {
+          "title": "Mortal Shell II Advanced Access Sees 20,000 Concurrent Players Ahead of Launch",
+          "url": "https://www.techpowerup.com/351668/mortal-shell-ii-advanced-access-sees-20-000-concurrent-players-ahead-of-launch",
+          "blurb": "8월 17일 시작된 디바우트 에디션 선행 플레이에서 5시간 만에 스팀 최고 동시접속 1만 9,242명을 기록했다. 전작 최고 동접의 10배가 넘는 수치이며, 콘솔을 합치면 2만 명을 넘어선다. 스팀 최고 판매 제품 차트에서도 미국 1위, 글로벌 매출 2위에 올랐고 초기 리뷰는 88% '매우 긍정적'이었다.",
+          "source": "TechPowerUp",
+          "articleDate": "2026-08-18"
+        },
+        {
+          "title": "Cost of Hope & Update 2.0 — All You Need to Know",
+          "url": "https://www.stalker2.com/news/cost-of-hope-update-2-0-everything-to-know",
+          "blurb": "'S.T.A.L.K.E.R. 2: 하트 오브 초르노빌'의 유료 확장팩 '코스트 오브 호프'가 8월 20일 출시됐다. 스키프의 이야기를 이어가며 듀티와 프리덤의 분쟁을 배경으로 '아이언 포레스트'와 '체르노빌 원자력 발전소' 두 개 대형 지역을 추가한다. 같은 날 모든 본편 소유자에게 무료 배포되는 업데이트 2.0은 엔진을 언리얼 엔진 5.1에서 5.5.4로 올리고 그래픽·AI·난이도·편의성을 대폭 손봤다.",
+          "source": "S.T.A.L.K.E.R. 2 공식",
+          "articleDate": "2026-08-17"
+        },
+        {
+          "title": "Subnautica 2's latest 1.2 update is friend focused—finally adding the key mechanic to any great multiplayer game",
+          "url": "https://www.pcgamer.com/games/survival-crafting/subnautica-2s-latest-1-2-update-is-friend-focused-finally-adding-the-key-mechanic-to-any-great-multiplayer-game/",
+          "blurb": "언노운 월즈가 8월 19일 '서브노티카 2' 얼리 액세스 두 번째 대형 업데이트를 배포했다. 거리에 따라 음량이 달라지는 근접(프록시미티) 보이스 챗이 핵심이고, 체력이 0이 되면 즉사 대신 쓰러진 상태로 전환돼 동료가 살릴 수 있는 부활 시스템, 감정 표현, 동료 인벤토리 직접 접근을 통한 자원 전달이 추가됐다. 스튜디오는 해양 정화 단체 오션 클린업에 10만 달러 기부도 함께 발표했다.",
+          "source": "PC Gamer",
+          "articleDate": "2026-08-19"
+        },
+        {
+          "title": "한국풍 MMORPG, 도깨비의세계 20일 사전예약 시작",
+          "url": "https://www.gamemeca.com/view.php?gid=1779126",
+          "blurb": "카카오게임즈가 슈퍼캣이 개발 중인 2.5D MMORPG '도깨비의세계'의 사전등록을 8월 20일 시작했다. 네이버 웹소설 '멸귀수도전'이 원작이며 한국적 세계관과 도트 그래픽, 스킬덱 빌딩 시스템, 문파 중심 협력 콘텐츠를 내세운다. 배우 박지훈을 광고 모델로 기용했고 9월 쇼케이스 후 10월 정식 출시가 예정돼 있다.",
+          "source": "게임메카",
+          "articleDate": "2026-08-13"
+        },
+        {
+          "title": "인왕 3 첫 DLC '게이안 지옥변' 출시",
+          "url": "https://www.gamemeca.com/view.php?gid=1779296",
+          "blurb": "팀 닌자 '인왕 3'의 첫 유료 DLC '게이안 지옥변'이 8월 19일 출시됐다. 시리즈 최초의 방패 무기와 신규 난이도 '깨달음의 길'이 추가되며, 6월 출시 이후 두 달 만의 첫 대형 콘텐츠 보강이다.",
+          "source": "게임메카",
+          "articleDate": "2026-08-19"
+        },
+        {
+          "title": "100년 커리어 모드 추가, NBA 2K27 핵심 콘텐츠 공개",
+          "url": "https://www.gamemeca.com/view.php?gid=1779295",
+          "blurb": "9월 4일 출시를 앞둔 'NBA 2K27'이 핵심 콘텐츠를 공개했다. 한 선수의 커리어를 넘어 100년 단위로 구단을 운영하는 장기 커리어 모드가 눈에 띈다. 매년 반복되는 스포츠 연간 시리즈에서 '세대를 넘기는 지속성'으로 리텐션을 만들려는 설계다.",
+          "source": "게임메카",
+          "articleDate": "2026-08-19"
+        },
+        {
+          "title": "Neverness to Everness version 1.3 update 'Rising from the Moonlight Fog' launches August 19",
+          "url": "https://www.gematsu.com/2026/08/neverness-to-everness-version-1-3-update-rising-from-the-moonlight-fog-launches-august-19",
+          "blurb": "퍼펙트 월드 게임즈·호타 스튜디오의 도시 오픈월드 액션 RPG '네버니스 투 에버니스' 1.3 업데이트 '달안개 속에서 떠오르다'가 8월 19일 적용됐다. 신규 에피소드 '포그덴 게임'과 더스크무어·포그덴 지역, 신규 캐릭터 잔코우·린코가 추가됐다.",
+          "source": "Gematsu",
+          "articleDate": "2026-08-19"
+        },
+        {
+          "title": "거리 기반 음성 채팅 구현, 서브노티카 2 협동 플레이 개선",
+          "url": "https://www.gamemeca.com/view.php?gid=1779350",
+          "blurb": "서브노티카 2의 두 번째 얼리 액세스 업데이트를 국내 매체 시각으로 정리한 기사. 거리 기반 음성 채팅이 심해 탐사의 고립감·긴장감과 맞물려 협동 경험 자체를 바꾸는 장치로 다뤄졌다.",
+          "source": "게임메카",
+          "articleDate": "2026-08-20"
+        },
+        {
+          "title": "밸로프, '아틀란티카 온라인' × '라스트오리진' 컬래버레이션 업데이트 실시",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319702",
+          "blurb": "밸로프가 서비스하는 '아틀란티카 온라인'에 '라스트오리진' 컬래버레이션이 적용됐다. 장수한 온라인 게임이 서브컬처 IP를 끌어와 휴면 유저를 되부르는 전형적인 운영 카드다.",
+          "source": "인벤",
+          "articleDate": "2026-08-20"
+        }
+      ]
+    },
     {
       "date": "2026-08-19",
       "lede": "팀 닌자 '인왕 3'의 첫 유료 DLC '게이안 지옥변(Hell Rising)'이 8월 19일 출시되며 시리즈 최초의 방패 무기와 3단계 난이도 '깨달음의 길'이 추가됐다. 25일 오프닝 나이트 라이브로 문을 여는 게임스컴 2026은 1,600곳 이상이 참가해 역대 최대 규모로 확정됐고, 부산에서 열린 BIC 2026은 오프라인 관람객이 전년 대비 10% 늘며 최다 기록을 새로 썼다. 국내에서는 엔씨 '아스트라 오라티오' 1차 CBT 모집이 이날 시작됐고, 넷마블 '뱀피르'는 출시 1주년 이벤트에 들어갔다. 업계 쪽에서는 애플이 EU 앱 수수료·외부 배포 자격 체계를 다시 손봤고, AI기본법 시행을 앞두고 게임사들의 대응 범위를 짚는 논의가 이어졌다.",
