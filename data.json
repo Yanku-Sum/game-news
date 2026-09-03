@@ -2,6 +2,46 @@
   "pagesUrl": "https://yanku-sum.github.io/game-news/",
   "analyses": [
     {
+      "date": "2026-09-03",
+      "game": "더 블러드 오브 던워커 (The Blood of Dawnwalker)",
+      "hook": "위쳐 3 핵심 개발진이 세운 리벨 울브스의 첫 작품이 오늘 출시됐고, 예약 판매 단계부터 스팀 글로벌 판매 최상위권에 올랐습니다. '30일을 자원처럼 쓰는 내러티브 샌드박스'와 인간·뱀파이어 이중 플레이는 호평받지만, 오픈월드 반복 요소와 시간 압박의 실제 강도에는 평가가 엇갈려 출시 직후 논쟁성이 큽니다.",
+      "coreLoop": "낮과 밤 중 목표에 유리한 형태를 고르고, 마을과 야외를 탐색해 단서·의뢰·성장 자원을 찾은 뒤 대화·잠입·근접 전투로 사건을 해결합니다. 주요 행동을 마치면 30일 캘린더의 시간이 소모되고 세계와 인물 관계가 바뀌며, 얻은 경험과 장비·기술로 다음 목표의 위험을 낮춥니다. 낮에는 검술과 혈마법, 밤에는 흡혈·그림자 이동·수직 동선을 활용하므로 탐색 → 접근 방식 선택 → 전투·선택 → 시간·세계 변화 → 강화 → 다음 계획의 루프가 두 형태 사이를 오갑니다.",
+      "growthCurve": "인간, 뱀파이어, 공용의 세 기술 트리가 성장의 뼈대이며 스킬 포인트 소비 자체도 시간이 드는 선택이 될 수 있습니다. 초반에는 제한된 기술과 지역별 위험 때문에 어떤 의뢰에 시간을 쓸지 계산하게 하고, 능력과 장비가 쌓이면 적 진영의 간부를 약화시키거나 성을 조기에 공략하는 선택지가 넓어집니다. 지역 난이도는 처음 진입한 시점의 레벨 범위로 고정돼 완전한 자동 스케일링보다 탐험 순서의 의미를 남기지만, 리뷰에서는 약 20일차에 전투력이 급격히 앞서며 후반 압박이 약해질 수 있다는 지적도 나왔습니다.",
+      "funMechanics": "같은 장소와 인물이 낮·밤에 다른 동선과 반응을 보이는 이중성, 모든 선택과 방치가 서사 상태를 바꾸는 반응성이 핵심 재미입니다. 밤의 순간이동과 지붕 이동은 권력자가 통제하는 도시를 포식자의 시선으로 다시 읽게 하고, 흡혈할 대상과 양을 직접 정하게 해 능력 사용에 윤리적 긴장을 붙입니다. 방향 공격·방어와 패링은 근접 전투에 손맛을 주며, 제한된 시간 때문에 모든 의뢰를 완수할 수 없다는 사실이 '내가 만든 이야기'라는 감정적 보상을 강화합니다.",
+      "benchmarks": "① 실시간 카운트다운 대신 완료 시 비용이 명시되는 '시간 화폐'를 써 긴장과 자유 탐험을 양립시킨 설계. ② 동일 퀘스트를 인간·뱀파이어의 능력과 시간대에 따라 다른 동선·대화·전투로 재사용해 콘텐츠 밀도를 높인 방식. ③ NPC 사망과 의뢰 실패까지 후속 상태로 흡수해 실패를 재시작이 아닌 개인 서사로 전환한 내러티브 운영. ④ 출시 전 세계관 영상→장시간 플레이 공개→게임스컴 시연→에디션 가이드와 출시 트레일러로 정보를 단계적으로 확대한 캠페인.",
+      "businessModel": "PC·PS5·Xbox Series X|S용 프리미엄 패키지 게임입니다. 스탠더드, 실물 특전 중심의 Day One, 디지털 설정집·프리퀄 코믹·OST를 묶은 Eclipse, 피규어와 하드커버 설정집까지 포함한 Collector's Edition으로 객단가를 층화했습니다. 예약 특전 방어구는 게임 내에서도 얻을 수 있는 조기 해금이며 모든 에디션이 같은 날 열려 유료 선행 플레이는 없습니다. 공식 발표는 첫 작품을 여러 시대와 문화로 확장할 '던워커 사가'의 시작으로 규정해 후속작과 IP 확장 가능성을 열어뒀습니다.",
+      "onboarding": "프롤로그가 코엔의 가족과 뱀파이어 지배, 인간·뱀파이어 전환을 서사적으로 소개한 뒤 30일 구조를 엽니다. 주요 행동 전에는 소비될 시간이 표시되고 일반 탐험은 시간을 쓰지 않아 캘린더 공포를 완화합니다. 쉬운 난이도에서는 단순 체력 보정뿐 아니라 적 공격 애니메이션을 느리게 해 방향 방어를 읽는 시간을 주고, 일반 방어와 정밀 방향 방어를 함께 제공합니다. 다만 세 기술 트리, 시간대별 능력, 의뢰 우선순위를 동시에 이해해야 해 첫 몇 시간의 정보 부담은 적지 않습니다.",
+      "targetUser": "도덕적 선택과 강한 캐릭터 서사를 중시하는 '더 위쳐 3' 계열 오픈월드 RPG 팬이 핵심입니다. 자유로운 샌드박스보다 저자가 설계한 촘촘한 세계 반응을 선호하고, 한 번에 모든 콘텐츠를 보지 못해도 재플레이로 다른 결과를 확인하려는 이용자에게 특히 맞습니다. 반대로 체크리스트를 모두 지우는 수집형 오픈월드 습관을 가진 이용자에게는 30일 구조가 스트레스로 느껴질 수 있으며, 전투 완성도를 최우선으로 보는 소울라이크 팬에게는 반복 활동과 밸런스가 약점이 될 수 있습니다.",
+      "community": "싱글플레이 작품이라 길드나 직접 협동은 없지만, 어떤 인물을 살렸는지·어느 시간대에 의뢰를 해결했는지·어떤 결말을 봤는지를 비교하는 선택 공유가 커뮤니티의 핵심이 됩니다. 공식 디스코드와 커뮤니티 게시판은 스킬·세계관 정보를 단계적으로 공개했고, 출시 뒤에는 인간·뱀파이어 빌드와 시간 최적화 공략, 숨은 분기 영상이 장기 콘텐츠가 될 가능성이 큽니다. 다만 서사 중심 게임인 만큼 스포일러 관리와 패치 전후 선택 결과의 일관성 안내가 초기 커뮤니티 운영의 중요 과제입니다.",
+      "links": [
+        {
+          "title": "낮엔 검, 밤엔 뱀파이어 '던워커' 판매 최상위",
+          "url": "https://www.gamemeca.com/view.php?gid=1779854",
+          "source": "게임메카"
+        },
+        {
+          "title": "The Blood of Dawnwalker review",
+          "url": "https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalker-review/",
+          "source": "PC Gamer"
+        },
+        {
+          "title": "Inside The Blood of Dawnwalker's narrative sandbox and dual gameplay",
+          "url": "https://blog.playstation.com/2025/08/20/inside-the-blood-of-dawnwalkers-narrative-sandbox-and-dual-gameplay/",
+          "source": "PlayStation.Blog"
+        },
+        {
+          "title": "The Blood of Dawnwalker Edition Guide",
+          "url": "https://en.bandainamcoent.eu/dawnwalker/news/the-blood-of-dawnwalker-edition-guide-choosing-the-best-version-you",
+          "source": "Bandai Namco Entertainment"
+        },
+        {
+          "title": "위쳐 출신 개발진의 새로운 도전 '더 블러드 오브 던워커'",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320278",
+          "source": "인벤"
+        }
+      ]
+    },
+    {
       "date": "2026-09-01",
       "game": "오버워치 (Overwatch)",
       "hook": "넥슨의 국내 서비스 시작과 PC방 무료 시간·누적 플레이 보상이 맞물리면서 오버워치는 8월 29일 더로그 기준 점유율 9.07%로 리그 오브 레전드와 발로란트에 이어 3위까지 뛰었습니다. 여기에 르세라핌과의 세 번째 협업이 공개되며, 오래된 라이브 서비스가 지역 유통·오프라인 채널·K팝 IP를 결합해 재가속하는 사례로 다시 주목받고 있습니다.",
@@ -3211,9 +3251,185 @@
       "type": "정식출시",
       "url": "https://www.gematsu.com/2026/08/drapline-launches-september-24",
       "source": "Gematsu"
+    },
+    {
+      "date": "2026-09-03",
+      "title": "문라이터2: 더 엔드리스 볼트",
+      "type": "정식출시",
+      "url": "https://www.inven.co.kr/webzine/calendar/",
+      "source": "인벤 게임캘린더"
+    },
+    {
+      "date": "2026-09-03",
+      "title": "스피드러너 2: 킹 오브 스피드",
+      "type": "정식출시",
+      "url": "https://www.inven.co.kr/webzine/calendar/",
+      "source": "인벤 게임캘린더"
+    },
+    {
+      "date": "2026-09-03",
+      "title": "티르 (Tyr)",
+      "type": "정식출시",
+      "url": "https://www.inven.co.kr/webzine/calendar/",
+      "source": "인벤 게임캘린더"
+    },
+    {
+      "date": "2026-09-03",
+      "title": "나의 히어로 아카데미아: 올즈 저스티스 - 미도리야 오버레이 풀 스타일 DLC",
+      "type": "업데이트",
+      "url": "https://www.gematsu.com/2026/09/my-hero-academia-alls-justice-dlc-character-izuku-midoriya-overlay-full-style-launches-september-3",
+      "source": "Gematsu"
+    },
+    {
+      "date": "2026-09-07",
+      "title": "포트 오브 주마나 (Port of Jumanah)",
+      "type": "정식출시",
+      "url": "https://www.gematsu.com/2026/09/port-of-jumanah-launches-september-7-for-ps5-pc",
+      "source": "Gematsu"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "아스달 연대기: 세 개의 세력 - 뉴월드 시즌2",
+      "type": "오픈",
+      "url": "https://www.inven.co.kr/webzine/news/?iskin=nikke&news=320328",
+      "source": "인벤"
+    },
+    {
+      "date": "2026-09-09",
+      "title": "코드 베인 2 - Mask of Idris DLC",
+      "type": "업데이트",
+      "url": "https://www.inven.co.kr/webzine/news/?news=320319&site=sky",
+      "source": "인벤"
+    },
+    {
+      "date": "2026-10-26",
+      "title": "팽토피아 (Fangtopia)",
+      "type": "정식출시",
+      "url": "https://www.gematsu.com/2026/09/fangtopia-launches-october-26",
+      "source": "Gematsu"
     }
   ],
   "entries": [
+    {
+      "date": "2026-09-03",
+      "lede": "CD 프로젝트 레드의 장기 판매 호조, 넥서스 모드 모회사의 스팀DB 인수, 슈퍼셀의 메타코어 완전 인수가 최근 업계의 핵심입니다. 신작 쪽에서는 오늘 출시된 '더 블러드 오브 던워커'가 스팀 판매 최상위권과 엇갈린 평가로 주목받았고, '크림슨 문'도 출시 직후 글로벌 판매 순위에 진입했습니다. 인벤 게임캘린더 기준 이번 주에는 오비탈스·문라이터2·귀무자: 검의 길 등 굵직한 출시와 마비노기 이터니티 알파 테스트가 이어집니다.",
+      "industry": [
+        {
+          "title": "CDPR, '팬텀 리버티' 1,500만 장·'위쳐' 시리즈 9,000만 장 돌파",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320352",
+          "blurb": "CD 프로젝트 레드가 2026년 상반기 실적과 함께 '사이버펑크 2077: 팬텀 리버티' 1,500만 장, '더 위쳐' 시리즈 9,000만 장의 누적 판매 기록을 공개했습니다. 상반기 매출은 전년 동기 대비 23%, 순이익은 약 37% 늘어 구작 장기 판매와 IP 라이선스의 힘을 확인했습니다.",
+          "source": "인벤",
+          "articleDate": "2026-09-03"
+        },
+        {
+          "title": "넥서스 모드 모회사, PC 게임 데이터 서비스 '스팀DB' 인수",
+          "url": "https://www.gamedeveloper.com/business/nexus-mods-is-acquiring-database-and-analytics-site-steamdb",
+          "blurb": "넥서스 모드 운영사 Chosen이 스팀 빌드·동시접속자 데이터를 추적해 온 스팀DB를 인수합니다. 기존 브랜드와 무료 정책은 유지하며, 장기적으로 게임 버전 이력과 모드 호환성 정보를 연결해 업데이트 뒤 모드 오류를 줄이는 방안을 검토합니다.",
+          "source": "Game Developer",
+          "articleDate": "2026-09-02"
+        },
+        {
+          "title": "슈퍼셀, '머지 맨션' 개발사 메타코어 잔여 지분 인수",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320338",
+          "blurb": "슈퍼셀이 모바일 퍼즐 게임 '머지 맨션' 개발사 메타코어의 잔여 지분을 인수하는 계약을 체결했습니다. 거래 조건은 공개하지 않았으며 9월 말 종결을 목표로 하고, 기존 개발팀과 서비스 운영은 유지합니다.",
+          "source": "인벤",
+          "articleDate": "2026-09-02"
+        },
+        {
+          "title": "넷플릭스의 GTA6 독점 영상 3,110만 뷰, 게임 전략 전환 신호",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320340",
+          "blurb": "넷플릭스가 자체 게임 스튜디오를 축소하는 가운데 락스타의 GTA6 영상을 독점 공개해 한 주간 3,110만 뷰를 기록했습니다. 직접 개발보다 대형 IP의 화제성을 스트리밍 플랫폼으로 끌어오는 방향이 게임 전략의 새 축으로 부상했습니다.",
+          "source": "인벤",
+          "articleDate": "2026-09-02"
+        },
+        {
+          "title": "세가 자회사 로비오, '소닉 블리츠' 취소 뒤 코펜하겐 스튜디오 폐쇄",
+          "url": "https://www.gamedeveloper.com/business/sega-owned-rovio-is-shutting-down-its-copenhagen-studio",
+          "blurb": "로비오가 모바일 러너·카드 게임 '소닉 블리츠'의 취소에 이어 덴마크 사업을 종료합니다. 프로젝트에는 약 20명이 참여했으며, 다른 프로젝트로 이동하지 못하는 인원에게 전직 지원을 제공할 예정입니다.",
+          "source": "Game Developer",
+          "articleDate": "2026-09-01"
+        },
+        {
+          "title": "'스타워즈: 제로 컴퍼니' 개발사, 출시 앞두고 대다수 인력 휴직",
+          "url": "https://www.gamedeveloper.com/business/star-wars-zero-company-studio-furloughed-workers-ahead-of-launch",
+          "blurb": "전술 게임 '스타워즈: 제로 컴퍼니' 공동 개발사 비트 리액터가 출시 직전 대다수 직원에게 무급 휴직을 통보한 것으로 보도됐습니다. 작품이 스팀 판매 상위권에 오른 상황과 대비돼 프로젝트 단위 고용 불안 문제가 다시 부각됐습니다.",
+          "source": "Game Developer",
+          "articleDate": "2026-09-01"
+        },
+        {
+          "title": "지스타 개최지 재선정 논의에 부산 정치권 반발",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320332",
+          "blurb": "지스타 개최지 재선정과 타지역 유치 경쟁이 거론되자 부산 정치권이 장기 개최 성과와 지역 산업 효과를 근거로 잔류를 촉구했습니다. 국내 최대 게임쇼의 개최지 결정이 지역 콘텐츠 산업과 관광 수요를 둘러싼 정책 이슈로 번지고 있습니다.",
+          "source": "인벤",
+          "articleDate": "2026-09-02"
+        }
+      ],
+      "games": [
+        {
+          "title": "위쳐 출신 개발진의 '더 블러드 오브 던워커' 오늘 정식 출시",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320278",
+          "blurb": "리벨 울브스의 오픈월드 액션 RPG가 PC·PS5·Xbox Series X|S로 출시됐습니다. 낮에는 인간, 밤에는 뱀파이어가 되는 주인공과 30일을 자원처럼 쓰는 내러티브 샌드박스를 앞세웠고, 출시 전부터 스팀 글로벌 판매 최상위권에 올랐습니다.",
+          "source": "인벤",
+          "articleDate": "2026-09-03"
+        },
+        {
+          "title": "소울라이크 신작 '크림슨 문', 출시 직후 스팀 판매 최상위권",
+          "url": "https://www.gamemeca.com/view.php?gid=1779977",
+          "blurb": "9월 2일 출시된 '크림슨 문'이 디아블로풍 고딕 세계와 천사 변신을 앞세워 스팀 글로벌 최고 인기 게임 상위권에 진입했습니다. 다만 키 설정과 조작 편의성 문제로 초기 평가는 복합적이며 개발진이 빠른 개선에 나섰습니다.",
+          "source": "게임메카",
+          "articleDate": "2026-09-02"
+        },
+        {
+          "title": "서비스 종료 한 달 만에 '카운터사이드: 안테엑실리안' 리부트 발표",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320336",
+          "blurb": "스튜디오비사이드가 8월 26일 서비스를 종료한 '카운터사이드'의 리부트 프로젝트를 공식 발표했습니다. 힐데·유미나·주시윤 등이 등장하는 새 테마 이미지를 먼저 공개했고 구체적인 시스템과 일정은 추후 안내합니다.",
+          "source": "인벤",
+          "articleDate": "2026-09-02"
+        },
+        {
+          "title": "'몬스터 헌터 와일즈: 어센던스', 강화 액션 트레일러 공개",
+          "url": "https://www.gematsu.com/2026/09/monster-hunter-wilds-expansion-ascendance-trailers-boosted-action-overview-and-great-sword-boosted-action-breakdown",
+          "blurb": "캡콤이 대형 확장팩의 강화 액션 개요와 대검 전용 영상을 공개했습니다. 기존 무기 운용을 확장하는 새 액션을 전면에 내세웠으며, 도쿄게임쇼 2026에서 세계 최초 플레이 시연도 예정돼 있습니다.",
+          "source": "Gematsu",
+          "articleDate": "2026-09-02"
+        },
+        {
+          "title": "'나의 히어로 아카데미아: 올즈 저스티스' 미도리야 DLC 9월 3일 출시",
+          "url": "https://www.gematsu.com/2026/09/my-hero-academia-alls-justice-dlc-character-izuku-midoriya-overlay-full-style-launches-september-3",
+          "blurb": "시즌패스 세 번째 캐릭터인 미도리야 이즈쿠 오버레이 풀 스타일이 9월 3일 추가됩니다. 개별 가격은 4.99달러이며 PS5·Xbox Series·PC판과 함께 일본 스위치2판도 같은 날 출시됩니다.",
+          "source": "Gematsu",
+          "articleDate": "2026-09-02"
+        },
+        {
+          "title": "'어나더 에덴 비긴즈' 체험판 배포, 정식판으로 저장 데이터 연동",
+          "url": "https://www.gematsu.com/2026/09/another-eden-begins-demo-now-available",
+          "blurb": "시간여행 턴제 RPG의 체험판이 스위치·스위치2·PC로 배포됐습니다. 체험판의 이야기 진행과 캐릭터 능력치를 9월 17일 출시되는 정식판으로 옮길 수 있고, 파이널 트레일러도 함께 공개됐습니다.",
+          "source": "Gematsu",
+          "articleDate": "2026-09-02"
+        },
+        {
+          "title": "힐링 타일 퍼즐 '팽토피아', 10월 26일 출시 확정",
+          "url": "https://www.gematsu.com/2026/09/fangtopia-launches-october-26",
+          "blurb": "육각 타일로 풍경과 몬스터 마을을 만드는 퍼즐 게임 '팽토피아'가 PS5·스위치2·PC로 10월 26일 출시됩니다. 시간 압박 없이 목표와 점수 플레이를 선택할 수 있는 편안한 건설 퍼즐을 표방합니다.",
+          "source": "Gematsu",
+          "articleDate": "2026-09-02"
+        },
+        {
+          "title": "아라비아풍 수중 액션 '포트 오브 주마나', 9월 7일 출시",
+          "url": "https://www.gematsu.com/2026/09/port-of-jumanah-launches-september-7-for-ps5-pc",
+          "blurb": "아가테가 개발한 2.5D 수중 액션 로그라이트가 PS5와 PC로 9월 7일 출시됩니다. 동료를 모집해 선박과 장비를 강화하고 여러 바다를 탐험하는 임무 중심 진행을 내세웁니다.",
+          "source": "Gematsu",
+          "articleDate": "2026-09-02"
+        },
+        {
+          "title": "'코드 베인 2' 첫 확장 DLC 'Mask of Idris' 9월 9일 출시",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320319&site=sky",
+          "blurb": "폐기 세계를 무대로 한 신규 이야기와 캐릭터, 버디 14명의 추가 색상을 담은 확장 DLC가 9월 9일 출시됩니다. 같은 날 무료 Ver.2.0 업데이트로 엔딩 후 에피소드, 연속 보스전, 포토 모드 확장도 제공됩니다.",
+          "source": "인벤",
+          "articleDate": "2026-09-02"
+        }
+      ]
+    },
     {
       "date": "2026-09-01",
       "lede": "한국 게임 IP 3종의 중국 외자판호 획득과 12TB 규모로 알려진 스팀 파일 유출, 라이브 서비스 두 편의 운영 종료가 오늘 업계의 핵심입니다. 신작 쪽에서는 너티독 '인터갤럭틱'의 시네마틱 촬영 완료와 9월 3일 스테이트 오브 플레이, 오버워치×르세라핌 3차 협업이 주목받았고, 이번 주에는 '더 블러드 오브 던워커'와 '오비탈스', '귀무자: 검의 길'이 연이어 출시됩니다.",
