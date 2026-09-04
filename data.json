@@ -2,6 +2,46 @@
   "pagesUrl": "https://yanku-sum.github.io/game-news/",
   "analyses": [
     {
+      "date": "2026-09-04",
+      "game": "귀무자: 검의 길 (Onimusha: Way of the Sword)",
+      "hook": "20년 만의 '귀무자' 본편이 오늘 출시됐고, 인벤 주간 TOP 게임 4위와 출시 전후의 강한 리뷰 반응으로 화제의 중심에 섰습니다. 일섬·패링이 만드는 강렬한 검극과 RE 엔진의 연출은 호평받는 반면, 반복적인 잡무와 다대일 전투의 피로는 평가가 갈려 출시 직후 분석 가치가 큽니다.",
+      "coreLoop": "교토의 구역을 탐색해 환마와 조우하고, 일반 공격·회피·패링으로 빈틈을 만든 뒤 정밀 타이밍의 일섬으로 큰 피해와 영혼을 얻습니다. 흡수한 영혼으로 체력과 귀력을 회복하고 무기·기술을 강화한 뒤 퍼즐과 환경 기믹을 풀어 다음 구역과 보스로 진입합니다. 탐색 → 전투 자세 읽기 → 패링·일섬 → 영혼 흡수 → 장비·기술 강화 → 보스 도전의 순환이 중심이며, 환경 오브젝트와 귀신 각성이 전투 리듬을 변주합니다.",
+      "growthCurve": "초반에는 기본 공격과 방어·회피를 익히게 하고, 일섬 성공이 주는 높은 보상으로 타이밍 학습을 유도합니다. 이후 여러 반응형 방어 기술, 귀신 무장과 귀신 각성, 적 유형별 대응이 단계적으로 추가돼 단순 난도 상승보다 선택지가 넓어지는 방식으로 성장합니다. 난이도 옵션과 데모 피드백을 반영한 조정으로 입문 폭을 확보하면서도 보스는 패턴 학습과 정밀 대응을 요구합니다. 다만 후반의 오픈 구역 잡무와 다수전이 1대1 검극의 선명한 학습 곡선을 흐릴 수 있다는 리뷰 지적이 있습니다.",
+      "funMechanics": "공격 직전의 짧은 창을 읽어 일섬을 성공시키는 순간의 시청각 피드백이 핵심 쾌감입니다. 칼날이 부딪히는 물리 기반 애니메이션, 패링에서 반격으로 이어지는 흐름, 적을 베고 영혼을 즉시 흡수하는 보상 연출이 하나의 짧고 강한 감정 곡선을 만듭니다. 여러 적을 상대할 때는 위치 선정과 환경 공격이 퍼즐처럼 작동하고, 익숙해질수록 복잡한 입력보다 상황 판단으로 화려한 장면을 직접 연출하게 됩니다.",
+      "benchmarks": "① 정밀 타이밍 성공을 큰 피해·자원·연출로 동시에 보상해 고난도 기술 학습을 자발적으로 만드는 구조. ② 고전 시리즈의 일섬·영혼 흡수 정체성을 유지하면서 물리 애니메이션과 현대 카메라로 체감을 갱신한 리부트 방식. ③ 데모를 출시 수개월 전에 배포하고 난이도·조작 피드백을 반영해 진입 장벽을 조정한 검증 과정. ④ 리뷰 엠바고와 출시를 가깝게 배치해 '20년 만의 귀환' 메시지와 실제 전투 평가가 한 번에 확산되도록 만든 캠페인.",
+      "businessModel": "약 70달러급의 싱글플레이 프리미엄 패키지로 PS5·Xbox Series X|S·스위치2·PC에 동시 전개합니다. 라이브 서비스나 가챠보다 완결형 본편 판매가 중심이며, 플랫폼 다변화와 사전 체험판으로 구매 전환을 넓혔습니다. 캡콤이 장기 휴면 IP를 재활성화하는 전략의 핵심 사례로, 성과가 좋으면 후속작·리마스터·크로스미디어로 수익을 확장할 수 있습니다.",
+      "onboarding": "전작 지식 없이 이해할 수 있는 독립 서사와 미야모토 무사시라는 익숙한 주인공을 사용해 세계관 진입을 단순화했습니다. 초반 전투는 공격·회피·패링을 먼저 익히고 일섬과 귀신 능력을 단계적으로 얹으며, 난이도 선택과 체험판이 액션 숙련도에 따른 위험을 줄입니다. 다만 패링 중심 장르에 익숙하지 않은 이용자는 다양한 타이밍 대응과 다대일 카메라 관리가 동시에 요구되는 구간에서 초반 벽을 느낄 수 있습니다.",
+      "targetUser": "'세키로', '인왕', 캐릭터 액션처럼 타이밍 기반 검극과 보스 학습을 좋아하지만 복잡한 자세 전환이나 과도한 RPG 계산은 부담스러운 이용자가 핵심입니다. 기존 귀무자 팬에게는 일섬과 영혼 흡수의 귀환이 강한 구매 동기이고, 신규 이용자에게는 에도 교토·요괴·사무라이 판타지와 영화적인 연출이 입구가 됩니다. 반면 넓은 오픈월드나 빌드 다양성을 최우선으로 보는 층에는 반복 탐색과 비교적 단순한 성장 구조가 약점이 될 수 있습니다.",
+      "community": "본편은 싱글플레이지만 데모 기록, 보스 노히트, 연속 일섬, 난이도별 공략 영상이 커뮤니티 경쟁과 학습을 만듭니다. 오래 중단됐던 시리즈라 기존 팬의 추억과 신규 액션 팬의 비교 평가가 활발하고, 공략·리뷰·클립 공유가 초기 확산의 핵심입니다. 운영 측면에서는 PC 성능과 접근성 피드백을 빠르게 반영하고, 스포일러 구분과 고난도 챌린지 지원을 명확히 하는 것이 장기 팬덤 유지에 중요합니다.",
+      "links": [
+        {
+          "title": "Onimusha: Way of the Sword review",
+          "url": "https://www.pcgamer.com/games/action/onimusha-way-of-the-sword-review/",
+          "source": "PC Gamer"
+        },
+        {
+          "title": "Onimusha: Way of the Sword interview, demo update detailed, new trailer revealed",
+          "url": "https://blog.playstation.com/2026/08/25/onimusha-way-of-the-sword-interview-demo-update-detailed-new-trailer-revealed/",
+          "source": "PlayStation.Blog"
+        },
+        {
+          "title": "How Capcom Reinvented And Updated Onimusha’s Combat",
+          "url": "https://gameinformer.com/exclusive-feature/2026/08/05/how-capcom-reinvented-and-updated-onimushas-combat-in-way-of-the-sword",
+          "source": "Game Informer"
+        },
+        {
+          "title": "Onimusha: Way of the Sword release date update",
+          "url": "https://us-store.captown.capcom.com/blogs/news/0000022",
+          "source": "Capcom"
+        },
+        {
+          "title": "Onimusha: Way of the Sword Steam page",
+          "url": "https://store.steampowered.com/app/2638890/_Way_of_the_Sword/",
+          "source": "Steam"
+        }
+      ]
+    },
+    {
       "date": "2026-09-03",
       "game": "더 블러드 오브 던워커 (The Blood of Dawnwalker)",
       "hook": "위쳐 3 핵심 개발진이 세운 리벨 울브스의 첫 작품이 오늘 출시됐고, 예약 판매 단계부터 스팀 글로벌 판매 최상위권에 올랐습니다. '30일을 자원처럼 쓰는 내러티브 샌드박스'와 인간·뱀파이어 이중 플레이는 호평받지만, 오픈월드 반복 요소와 시간 압박의 실제 강도에는 평가가 엇갈려 출시 직후 논쟁성이 큽니다.",
@@ -3307,9 +3347,129 @@
       "type": "정식출시",
       "url": "https://www.gematsu.com/2026/09/fangtopia-launches-october-26",
       "source": "Gematsu"
+    },
+    {
+      "date": "2026-09-04",
+      "title": "던전 세틀러즈 (Dungeon Settlers)",
+      "type": "정식출시",
+      "url": "https://www.inven.co.kr/webzine/calendar/",
+      "source": "인벤 게임캘린더"
+    },
+    {
+      "date": "2026-09-04",
+      "title": "BioEden",
+      "type": "정식출시",
+      "url": "https://www.inven.co.kr/webzine/calendar/",
+      "source": "인벤 게임캘린더"
+    },
+    {
+      "date": "2026-09-04",
+      "title": "레드 로켓 디펜시즘 (Red Rocket Defencism)",
+      "type": "정식출시",
+      "url": "https://www.inven.co.kr/webzine/calendar/",
+      "source": "인벤 게임캘린더"
     }
   ],
   "entries": [
+    {
+      "date": "2026-09-04",
+      "lede": "마이크로소프트의 Xbox 클라우드 게임 이용 시간·종량제 개편과 브라우저 게임 이용자 조사, 스퀘어에닉스의 비상장 전환설 부인이 오늘 업계의 핵심입니다. 신작 쪽에서는 30개 이상 작품을 다룬 State of Play가 '파이널 판타지 VII 리벨레이션', '언틸 던 2', '길드워 3' 등 굵직한 소식을 쏟아냈습니다. 인벤 게임캘린더 기준 오늘은 '귀무자: 검의 길', 'NBA 2K27', 'BioEden' 등이 출시되고 주말에는 '타임 테이커즈' 글로벌 플레이 테스트가 이어집니다.",
+      "industry": [
+        {
+          "title": "Xbox 클라우드 게임, 11월부터 요금제별 월 이용 시간 제한 도입",
+          "url": "https://gamesbeat.com/microsoft-introduces-time-limits-for-xbox-cloud-gaming-service/",
+          "blurb": "마이크로소프트가 11월부터 Game Pass 요금제별 클라우드 게임 포함 시간을 Ultimate 15시간, Premium 10시간, Essential 5시간으로 제한합니다. 초과 사용자는 추가 시간을 구매하는 종량제 구조로 전환하며, 회사는 가입자 약 4%가 직접 영향을 받을 것으로 예상했습니다.",
+          "source": "GamesBeat",
+          "articleDate": "2026-09-03"
+        },
+        {
+          "title": "브라우저 게임 이용자 46%, 콘솔·모바일과 겹치는 주류 게이머",
+          "url": "https://gamesbeat.com/browser-gamers-are-mostly-console-and-mobile-players-too-newzoo-google-report-finds/",
+          "blurb": "Newzoo와 Google이 8개 시장의 월간 이용자 약 7,500명을 조사한 결과, 13~55세 온라인 소비자의 46%가 최근 한 달 안에 브라우저 게임을 플레이했습니다. 브라우저 게임이 별도 틈새층보다 콘솔·모바일 이용자와 크게 겹친다는 결과여서 웹 배포와 크로스플랫폼 전략의 근거가 넓어졌습니다.",
+          "source": "GamesBeat",
+          "articleDate": "2026-09-03"
+        },
+        {
+          "title": "스퀘어에닉스, 비상장 전환 검토설 공식 부인",
+          "url": "https://www.pocketgamer.biz/square-enix-denies-plans-to-go-private-after-report-sends-stock-surging/",
+          "blurb": "일본 잡지 보도로 주가가 급등한 뒤 스퀘어에닉스가 비상장 전환을 검토하고 있지 않다고 밝혔습니다. 서구 스튜디오 매각과 인력 감축 등 최근 수년간 구조조정을 이어온 만큼, 이번 부인은 자본시장과 사업 재편 방향을 둘러싼 불확실성을 진정시키는 조치로 읽힙니다.",
+          "source": "PocketGamer.biz",
+          "articleDate": "2026-09-03"
+        },
+        {
+          "title": "사우디 게임 스타트업 Takahouse, 150만 달러 투자 유치",
+          "url": "https://www.pocketgamer.biz/saudi-gaming-startup-takahouse-raises-15m-from-impact46/",
+          "blurb": "리야드 기반 Takahouse가 Impact46에서 150만 달러를 조달해 신규 게임과 제품 개발을 확대합니다. 소셜 카드게임 WhistGame이 14만 명 이상의 이용자와 Google Play 10만 다운로드를 확보한 뒤 지역 개발사·퍼블리셔로 포트폴리오를 넓히는 단계입니다.",
+          "source": "PocketGamer.biz",
+          "articleDate": "2026-09-03"
+        },
+        {
+          "title": "DMCC·Epiphany, 게임 스타트업 1대1 멘토링 프로그램 출범",
+          "url": "https://www.pocketgamer.biz/dmcc-and-epiphany-launch-gaming-mentorship-programme/",
+          "blurb": "DMCC Gaming Centre와 Epiphany가 초기 스튜디오·인디 개발자·1인 창업자를 대상으로 격주 멘토링을 시작합니다. 자금 조달, 수익화, 퍼블리싱, 성장과 파트너십을 다루며 UAE 밖 참가자를 위한 온라인 세션도 제공합니다.",
+          "source": "PocketGamer.biz",
+          "articleDate": "2026-09-03"
+        },
+        {
+          "title": "GameUp Africa, 상시 학습 플랫폼 'GameUp Academy'로 확대",
+          "url": "https://www.pocketgamer.biz/game-up-africa-rebrands-as-gameup-academy-with-always-on-learning-platform/",
+          "blurb": "Maliyo Games가 5개월 부트캠프 중심이던 GameUp Africa를 전 세계 대상의 상시 학습 플랫폼으로 개편합니다. 지난 5년간 6,000명 이상에게 도달한 경험을 바탕으로 자기주도 학습과 단기 프로그램을 병행하고 AI·게임화를 핵심 학습 장치로 채택합니다.",
+          "source": "PocketGamer.biz",
+          "articleDate": "2026-09-03"
+        }
+      ],
+      "games": [
+        {
+          "title": "State of Play 두 편에서 30개 이상 신작·업데이트 공개",
+          "url": "https://blog.playstation.com/2026/09/03/state-of-play-state-of-play-japan-all-announcements-trailers/",
+          "blurb": "소니가 State of Play와 State of Play Japan을 연속 방송해 30개가 넘는 게임의 발표, 게임플레이, 출시일을 공개했습니다. 서구권 대작과 일본·아시아 제작진의 작품을 한 자리에서 다뤄 2026년 하반기와 2027년 콘솔 라인업의 방향을 압축해 보여줬습니다.",
+          "source": "PlayStation.Blog",
+          "articleDate": "2026-09-03"
+        },
+        {
+          "title": "'파이널 판타지 VII 리벨레이션' 2027년 4월 8일 출시",
+          "url": "https://gamesbeat.com/final-fantasy-vii-revelation-release-date-confirmed-at-state-of-play/",
+          "blurb": "파이널 판타지 VII 리메이크 3부작의 완결편이 2027년 4월 8일 PS5·스위치2·Xbox Series X|S·PC로 출시됩니다. State of Play에서는 하이윈드로 세계를 이동하고 우타이 지역을 탐험하는 장면과 확장된 오픈월드 플레이를 공개했습니다.",
+          "source": "GamesBeat",
+          "articleDate": "2026-09-03"
+        },
+        {
+          "title": "'언틸 던 2' 2027년 1월 28일 PS5 출시",
+          "url": "https://blog.playstation.com/2026/09/03/until-dawn-2-launches-january-28/",
+          "blurb": "Firesprite의 선택형 호러 후속작이 2027년 1월 28일 PS5로 출시됩니다. 가짜 심령 콘텐츠 팀이 외딴 섬에서 실제 초자연 현상을 마주하는 이야기이며, 'Dispatch'의 AdHoc Studio가 서사 제작에 참여하고 예약 판매는 9월 10일 시작됩니다.",
+          "source": "PlayStation.Blog",
+          "articleDate": "2026-09-03"
+        },
+        {
+          "title": "'길드워 3', PC·PS5용 액션 MMO로 첫 상세 공개",
+          "url": "https://gamesbeat.com/guild-wars-3-gets-a-preview-as-a-meaningful-mmo-experience/",
+          "blurb": "ArenaNet이 약 4년간 개발한 '길드워 3'의 오픈월드와 전투 방향을 공개했습니다. 벽 달리기·활공을 잇는 이동, 화면 UI를 줄인 액션 전투, 주변 이용자와 즉석에서 발동하는 멀티플레이 콤보를 강조하며 첫 베타는 2027년 가을로 예정했습니다.",
+          "source": "GamesBeat",
+          "articleDate": "2026-09-03"
+        },
+        {
+          "title": "'붉은사막' 첫 확장팩 '미지의 지도' 공개",
+          "url": "https://gamesbeat.com/crimson-desert-charting-the-unknown-expansion-confirmed-at-state-of-play/",
+          "blurb": "펄어비스가 State of Play에서 '붉은사막'의 첫 대형 확장팩 Charting the Unknown을 발표했습니다. 본편의 광대한 세계를 잇는 신규 지역과 탐험 콘텐츠를 예고해 출시 이후 확장 운영 계획을 조기에 제시했습니다.",
+          "source": "GamesBeat",
+          "articleDate": "2026-09-03"
+        },
+        {
+          "title": "'팰월드 온라인' 한국 사전등록 시작",
+          "url": "https://www.pocketgamer.biz/palworld-online-opens-for-pre-registration-in-south-korea/",
+          "blurb": "팰월드 IP 기반 MMORPG '팰월드 온라인'이 한국에서 사전등록을 열었습니다. 모바일 환경 기준 iOS 12 이상과 약 2.9GB 저장 공간을 안내했으며, 원작의 수집·생존 요소를 온라인 장기 운영 구조로 확장하는 행보입니다.",
+          "source": "PocketGamer.biz",
+          "articleDate": "2026-09-03"
+        },
+        {
+          "title": "20년 만의 본편 '귀무자: 검의 길' 오늘 출시",
+          "url": "https://us-store.captown.capcom.com/blogs/news/0000022",
+          "blurb": "캡콤의 검극 액션 신작이 9월 4일 PS5·Xbox Series X|S·스위치2·PC로 출시됩니다. 에도 초기의 교토와 미야모토 무사시를 전면에 내세우고, 일섬·패링·영혼 흡수 같은 시리즈 핵심을 RE 엔진 기반의 현대적 액션으로 재구성했습니다.",
+          "source": "Capcom",
+          "articleDate": "2026-09-04"
+        }
+      ]
+    },
     {
       "date": "2026-09-03",
       "lede": "CD 프로젝트 레드의 장기 판매 호조, 넥서스 모드 모회사의 스팀DB 인수, 슈퍼셀의 메타코어 완전 인수가 최근 업계의 핵심입니다. 신작 쪽에서는 오늘 출시된 '더 블러드 오브 던워커'가 스팀 판매 최상위권과 엇갈린 평가로 주목받았고, '크림슨 문'도 출시 직후 글로벌 판매 순위에 진입했습니다. 인벤 게임캘린더 기준 이번 주에는 오비탈스·문라이터2·귀무자: 검의 길 등 굵직한 출시와 마비노기 이터니티 알파 테스트가 이어집니다.",
