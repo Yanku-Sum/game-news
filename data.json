@@ -3368,9 +3368,108 @@
       "type": "정식출시",
       "url": "https://www.inven.co.kr/webzine/calendar/",
       "source": "인벤 게임캘린더"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "완더버그 (Wanderburg)",
+      "type": "정식출시",
+      "url": "https://www.inven.co.kr/webzine/calendar/",
+      "source": "인벤 게임캘린더"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "타이니 에덴 (Tiny Eden)",
+      "type": "정식출시",
+      "url": "https://www.inven.co.kr/webzine/calendar/",
+      "source": "인벤 게임캘린더"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "동방홍마향: New Classic",
+      "type": "정식출시",
+      "url": "https://www.gamebusiness.jp/article/2026/09/05/27917.html",
+      "source": "GameBusiness.jp"
     }
   ],
   "entries": [
+    {
+      "date": "2026-09-07",
+      "lede": "대형 프로젝트의 인력 과특화 문제와 Gamescom 보안 대응, 모바일 생태계의 Apple ATT 소송이 업계 운영 이슈로 부각됐습니다. 신작 쪽에서는 State of Play 이후 'Fate/EXTRA Record'와 'GUNDAM ROGUE ORBIT'의 출시일이 확정됐고, '더 블러드 오브 던워커'는 일본어판 표현 규제 개선에 착수했습니다. 인벤 게임캘린더 기준 이번 주에는 'Wanderburg', 'Tiny Eden', '동방홍마향: New Classic'이 차례로 출시됩니다.",
+      "industry": [
+        {
+          "title": "Saber CCO, 대형 단일 프로젝트와 과도한 전문화가 감원 위험 키운다고 지적",
+          "url": "https://www.pcgamer.com/gaming-industry/saber-cco-tim-willits-blames-layoffs-on-games-industry-overspecialization-studios-that-have-a-couple-hundred-employees-that-work-on-one-game-are-going-to-struggle/",
+          "blurb": "Saber Interactive의 Tim Willits는 수백 명이 한 게임만 만드는 구조가 산업 침체기에 취약해질 수 있다고 진단했습니다. 스튜디오는 대작과 리마스터·소규모 프로젝트를 병행해 자원을 분산한다고 설명하며, 프로젝트 포트폴리오가 고용 안정성과 연결된다는 논점을 제시했습니다.",
+          "source": "PC Gamer",
+          "articleDate": "2026-09-05"
+        },
+        {
+          "title": "Gamescom, 전시 장비 도난 대응 비판에 사과와 개선책 발표",
+          "url": "https://www.gamebusiness.jp/article/2026/09/05/27913.html",
+          "blurb": "Gamescom 운영진이 2026 행사에서 발생한 복수의 도난 사건과 초기 대응을 두고 비판이 커지자 사과했습니다. 전시사·인디 개발사가 직접 피해를 입는 B2B 현장인 만큼, 보안 절차와 사고 커뮤니케이션의 신뢰 회복이 다음 행사 운영의 과제가 됐습니다.",
+          "source": "GameBusiness.jp",
+          "articleDate": "2026-09-05"
+        },
+        {
+          "title": "Savvy Games Group, Gosu Academy·Warpzone AI Labs와 인재 육성 MOU",
+          "url": "https://www.pocketgamer.biz/savvy-games-group-signs-new-mous-with-gosu-academy-and-warpzone-ai-labs/",
+          "blurb": "Savvy Games Group이 사우디 내 게임 개발·디자인·e스포츠 진로 교육을 위한 Gosu Academy, AI 역량 강화를 위한 Warpzone AI Labs와 각각 협력합니다. 대형 인수 중심의 성장 전략을 인력 양성과 현지 역량 구축으로 넓히는 흐름입니다.",
+          "source": "PocketGamer.biz",
+          "articleDate": "2026-09-04"
+        },
+        {
+          "title": "영국 개발사들, Apple ATT 정책에 20억 파운드 집단소송 제기",
+          "url": "https://www.pocketgamer.biz/uk-legal-claim-seeks-2bn-from-apple-over-app-tracking-transparency/",
+          "blurb": "영국 앱 개발사들을 대표한 단체가 Apple의 App Tracking Transparency가 제3자에 더 엄격하게 적용돼 광고 수익 감소와 UA 비용 상승을 초래했다며 20억 파운드 규모 소송을 냈습니다. 모바일 게임의 측정·광고·수익화 모델에 직접 영향을 주는 플랫폼 정책 리스크입니다.",
+          "source": "PocketGamer.biz",
+          "articleDate": "2026-09-04"
+        },
+        {
+          "title": "CD Projekt Red, 플랫폼 변화 속에서도 패키지판 지원 의지 재확인",
+          "url": "https://www.gamedeveloper.com/business/cd-projekt-red-won-t-be-abandoning-physical-releases",
+          "blurb": "CD Projekt Red 공동 CEO는 플랫폼사의 물리 매체 정책 변화에는 대응해야 하지만, 소비자가 가치 있다고 느낄 패키지 제품을 계속 만들고 싶다고 밝혔습니다. 디지털 판매 비중이 커지는 가운데 컬렉터 상품과 물리 유통의 역할을 다시 짚은 발언입니다.",
+          "source": "Game Developer",
+          "articleDate": "2026-09-03"
+        }
+      ],
+      "games": [
+        {
+          "title": "'Fate/EXTRA Record' 2027년 1월 28일 출시 확정",
+          "url": "https://www.gamebusiness.jp/article/2026/09/05/27904.html",
+          "blurb": "여러 차례 연기와 유통 체제 변경을 겪은 'Fate/EXTRA' 풀 리메이크가 2027년 1월 28일 PS5·PS4·스위치·스위치2·PC로 출시됩니다. State of Play Japan에서 날짜가 확정되며 새 퍼블리셔 체제 아래 재출발의 기준점이 마련됐습니다.",
+          "source": "GameBusiness.jp",
+          "articleDate": "2026-09-05"
+        },
+        {
+          "title": "'GUNDAM ROGUE ORBIT' 2027년 3월 5일 출시 및 예약 시작",
+          "url": "https://www.gamebusiness.jp/article/2026/09/05/27902.html",
+          "blurb": "반다이남코가 State of Play에서 주인공 기체 건담 헬릭스의 새 영상을 공개하고 PS5·Xbox Series X|S·PC판 출시일을 2027년 3월 5일로 발표했습니다. 예약 판매도 동시에 시작돼 신작 건담 타이틀의 마케팅 단계가 본격화됐습니다.",
+          "source": "GameBusiness.jp",
+          "articleDate": "2026-09-05"
+        },
+        {
+          "title": "'동방홍마향: New Classic' 마스터업, 9월 10일 출시 예정",
+          "url": "https://www.gamebusiness.jp/article/2026/09/05/27917.html",
+          "blurb": "ZUN이 2002년작 '동방홍마향' 리메이크의 마스터업을 알렸습니다. 4K 대응 그래픽, 전곡 어레인지 BGM, 편의 기능을 더하면서도 클래식판을 함께 제공하며, PC·PS5·스위치·스위치2로 9월 10일 출시됩니다.",
+          "source": "GameBusiness.jp",
+          "articleDate": "2026-09-05"
+        },
+        {
+          "title": "'더 블러드 오브 던워커', 일본어판 유혈 표현·언어 선택 개선 착수",
+          "url": "https://www.gamebusiness.jp/article/2026/09/05/27914.html",
+          "blurb": "Rebel Wolves가 출시 뒤 제기된 일본어판 유혈·폭력 묘사 변경 문제에 대응해 제한 철폐와 다른 언어 버전 추가를 검토·작업 중이라고 밝혔습니다. 지역별 콘텐츠 차이가 출시 초 커뮤니티 반응과 평가에 미치는 영향을 보여주는 사례입니다.",
+          "source": "GameBusiness.jp",
+          "articleDate": "2026-09-05"
+        },
+        {
+          "title": "수중 로그라이트 '포트 오브 주마나' 오늘 PS5·PC 출시",
+          "url": "https://www.gematsu.com/2026/09/port-of-jumanah-launches-september-7-for-ps5-pc",
+          "blurb": "아라비아풍 2.5D 수중 액션 로그라이트 '포트 오브 주마나'가 PS5와 PC로 9월 7일 출시됩니다. 동료·선박·장비를 강화하며 바다를 탐험하는 임무 중심 구조로, 9월 신작 러시의 주말 출시작입니다.",
+          "source": "Gematsu",
+          "articleDate": "2026-09-07"
+        }
+      ]
+    },
     {
       "date": "2026-09-04",
       "lede": "마이크로소프트의 Xbox 클라우드 게임 이용 시간·종량제 개편과 브라우저 게임 이용자 조사, 스퀘어에닉스의 비상장 전환설 부인이 오늘 업계의 핵심입니다. 신작 쪽에서는 30개 이상 작품을 다룬 State of Play가 '파이널 판타지 VII 리벨레이션', '언틸 던 2', '길드워 3' 등 굵직한 소식을 쏟아냈습니다. 인벤 게임캘린더 기준 오늘은 '귀무자: 검의 길', 'NBA 2K27', 'BioEden' 등이 출시되고 주말에는 '타임 테이커즈' 글로벌 플레이 테스트가 이어집니다.",
