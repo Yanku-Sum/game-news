@@ -3389,9 +3389,122 @@
       "type": "정식출시",
       "url": "https://www.gamebusiness.jp/article/2026/09/05/27917.html",
       "source": "GameBusiness.jp"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "할로윈: 더 게임 (Halloween: The Game)",
+      "type": "정식출시",
+      "url": "https://www.gamesradar.com/new-pc-games/",
+      "source": "GamesRadar+"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "뮤제닉스 (Mewgenics)",
+      "type": "정식출시",
+      "url": "https://news.xbox.com/en-us/2026/09/04/next-week-on-xbox-new-games-for-september-7-to-11/amp/",
+      "source": "Xbox Wire"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "스프롤 제로 (Sprawl Zero)",
+      "type": "얼리액세스",
+      "url": "https://www.pcgamer.com/games/pc-game-release-dates-september-2026/",
+      "source": "PC Gamer"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "파이널 판타지 XIV 패치 7.56",
+      "type": "업데이트",
+      "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-14-fans-spot-evercold-character-in-the-mmos-patch-7-56-screenshots-immediately-theorize-the-expansions-new-dps-class-is-that-a-crossbow/",
+      "source": "GamesRadar+"
+    },
+    {
+      "date": "2026-09-09",
+      "title": "발하임 (Valheim) 1.0",
+      "type": "정식출시",
+      "url": "https://www.pcgamer.com/games/pc-game-release-dates-september-2026/",
+      "source": "PC Gamer"
     }
   ],
   "entries": [
+    {
+      "date": "2026-09-08",
+      "lede": "'귀무자: 검의 길'의 출시 첫날 판매 100만 장과 '더 블러드 오브 던워커'의 빠른 판매 성과가 9월 초 신작 시장의 관심을 모았습니다. 한편 Riot 공동창업자는 '2XKO'를 어려운 경쟁 환경의 사례로 언급했고, Saber Interactive는 '스페이스 마린 3'에 생성형 AI를 쓰지 않겠다고 밝혔습니다. 오늘은 '할로윈: 더 게임', '뮤제닉스', '스프롤 제로'가 출시되고, '파이널 판타지 XIV'는 7.56 패치를 적용합니다.",
+      "industry": [
+        {
+          "title": "'귀무자: 검의 길', 출시 첫날 판매 100만 장 돌파",
+          "url": "https://www.gematsu.com/2026/09/onimusha-way-of-the-sword-sales-top-one-million-on-launch-day",
+          "blurb": "Capcom이 '귀무자: 검의 길'의 출시 첫날 전 세계 판매가 100만 장을 넘었다고 발표했습니다. 시리즈 누적 판매도 1,000만 장을 돌파해, 오랜 공백 뒤 돌아온 액션 IP가 초기 흥행을 수치로 입증했습니다.",
+          "source": "Gematsu",
+          "articleDate": "2026-09-07"
+        },
+        {
+          "title": "Riot 공동창업자, '2XKO'는 실수가 아니라 어려운 시장 경쟁의 사례라고 언급",
+          "url": "https://www.pcgamer.com/games/fighting/riot-co-founder-doesnt-think-2xko-was-a-mistake-but-perhaps-a-tough-sell-youre-not-just-competing-against-games-youre-competing-against-everything/",
+          "blurb": "Marc Merrill은 '2XKO'가 실패한 시도라기보다 이용자의 시간과 관심을 두고 모든 엔터테인먼트와 경쟁해야 하는 어려운 도전이었다고 말했습니다. 서비스 개발이 2026년 이후 종료될 예정인 상황에서, 대형 IP 격투 게임의 지속 가능성과 라이브서비스 진입 장벽을 보여줍니다.",
+          "source": "PC Gamer",
+          "articleDate": "2026-09-07"
+        },
+        {
+          "title": "'더 블러드 오브 던워커', 출시 3일 만에 판매 100만 장",
+          "url": "https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalker-sold-1-million-copies-in-just-3-days/",
+          "blurb": "Rebel Wolves의 다크 판타지 RPG '더 블러드 오브 던워커'가 출시 후 3일 만에 판매 100만 장을 기록했습니다. 신규 스튜디오의 첫 타이틀이 빠르게 초기 수요를 확보한 사례로, 후속 업데이트와 지역별 현지화 대응이 흥행 유지의 관건이 됐습니다.",
+          "source": "PC Gamer",
+          "articleDate": "2026-09-06"
+        },
+        {
+          "title": "Saber Interactive, '스페이스 마린 3'에 생성형 AI를 쓰지 않겠다고 약속",
+          "url": "https://www.pcgamer.com/games/action/there-is-absolutely-no-generative-ai-in-space-marine-3-promises-saber-interactive-executive/",
+          "blurb": "Saber Interactive 임원이 '스페이스 마린 3'을 비롯한 주요 라이선스 프로젝트에 생성형 AI를 사용하지 않는다고 밝혔습니다. 개발 과정의 AI 활용을 둘러싼 이용자 우려가 커지는 가운데, 대형 프랜차이즈가 제작 원칙을 공개적으로 명시한 사례입니다.",
+          "source": "PC Gamer",
+          "articleDate": "2026-09-06"
+        },
+        {
+          "title": "Tetris Company, 백악관 행사에 등장한 테트리스 유사 게임과 무관하다고 발표",
+          "url": "https://www.gamebusiness.jp/article/2026/09/06/27921.html",
+          "blurb": "The Tetris Company가 백악관 행사에서 선보인 테트리스 유사 게임이 자사와 무관하다고 밝히며, 테트리스가 상징하는 연결과 협력의 가치와도 맞지 않는다고 설명했습니다. 세계적 게임 IP가 정치·문화적 맥락에서 어떤 방식으로 사용되는지와 브랜드 관리의 경계를 드러낸 일입니다.",
+          "source": "GameBusiness.jp",
+          "articleDate": "2026-09-06"
+        }
+      ],
+      "games": [
+        {
+          "title": "'할로윈: 더 게임' 오늘 출시, 영화 속 살인마를 피하는 비대칭 공포",
+          "url": "https://www.gamesradar.com/new-pc-games/",
+          "blurb": "'Halloween: The Game'이 9월 8일 출시됩니다. 플레이어는 마이클 마이어스가 되어 추적하거나 생존자 편에서 탈출을 시도하는 비대칭 공포 구조로, 대표 호러 영화 IP가 멀티플레이 게임으로 확장됩니다.",
+          "source": "GamesRadar+",
+          "articleDate": "2026-09-08"
+        },
+        {
+          "title": "'파이널 판타지 XIV' 7.56 패치 적용, 메인 시나리오와 비스트마스터 확장",
+          "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-14-fans-spot-evercold-character-in-the-mmos-patch-7-56-screenshots-immediately-theorize-the-expansions-new-dps-class-is-that-a-crossbow/",
+          "blurb": "'파이널 판타지 XIV'의 7.56 패치가 9월 8일 적용됩니다. 메인 시나리오와 비스트마스터 관련 콘텐츠가 이어지고, 공개된 이미지 속 단서가 차기 확장팩 신규 DPS 직업 추측으로 번지며 커뮤니티의 관심을 모았습니다.",
+          "source": "GamesRadar+",
+          "articleDate": "2026-09-03"
+        },
+        {
+          "title": "고양이 육성 로그라이크 '뮤제닉스', 콘솔판 포함 9월 8일 출시",
+          "url": "https://news.xbox.com/en-us/2026/09/04/next-week-on-xbox-new-games-for-september-7-to-11/amp/",
+          "blurb": "Edmund McMillen의 고양이 육성·전술 로그라이크 'Mewgenics'가 9월 8일 콘솔로 출시됩니다. 교배로 개성 있는 고양이 팀을 만들고 턴제 전투를 치르는 구성으로, 오랜 개발 기간을 거친 인디 기대작의 정식 출시입니다.",
+          "source": "Xbox Wire",
+          "articleDate": "2026-09-04"
+        },
+        {
+          "title": "도시 침투 액션 '스프롤 제로', 9월 8일 얼리 액세스 시작",
+          "url": "https://www.pcgamer.com/games/pc-game-release-dates-september-2026/",
+          "blurb": "사이버펑크풍 1인칭 침투 액션 'Sprawl Zero'가 9월 8일 얼리 액세스로 출시됩니다. 빠른 이동과 총격을 결합한 전투를 전면에 내세운 작품으로, 9월 초 PC 신작 라인업에 합류합니다.",
+          "source": "PC Gamer",
+          "articleDate": "2026-09-05"
+        },
+        {
+          "title": "'발하임' 1.0 정식 버전, 9월 9일 출시 예정",
+          "url": "https://www.pcgamer.com/games/pc-game-release-dates-september-2026/",
+          "blurb": "바이킹 생존 협동 게임 'Valheim'이 9월 9일 1.0 정식 버전을 선보일 예정입니다. 얼리 액세스에서 축적한 탐험·건축·협동 생존 경험이 정식 서비스 단계로 넘어가며, 장기 이용자와 복귀 이용자 모두의 관심을 받고 있습니다.",
+          "source": "PC Gamer",
+          "articleDate": "2026-09-05"
+        }
+      ]
+    },
     {
       "date": "2026-09-07",
       "lede": "대형 프로젝트의 인력 과특화 문제와 Gamescom 보안 대응, 모바일 생태계의 Apple ATT 소송이 업계 운영 이슈로 부각됐습니다. 신작 쪽에서는 State of Play 이후 'Fate/EXTRA Record'와 'GUNDAM ROGUE ORBIT'의 출시일이 확정됐고, '더 블러드 오브 던워커'는 일본어판 표현 규제 개선에 착수했습니다. 인벤 게임캘린더 기준 이번 주에는 'Wanderburg', 'Tiny Eden', '동방홍마향: New Classic'이 차례로 출시됩니다.",
