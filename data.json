@@ -2,6 +2,41 @@
   "pagesUrl": "https://yanku-sum.github.io/game-news/",
   "analyses": [
     {
+      "date": "2026-09-09",
+      "game": "발하임 (Valheim)",
+      "hook": "2021년 2월 얼리액세스로 출발한 바이킹 생존 게임 '발하임'이 5년여 만에 1.0과 최종 생물군계 Deep North를 공개하며 정식 서비스 단계로 넘어갑니다. PS5·스위치2 동시 출시와 전 플랫폼 크로스플레이까지 더해 기존 커뮤니티의 복귀와 신규 유입이 겹치는 시점입니다.",
+      "coreLoop": "절차 생성 세계를 탐험해 목재·광물·식재료를 모으고, 작업대와 장비·거점을 강화한 뒤 보스와 더 위험한 생물군계에 도전합니다. 새 전리품과 제작법이 다음 항해·건축·전투 준비를 열어 주므로 탐험 → 채집·제작 → 전투·보스 → 상위 생물군계 탐험의 순환이 자연스럽게 이어집니다.",
+      "growthCurve": "성장은 캐릭터 레벨보다 장비 티어, 음식 조합, 건축 인프라와 생물군계 접근 권한에 집중됩니다. 초반에는 피난처와 기본 도구를 빠르게 만들게 하고, 이후 금속 운송·항해·보스 준비에 필요한 자원을 단계적으로 늘려 협동 분업과 원정 계획의 밀도를 높입니다. 1.0의 Deep North는 이 계단형 곡선의 최종 구간 역할을 합니다.",
+      "funMechanics": "낮은 폴리곤 풍경에서 폭풍·안개·밤의 위험을 체감하며 미지의 해안을 발견하는 탐험 감각, 원하는 구조물을 실제 거점으로 완성하는 건축 성취, 예측하기 어려운 항해와 보스전의 긴장이 결합됩니다. 한편 위험한 원정 뒤 아늑한 집으로 돌아와 장비와 식량을 정리하는 대비가 장기 플레이의 정서적 보상으로 작동합니다.",
+      "benchmarks": "① 생물군계를 명확한 장비·자원 관문으로 설계해 샌드박스의 자유와 목표감을 함께 유지합니다. ② 건축·전투·채집을 분리하지 않고 같은 자원 경제 안에 묶어 협동 시 자연스러운 역할 분담을 만듭니다. ③ 얼리액세스 기간에 커뮤니티 피드백을 반영하면서 큰 생물군계 업데이트를 이정표로 제시해 장기 기대감을 관리합니다. ④ 1.0과 콘솔 확장·크로스플레이를 같은 시점에 배치해 콘텐츠 완성과 시장 확장을 연결합니다.",
+      "businessModel": "기본은 한 번 구매하는 프리미엄 패키지 모델입니다. Steam 얼리액세스에서 PC·Xbox로 확장해 왔고, 1.0부터 PS5와 스위치2까지 판매 채널을 넓히며 크로스플레이로 플랫폼 분절을 줄입니다. 공식 FAQ에 따르면 1.0 시점 가격은 20달러에서 30달러로 인상되며, 향후에는 버그 수정과 품질 개선을 이어가되 대형 콘텐츠 추가는 확정하지 않았습니다.",
+      "onboarding": "처음에는 까마귀 안내와 제작 목록을 통해 침대·작업대·불·기초 무기를 차례로 익히게 하며, 짧은 생존 과제를 통해 건축과 음식의 필요성을 체감시킵니다. 다만 날씨·휴식·무게·전투 패링·항해처럼 서로 연결된 규칙이 많아 초보자에게는 정보량이 적지 않습니다. 1.0 FAQ가 새 월드 시작을 권하는 이유도 미탐험 지역에서 새 생물군계가 자연스럽게 생성되기 때문입니다.",
+      "targetUser": "혼자 천천히 탐험·건축하는 생존 샌드박스 이용자와, 친구 단위로 원정·보스전에 도전하는 협동 이용자가 핵심입니다. 정교한 자동화나 강한 서사보다 노르드 신화 분위기, 절차 생성 탐험, 물리적인 거점 건설을 전면에 두며, '마인크래프트'식 창작과 '테라리아'식 보스 진척 사이의 위치를 점합니다.",
+      "community": "1~10인 협동과 전용 서버, 전 플랫폼 크로스플레이가 건축물 공유·원정 역할 분담·월드 탐험 기록을 촉진합니다. 개발팀은 공식 블로그와 Steam 공지를 통해 업데이트·FAQ를 제공하고, 커뮤니티의 건축물을 월간 코너로 소개해 이용자 창작을 가시화해 왔습니다. 1.0은 기존 저장 파일을 유지하면서도 새 월드 시작을 권장해 복귀 커뮤니티의 공동 출발 이벤트를 만들기 좋은 계기입니다.",
+      "links": [
+        {
+          "title": "Valheim Has A Release Date!",
+          "url": "https://valheim.com/news/valheim-has-a-release-date-/",
+          "source": "Valheim 공식"
+        },
+        {
+          "title": "Valheim 1.0 FAQ",
+          "url": "https://valheim.com/support/valheim-1-0-faq/",
+          "source": "Valheim 공식"
+        },
+        {
+          "title": "Valheim on Steam",
+          "url": "https://store.steampowered.com/app/892970/Valheim/",
+          "source": "Steam"
+        },
+        {
+          "title": "Valheim 1.0 release schedule",
+          "url": "https://www.pcgamer.com/games/pc-game-release-dates-september-2026/",
+          "source": "PC Gamer"
+        }
+      ]
+    },
+    {
       "date": "2026-09-04",
       "game": "귀무자: 검의 길 (Onimusha: Way of the Sword)",
       "hook": "20년 만의 '귀무자' 본편이 오늘 출시됐고, 인벤 주간 TOP 게임 4위와 출시 전후의 강한 리뷰 반응으로 화제의 중심에 섰습니다. 일섬·패링이 만드는 강렬한 검극과 RE 엔진의 연출은 호평받는 반면, 반복적인 잡무와 다대일 전투의 피로는 평가가 갈려 출시 직후 분석 가치가 큽니다.",
@@ -3424,9 +3459,101 @@
       "type": "정식출시",
       "url": "https://www.pcgamer.com/games/pc-game-release-dates-september-2026/",
       "source": "PC Gamer"
+    },
+    {
+      "date": "2026-09-09",
+      "title": "바바리안 사가: 더 비스트마스터 (Barbarian Saga: The Beastmaster)",
+      "type": "정식출시",
+      "url": "https://as.com/meristation/noticias/los-lanzamientos-de-videojuegos-mas-destacados-de-la-semana-del-7-al-13-de-septiembre-2026-para-pc-steam-switch-ps5-y-xbox-f202609-n/",
+      "source": "MeriStation"
+    },
+    {
+      "date": "2026-09-09",
+      "title": "디텍티브 VR (Detective VR)",
+      "type": "정식출시",
+      "url": "https://as.com/meristation/noticias/los-lanzamientos-de-videojuegos-mas-destacados-de-la-semana-del-7-al-13-de-septiembre-2026-para-pc-steam-switch-ps5-y-xbox-f202609-n/",
+      "source": "MeriStation"
     }
   ],
   "entries": [
+    {
+      "date": "2026-09-09",
+      "lede": "Cygames의 신규 브랜드 출범과 Roblox의 아랍어권 커뮤니티 확장, Epic Games Store의 호주 연령 확인 의무화가 플랫폼·퍼블리싱 운영 이슈로 떠올랐습니다. 신작 쪽에서는 젤다의 전설 시간의 오카리나 리메이크와 아틀리에 카리아의 출시일이 공개됐고, '발하임'은 5년여 얼리액세스를 마치고 1.0 및 Deep North 업데이트를 선보입니다.",
+      "industry": [
+        {
+          "title": "Cygames, 중소 팀 지원 브랜드 CygamesEdge 출범",
+          "url": "https://www.pocketgamer.biz/cygames-launches-new-brand-cygamesedge-with-first-game-releasing-in-november/",
+          "blurb": "Cygames가 중소 규모 개발팀을 지원하는 신규 브랜드 CygamesEdge를 공개했습니다. 첫 작품 'Where the Seeds Fall'은 Zereo와 공동 개발해 11월 5일 PS5·스위치2·PC로 출시할 예정으로, 모바일 IP 중심 회사가 콘솔·PC 협업 라인까지 확장하는 행보입니다.",
+          "source": "PocketGamer.biz",
+          "articleDate": "2026-09-08"
+        },
+        {
+          "title": "Roblox, 아랍어권 이용자·크리에이터 대상 Roblox Arabia 채널 개설",
+          "url": "https://www.pocketgamer.biz/roblox-launches-arabic-social-channels-with-roblox-arabia/",
+          "blurb": "Roblox가 아랍어 콘텐츠·뉴스·업데이트를 제공할 소셜 채널 Roblox Arabia를 시작했습니다. 사우디 개발 생태계 협력과 리야드 지역 거점 계획에 이어, 현지 크리에이터와 커뮤니티를 전면에 세우는 MENA 확장 전략입니다.",
+          "source": "PocketGamer.biz",
+          "articleDate": "2026-09-08"
+        },
+        {
+          "title": "Epic Games Store, 호주 R18+ 게임에 연령 확인 적용",
+          "url": "https://www.pocketgamer.biz/epic-games-store-to-require-age-verification-for-r18-games-in-australia/",
+          "blurb": "Epic Games Store가 9월 9일부터 호주에서 R18+ 등급 게임을 구매·다운로드할 때 성인 인증을 요구합니다. 기존 보유 게임과 낮은 등급에는 적용하지 않으며, 온라인 안전 규제 대응이 스토어의 유통·온보딩 절차를 바꾸는 사례입니다.",
+          "source": "PocketGamer.biz",
+          "articleDate": "2026-09-08"
+        },
+        {
+          "title": "'델타 포스', 모바일 일일 이용자 지출 1,000만 달러 첫 돌파",
+          "url": "https://www.pocketgamer.biz/delta-force-surpasses-10m-in-daily-player-spending-for-the-first-time/",
+          "blurb": "Team Jade의 '델타 포스'가 9월 4일 모바일 일일 이용자 지출 1,000만 달러를 처음 넘긴 뒤 다음 날 약 1,010만 달러로 신기록을 세웠습니다. 시즌 말 콘텐츠 업데이트와 보상 이벤트가 단기 매출 급증을 만들며, 글로벌 모바일 매출 1위까지 올랐습니다.",
+          "source": "PocketGamer.biz",
+          "articleDate": "2026-09-07"
+        },
+        {
+          "title": "중국 게임 시장, 2025년 518억 달러로 처음 500억 달러 돌파",
+          "url": "https://www.pocketgamer.biz/china-games-market-surpasses-50bn-for-the-first-time-as-player-base-is-forecast-to-hit-769m-by-2030/",
+          "blurb": "Niko Partners 자료에 따르면 중국 게임 시장은 2025년 전년 대비 5.4% 성장한 518억 달러를 기록했습니다. 짧은 영상이 주요 게임 발견 경로가 되고 미니게임이 모바일 지출의 약 20%를 차지하는 등, 유통·마케팅 채널 변화도 함께 확인됐습니다.",
+          "source": "PocketGamer.biz",
+          "articleDate": "2026-09-07"
+        }
+      ],
+      "games": [
+        {
+          "title": "'젤다의 전설 시간의 오카리나' 리메이크, 11월 5일 스위치2 출시",
+          "url": "https://www.gematsu.com/2026/09/the-legend-of-zelda-ocarina-of-time-remake-launches-november-5",
+          "blurb": "닌텐도가 '젤다의 전설 시간의 오카리나' 리메이크를 11월 5일 스위치2로 출시한다고 발표했습니다. 전면 개편된 비주얼·풀 보이스 컷신·오케스트라 음악과 조작·카메라 개선을 더해 1998년작을 현대 하드웨어에 맞춰 재구성합니다.",
+          "source": "Gematsu",
+          "articleDate": "2026-09-08"
+        },
+        {
+          "title": "'아틀리에 카리아', 2027년 2월 25일 출시 확정",
+          "url": "https://www.gematsu.com/2026/09/atelier-karia-the-night-kingdom-the-guide-of-memories-launches-february-25-2027",
+          "blurb": "코에이테크모와 Gust가 '아틀리에 카리아: 밤의 왕국과 추억의 길잡이'를 2027년 2월 25일 PS5·Xbox Series·스위치2·PC로 출시한다고 발표했습니다. 기억을 잃은 연금술사 카리아와 지하 세계를 탐험하며, 스타일 전환과 재료 연결형 조합 시스템을 핵심으로 내세웁니다.",
+          "source": "Gematsu",
+          "articleDate": "2026-09-08"
+        },
+        {
+          "title": "당나라 배경 턴제 RPG 'Tianji: Shadow of the Ancients' 발표",
+          "url": "https://www.gematsu.com/2026/09/tang-dynasty-set-turn-based-rpg-tianji-shadow-of-the-ancients-announced-for-ps5-switch-2-switch-and-pc",
+          "blurb": "Justdan International이 당나라 천보 연간을 배경으로 한 턴제 RPG 'Tianji: Shadow of the Ancients'를 발표했습니다. 콤보·약점 공략·추격 스킬을 결합한 전투와 탐험 요소를 갖추며, 2027년 PS5·스위치·스위치2·PC로 출시될 예정입니다.",
+          "source": "Gematsu",
+          "articleDate": "2026-09-08"
+        },
+        {
+          "title": "'몬스터 헌터 와일즈: Ascendance', 한손검 강화 액션 영상 공개",
+          "url": "https://www.gematsu.com/2026/09/monster-hunter-wilds-expansion-ascendance-trailer-sword-shield-boosted-action-breakdown",
+          "blurb": "Capcom이 2027년 예정 대형 확장팩 'Ascendance'의 한손검 강화 액션 영상을 공개했습니다. 강화 콤보, Bladecoating Slash, 원거리 상처 클러치 등 무기별 변화가 이어지며, 확장팩의 전투 업데이트를 단계적으로 알리고 있습니다.",
+          "source": "Gematsu",
+          "articleDate": "2026-09-08"
+        },
+        {
+          "title": "'발하임' 1.0 정식 버전 및 Deep North 업데이트 오늘 적용",
+          "url": "https://www.pcgamer.com/games/pc-game-release-dates-september-2026/",
+          "blurb": "바이킹 생존 게임 'Valheim'이 9월 9일 1.0으로 얼리액세스를 마치고 마지막 생물군계 Deep North를 추가합니다. PS5·스위치2 버전도 같은 날 합류하고 전 플랫폼 크로스플레이를 지원해, 장기 서비스 게임의 정식 전환과 이용자 기반 확장을 동시에 노립니다.",
+          "source": "PC Gamer",
+          "articleDate": "2026-09-05"
+        }
+      ]
+    },
     {
       "date": "2026-09-08",
       "lede": "'귀무자: 검의 길'의 출시 첫날 판매 100만 장과 '더 블러드 오브 던워커'의 빠른 판매 성과가 9월 초 신작 시장의 관심을 모았습니다. 한편 Riot 공동창업자는 '2XKO'를 어려운 경쟁 환경의 사례로 언급했고, Saber Interactive는 '스페이스 마린 3'에 생성형 AI를 쓰지 않겠다고 밝혔습니다. 오늘은 '할로윈: 더 게임', '뮤제닉스', '스프롤 제로'가 출시되고, '파이널 판타지 XIV'는 7.56 패치를 적용합니다.",
