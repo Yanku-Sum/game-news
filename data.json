@@ -2,6 +2,46 @@
   "pagesUrl": "https://yanku-sum.github.io/game-news/",
   "analyses": [
     {
+      "date": "2026-09-11",
+      "game": "마리오 카트 월드 (Mario Kart World)",
+      "hook": "닌텐도가 9월 9일 '마리오 카트 월드' 무료 Ver. 1.8.0을 배포해 클래식 코스 10개와 Knockout Tour 신규 루트 2개를 추가했습니다. 이미 연결형 월드·24인 레이스로 넓힌 기본 경험에, 친숙한 코스를 실제 경쟁 콘텐츠로 되돌려 복귀와 온라인 매칭의 이유를 만드는 업데이트입니다.",
+      "coreLoop": "플레이어는 그랑프리·온라인 레이스·Knockout Tour에서 드리프트와 아이템 사용으로 순위를 다투고, 결과에 따라 다음 코스와 루트를 경험합니다. 연결된 월드의 도로가 코스 사이를 잇는 구조라 한 판의 레이스만이 아니라 이동·경쟁·발견이 이어지며, Ver. 1.8.0은 VS·온라인에서 고를 수 있는 클래식 코스와 Knockout Tour의 두 루트를 늘려 반복 선택지를 확장합니다.",
+      "growthCurve": "패키지 레이싱 게임인 만큼 수치 성장보다 코스 숙련, 아이템 대응, 지름길·루트 이해가 실력 성장의 중심입니다. 초반에는 짧은 레이스와 익숙한 캐릭터로 조작을 익히고, 이후 24인 경쟁과 Knockout Tour의 체크포인트 탈락 규칙으로 압박을 높입니다. 업데이트의 클래식 코스는 새 콘텐츠이면서도 기존 시리즈 경험자를 위한 빠른 재진입 지점 역할을 합니다.",
+      "funMechanics": "순위가 낮을수록 역전용 아이템을 얻을 가능성이 높아 마지막까지 변수가 남고, 24인 레이스와 체크포인트 방식은 매 구간의 위치 싸움을 긴장감 있게 만듭니다. 넓은 연결형 월드가 이동 자체를 볼거리로 만들며, 클래식 코스의 ? 패널 같은 규칙을 현대적 모드에 다시 넣어 익숙함과 새로움을 동시에 제공합니다.",
+      "benchmarks": "① 무료 업데이트를 단순 밸런스 패치가 아니라 온라인에서 직접 선택할 수 있는 코스·루트 확장으로 설계했습니다. ② 원작 '슈퍼 마리오 카트'의 코스를 향수 요소에 그치지 않고 VS·온라인 경쟁의 재사용 가능한 자산으로 전환했습니다. ③ Knockout Tour에 신규 루트를 넣어 실력 기반 반복 플레이의 지도를 넓혔습니다. ④ 빠른 레이스, 장거리 생존형 경쟁, 자유 주행을 병렬로 둬 서로 다른 세션 길이에 대응합니다.",
+      "businessModel": "기본은 Nintendo Switch 2 전용 패키지 판매이며, 온라인 기능 이용에는 Nintendo Switch Online 가입이 필요합니다. 이번 Ver. 1.8.0은 무료로 배포해 기존 소유자의 이탈을 낮추고 신규 구매자에게는 업데이트가 이어지는 타이틀이라는 가치를 더합니다. 구독과 본편 판매가 만나는 구조에서 무료 콘텐츠 확장은 온라인 인구와 장기 판매를 함께 뒷받침합니다.",
+      "onboarding": "캐릭터 IP와 기본적인 가속·드리프트·아이템 규칙이 진입 장벽을 낮춥니다. 그 뒤 그랑프리에서 코스 감각을 익히고, 온라인과 Knockout Tour에서 24인 경쟁·체크포인트 탈락이라는 압박을 단계적으로 경험하게 됩니다. 업데이트 코스는 과거 시리즈 경험자에게는 즉시 이해되는 진입점이고, 신규 이용자에게는 기존 코스와 다른 노면·아이템 패널 규칙을 배우는 변주가 됩니다.",
+      "targetUser": "가족·친구와 짧게 즐길 수 있는 캐주얼 레이싱 이용자부터, 온라인 순위전과 루트 최적화에 몰입하는 경쟁 이용자까지 포괄합니다. 특히 시리즈의 클래식 코스 기억이 있는 이용자와 Switch 2에서 지속 업데이트되는 대형 레이싱 게임을 찾는 층에 잘 맞습니다.",
+      "community": "온라인 플레이와 Knockout Tour의 대규모 경쟁은 기록·루트·아이템 대응을 공유할 소재를 만듭니다. Nintendo Switch Online이 온라인 기능의 전제이므로 업데이트가 적용된 동일 버전을 유지하는 일이 매칭과 커뮤니티 운영의 기반입니다. 무료 코스·루트 추가는 기존 이용자를 다시 한 서버와 화제에 모으는, 라이브 서비스형 커뮤니티 유지 장치로 작동합니다.",
+      "links": [
+        {
+          "title": "Mario Kart World Ver. 1.8.0 업데이트 안내",
+          "url": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/68580",
+          "source": "Nintendo Support"
+        },
+        {
+          "title": "무료 업데이트: SNES 코스와 Knockout Tour 루트",
+          "url": "https://www.nintendo.com/en-ca/whatsnew/mario-kart-world-adds-snes-courses-and-knockout-tour-routes-in-a-free-update/",
+          "source": "Nintendo"
+        },
+        {
+          "title": "마리오 카트 월드의 연결형 월드 소개",
+          "url": "https://www.nintendo.com/us/gaming-systems/switch-2/featured-games/mario-kart-world/world/",
+          "source": "Nintendo"
+        },
+        {
+          "title": "마리오 카트 월드 발표 상세",
+          "url": "https://www.nintendo.com/us/whatsnew/mario-kart-world-direct-revs-up-new-details-on-the-biggest-mario-kart-ever-coming-to-nintendo-switch-2/",
+          "source": "Nintendo"
+        },
+        {
+          "title": "Nintendo Direct 2026.9.9 발표 정리",
+          "url": "https://www.gamesradar.com/news/live/nintendo-direct-september-2026-everything-announced/",
+          "source": "GamesRadar+"
+        }
+      ]
+    },
+    {
       "date": "2026-09-10",
       "game": "데이브 더 다이버 (DAVE THE DIVER)",
       "hook": "MINTROCKET의 '데이브 더 다이버'가 전 플랫폼 누적 1,000만 장 판매를 넘었습니다. 바다 탐험과 초밥집 경영이라는 서로 다른 장르의 일상 루프를 묶고, 콘솔 이식·콜라보·콘텐츠 팩으로 접점을 넓힌 결과가 장기 판매로 이어진 사례입니다.",
@@ -1458,6 +1498,34 @@
     }
   ],
   "releases": [
+    {
+      "date": "2026-09-11",
+      "title": "Age of Empires III: Definitive Edition - The Baltic Powers",
+      "type": "정식출시",
+      "url": "https://www.inven.co.kr/webzine/calendar/",
+      "source": "인벤 게임 캘린더"
+    },
+    {
+      "date": "2026-09-11",
+      "title": "Shroom and Gloom",
+      "type": "정식출시",
+      "url": "https://www.inven.co.kr/webzine/calendar/",
+      "source": "인벤 게임 캘린더"
+    },
+    {
+      "date": "2026-09-11",
+      "title": "Welcome to Elderfield",
+      "type": "정식출시",
+      "url": "https://www.inven.co.kr/webzine/calendar/",
+      "source": "인벤 게임 캘린더"
+    },
+    {
+      "date": "2026-09-11",
+      "title": "WARDOGS",
+      "type": "정식출시",
+      "url": "https://www.inven.co.kr/webzine/calendar/",
+      "source": "인벤 게임 캘린더"
+    },
     {
       "date": "2026-04-15",
       "title": "몬길: 스타 다이브",
@@ -3539,6 +3607,91 @@
     }
   ],
   "entries": [
+    {
+      "date": "2026-09-11",
+      "lede": "퍼블리싱과 노동 환경에서는 Xbox의 'Physint' 퍼블리싱 인수, Blizzard 노조 계약, EA의 AI 음성 활용이 화제가 됐습니다. 게임 쪽에서는 '마리오 카트 월드' 무료 업데이트와 9월 11일 출시작들이 눈에 띄며, 라이브 서비스의 무료 콘텐츠 확장과 신작 출시가 동시에 이어졌습니다.",
+      "industry": [
+        {
+          "title": "Xbox, 코지마 프로덕션의 'Physint' 퍼블리싱 맡는다",
+          "url": "https://www.gamedeveloper.com/business/xbox-to-publish-kojima-productions-physint-after-playstation-ditches-project",
+          "blurb": "Game Developer 보도에 따르면 PlayStation이 퍼블리싱 관계를 끝낸 뒤 Xbox가 코지마 프로덕션의 'Physint' 퍼블리싱을 맡게 됐습니다. Xbox는 코지마 프로덕션과 함께 진행 중인 'OD - Knock'도 지원하며, 퍼블리셔 교체가 프로젝트의 유통·플랫폼 전략에 어떤 변화를 줄지 주목됩니다.",
+          "source": "Game Developer",
+          "articleDate": "2026-09-10"
+        },
+        {
+          "title": "EA, 'NHL 27' 해설에 생성형 AI 음성 기술 활용",
+          "url": "https://www.gamedeveloper.com/business/report-ea-s-nhl-27-is-using-genai-to-create-voiceover-claims-a-sports-commentator",
+          "blurb": "EA는 해설진의 동의와 협업 아래 50회 이상 녹음 세션으로 얻던 범위를 AI 음성 기술로 확장했다고 밝혔습니다. 'NHL 27'의 이름 인식과 반복 대사 개선을 목표로 한 적용 사례로, 실제 인물 음성을 다루는 라이선스·동의 절차가 핵심 쟁점입니다.",
+          "source": "Game Developer",
+          "articleDate": "2026-09-10"
+        },
+        {
+          "title": "Blizzard 노조, 1,900명 대상 계약 비준",
+          "url": "https://www.gamedeveloper.com/production/blizzard-union-workers-ratify-historic-contract-covering-1-900-employees",
+          "blurb": "Blizzard 직원 노조가 약 1,900명을 포괄하는 계약을 비준했습니다. 임금 인상, 주 3일 하이브리드 근무, 원격·장애 편의, 해고 뒤 공석 재채용권과 함께 AI 사용을 논의·평가·교섭하도록 한 조항이 포함됐다고 보도됐습니다.",
+          "source": "Game Developer",
+          "articleDate": "2026-09-09"
+        },
+        {
+          "title": "Frontier Developments, FY2026 조정 영업이익 62% 증가",
+          "url": "https://www.gamedeveloper.com/business/planet-zoo-maker-frontier-developments-adjusted-operating-profit-jumps-62-percent",
+          "blurb": "'Planet Zoo'·'Planet Coaster' 제작사 Frontier는 FY2026 조정 영업이익이 2,140만 파운드로 62% 늘었고 매출도 16% 증가했다고 밝혔습니다. 보도는 'Jurassic World Evolution 3'와 기존 프랜차이즈의 거래 성과, 비용 통제를 성장 배경으로 짚었습니다.",
+          "source": "Game Developer",
+          "articleDate": "2026-09-09"
+        },
+        {
+          "title": "Rockstar 해고 노동자 관련 노동재판 시작",
+          "url": "https://www.gamedeveloper.com/production/-justice-at-last-feels-within-reach-fired-rockstar-workers-rally-in-glasgow-as-union-busting-tribunal-begins",
+          "blurb": "Glasgow에서 Rockstar 해고 노동자 34명 관련 노동재판이 시작됐습니다. 노동자 측은 노조 활동에 대한 보복성 해고라고 주장했고, Rockstar는 중대한 위법행위에 따른 조치라는 입장입니다. 재판은 10월 16일까지 이어질 예정으로 보도됐습니다.",
+          "source": "Game Developer",
+          "articleDate": "2026-09-10"
+        }
+      ],
+      "games": [
+        {
+          "title": "'마리오 카트 월드' Ver. 1.8.0, 클래식 코스 10개·신규 랠리 2개 무료 추가",
+          "url": "https://www.nintendo.com/en-ca/whatsnew/mario-kart-world-adds-snes-courses-and-knockout-tour-routes-in-a-free-update/",
+          "blurb": "닌텐도는 9월 9일 스위치2 전용 '마리오 카트 월드'에 무료 Ver. 1.8.0을 배포했습니다. 오리지널 '슈퍼 마리오 카트'에서 영감 받은 10개 코스를 VS 레이스·온라인 플레이에 더하고, Knockout Tour에는 Propeller Rally와 Turnip Rally를 추가했습니다.",
+          "source": "Nintendo",
+          "articleDate": "2026-09-09"
+        },
+        {
+          "title": "닌텐도 다이렉트, 'Metroid Prime 4: Ravenous'와 'Kirby and the World Beyond' 공개",
+          "url": "https://www.gamesradar.com/news/live/nintendo-direct-september-2026-everything-announced/",
+          "blurb": "9월 9일 닌텐도 다이렉트에서는 스위치2용 신작과 업데이트가 다수 공개됐습니다. GamesRadar 정리에 따르면 'Metroid Prime 4: Ravenous'는 2027년 1월, 3D 어드벤처 'Kirby and the World Beyond'는 2027년 출시를 예고해 차세대 라인업의 방향을 제시했습니다.",
+          "source": "GamesRadar+",
+          "articleDate": "2026-09-09"
+        },
+        {
+          "title": "'WARDOGS', 9월 11일 정식 출시",
+          "url": "https://www.inven.co.kr/webzine/calendar/",
+          "blurb": "인벤 게임 캘린더는 9월 11일 출시작으로 100인 규모 전투를 내세운 FPS 'WARDOGS'를 표기했습니다. 같은 날짜에 여러 PC 신작이 몰리며, 스팀 가을 출시 구간의 경쟁이 이어집니다.",
+          "source": "인벤 게임 캘린더",
+          "articleDate": "2026-09-11"
+        },
+        {
+          "title": "'Shroom and Gloom', 9월 11일 출시",
+          "url": "https://www.inven.co.kr/webzine/calendar/",
+          "blurb": "인벤 게임 캘린더에 따르면 카드 빌딩 로그라이크 'Shroom and Gloom'이 9월 11일 출시됩니다. 카드 조합과 반복 도전 구조를 전면에 둔 인디 신작으로, 같은 날 출시작 사이에서 장르 팬층을 겨냥합니다.",
+          "source": "인벤 게임 캘린더",
+          "articleDate": "2026-09-11"
+        },
+        {
+          "title": "'Age of Empires III: DE - The Baltic Powers', 9월 11일 출시",
+          "url": "https://www.inven.co.kr/webzine/calendar/",
+          "blurb": "인벤 게임 캘린더는 'Age of Empires III: Definitive Edition - The Baltic Powers'의 9월 11일 출시를 안내했습니다. 장기 운영 중인 전략 게임에 새 콘텐츠를 투입하는 확장 출시로, 기존 이용자의 복귀 계기를 만듭니다.",
+          "source": "인벤 게임 캘린더",
+          "articleDate": "2026-09-11"
+        },
+        {
+          "title": "'Welcome to Elderfield', 9월 11일 출시",
+          "url": "https://www.inven.co.kr/webzine/calendar/",
+          "blurb": "인벤 게임 캘린더에는 생활 시뮬레이션 어드벤처 'Welcome to Elderfield'가 9월 11일 출시작으로 올라왔습니다. 소규모 신작의 출시일을 함께 확인할 수 있어, 대형 타이틀 외의 당일 선택지를 파악하는 데 유용합니다.",
+          "source": "인벤 게임 캘린더",
+          "articleDate": "2026-09-11"
+        }
+      ]
+    },
     {
       "date": "2026-09-10",
       "lede": "모바일 시장에서는 '페이트/그랜드 오더' 기념 이벤트와 '발로란트 모바일'의 중국 성과가 매출 지표를 끌어올렸고, Apple의 EU 앱스토어 조건과 AI 활용 방식은 개발사 운영의 쟁점으로 남았습니다. 게임 쪽에서는 닌텐도 다이렉트의 대형 발표와 '노 맨즈 스카이' 7.0 업데이트, '데이브 더 다이버'의 1,000만 장 판매 돌파가 주목을 받았습니다.",
