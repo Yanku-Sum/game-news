@@ -3692,6 +3692,84 @@
   ],
   "entries": [
     {
+      "date": "2026-09-16",
+      "lede": "9월 중순 출시와 플랫폼 조정이 이어졌습니다. ‘007 First Light’ 스위치2판 지연, Steam Deck 2 일정 유지, Game Pass 편입·이탈 등이 주요 변화이며, 내일 열리는 도쿄게임쇼 일정도 주목할 시점입니다.",
+      "industry": [
+        {
+          "title": "Everplay, WARDOGS 흥행 뒤 개발사 지분 확대",
+          "url": "https://gameworldobserver.com/?date=2026/09/15",
+          "blurb": "Game World Observer에 따르면 Everplay Group은 WARDOGS 출시 성과 뒤 개발사 Bulkhead 관련 지분을 늘렸습니다. 흥행 직후 투자 비중을 확대하는 퍼블리셔의 사례입니다.",
+          "source": "Game World Observer",
+          "articleDate": "2026-09-15"
+        },
+        {
+          "title": "Valve, 부품 수급 이슈에도 Steam Deck 2 로드맵 유지",
+          "url": "https://dailygamewire.com/",
+          "blurb": "Valve는 메모리 가격·수급 문제에도 Steam Deck 2 계획은 영향을 받지 않았다고 밝혔습니다. 휴대용 하드웨어 원가 압박 속에서도 차세대 제품 계획을 유지하는 입장입니다.",
+          "source": "Daily Game Wire",
+          "articleDate": "2026-09-15"
+        },
+        {
+          "title": "Supercell 창업자들, 핀란드 CRM 스타트업 Zero 투자",
+          "url": "https://dailygamewire.com/",
+          "blurb": "Supercell 창업자들이 핀란드 CRM 스타트업 Zero의 1,030만 달러 시드 투자에 참여했습니다. 게임 업계 창업자의 기술 스타트업 투자 사례로 소개됐습니다.",
+          "source": "Daily Game Wire",
+          "articleDate": "2026-09-15"
+        },
+        {
+          "title": "Neowiz, ‘Wonders of O’ 상표 출원",
+          "url": "https://dailygamewire.com/",
+          "blurb": "Neowiz가 ‘Wonders of O’ 상표를 출원해 ‘Lies of P’ 세계관 확장 가능성을 시사했습니다. 공식 발표 전 단계이므로 후속작 여부는 확인되지 않았습니다.",
+          "source": "Daily Game Wire",
+          "articleDate": "2026-09-15"
+        },
+        {
+          "title": "Riot, 예측시장 사업자 스폰서십 검토 보도",
+          "url": "https://dailygamewire.com/",
+          "blurb": "Daily Game Wire는 Riot Games가 Kalshi·Polymarket과 스폰서십을 논의 중이라고 전했습니다. e스포츠의 베팅·규제 이슈와 맞물릴 수 있는 사안입니다.",
+          "source": "Daily Game Wire",
+          "articleDate": "2026-09-12"
+        }
+      ],
+      "games": [
+        {
+          "title": "‘007 First Light’ 스위치2판, 2027년 3월로 연기",
+          "url": "https://dailygamewire.com/",
+          "blurb": "IO Interactive는 성능 다듬기를 이유로 스위치2판 출시를 2027년 3월로 미뤘다고 밝혔습니다.",
+          "source": "Daily Game Wire",
+          "articleDate": "2026-09-15"
+        },
+        {
+          "title": "‘Rayman Legends Retold’, 12월 3일로 출시 연기",
+          "url": "https://dailygamewire.com/",
+          "blurb": "Ubisoft는 골드 단계 뒤에도 추가 완성도를 위해 출시일을 10월 1일에서 12월 3일로 조정했습니다.",
+          "source": "Daily Game Wire",
+          "articleDate": "2026-09-14"
+        },
+        {
+          "title": "‘Diablo 4’, 추가 유료 확장 중단·Diablo 5로 전환",
+          "url": "https://dailygamewire.com/",
+          "blurb": "Blizzard는 Diablo 4의 추가 유료 확장은 계획하지 않고 2029년 Diablo 5에 집중한다고 설명했습니다.",
+          "source": "Daily Game Wire",
+          "articleDate": "2026-09-14"
+        },
+        {
+          "title": "‘RuneScape: Dragonwilds’, Xbox Game Pass 합류",
+          "url": "https://www.windowscentral.com/gaming/xbox/another-call-of-duty-title-joins-xbox-game-pass-as-cyberpunk-2077-leaves-it-for-septembers-first-wave-of-games-coming-and-exiting-the-service",
+          "blurb": "RuneScape: Dragonwilds가 9월 15일 Xbox Game Pass의 클라우드·콘솔·PC 라인업에 추가됐습니다.",
+          "source": "Windows Central",
+          "articleDate": "2026-09-15"
+        },
+        {
+          "title": "Cyberpunk 2077 등 10개 타이틀, Game Pass 이탈",
+          "url": "https://www.windowscentral.com/gaming/xbox/another-call-of-duty-title-joins-xbox-game-pass-as-cyberpunk-2077-leaves-it-for-septembers-first-wave-of-games-coming-and-exiting-the-service",
+          "blurb": "Cyberpunk 2077, Dead Cells, Frostpunk 2 등은 9월 15일 Game Pass에서 제외됐습니다.",
+          "source": "Windows Central",
+          "articleDate": "2026-09-15"
+        }
+      ]
+    },
+    {
       "date": "2026-09-15",
       "lede": "신작 쪽에서는 ‘WARDOGS’가 출시 24시간 만에 100만 장 이상을 판매하며 멀티플레이 슈터 시장의 이변으로 떠올랐습니다. 한편 Polyarc 폐업, Saber의 개발 거점 축소, Roblox의 외부 앱 배포 계획 등 제작·유통 구조 변화도 이어졌습니다.",
       "industry": [
