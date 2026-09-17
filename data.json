@@ -3693,79 +3693,77 @@
   "entries": [
     {
       "date": "2026-09-17",
-      "lede": "도쿄게임쇼 2026 개막을 앞두고 신작과 업데이트가 몰렸습니다. 모바일·독립 앱 유통, 라이브 서비스 재설계, 신규 RPG 출시가 동시에 이어지는 날입니다.",
+      "lede": "이번 브리핑은 플랫폼의 유통 경계가 넓어지는 움직임과 라이브 서비스의 운영 재설계가 동시에 보인 날이다. Roblox의 외부 앱 배포, Bungie의 Marathon 방향 전환처럼 게임을 어디서 어떻게 오래 즐기게 할지에 대한 선택이 사업·개발 양쪽에 영향을 주고 있다. 신작 쪽에서는 대형 IP의 출시·업데이트가 플레이 방식과 플랫폼별 진입점을 어떻게 달리하는지 함께 살폈다.",
       "industry": [
         {
-          "title": "Roblox, 개발자 독립 앱 배포 허용",
-          "url": "https://www.gamedeveloper.com/",
-          "blurb": "Roblox가 개발자의 게임을 다른 스토어용 독립 앱으로 출시할 수 있게 한다고 Game Developer가 보도했습니다.",
+          "title": "Roblox, 창작 게임의 독립 앱 배포 허용 계획",
+          "url": "https://www.gamedeveloper.com/business/roblox-will-allow-devs-to-release-games-as-standalone-apps-on-other-stores",
+          "blurb": "Roblox는 개발자가 자신의 경험을 Steam·App Store·Google Play 등 외부 스토어에 독립 앱으로 내보낼 수 있도록 하는 계획을 공개했다. 초기 참여 개발자는 Roblox 앱과 같은 수익 배분 구조와 미국 18세 이상 인증 이용자 대상의 높은 DevEx 환율을 적용받는다. 브라우저 플레이·오프라인 모드·2D 제작 도구도 함께 예고돼, UGC 게임이 플랫폼 안의 미니게임에서 독자 브랜드로 성장할 통로가 생길지 주목된다.",
           "source": "Game Developer",
           "articleDate": "2026-09-15"
         },
         {
-          "title": "Bungie, Marathon 추출 슈터 방향 재설계",
-          "url": "https://www.gamedeveloper.com/",
-          "blurb": "Bungie가 Marathon의 초기 추출 슈터 구상을 재정비한다고 밝혔습니다.",
+          "title": "Bungie, Marathon에 영구 PvE 도입하며 라이브 운영 재설계",
+          "url": "https://www.gamedeveloper.com/business/bungie-is-overhauling-marathon-from-its-original-extraction-shooter-vision",
+          "blurb": "Bungie는 PvPvE 추출 슈터 Marathon에 영구 PvE 경험 ‘Symbiosis’를 넣고, 9월 22일 예정이던 업데이트를 12월 8일로 미뤘다. 스튜디오는 출시 후 이용자들이 지적한 깊이·변주·성장 동기 부족을 인정하며 엄격한 시즌 주기 대신 기능을 더 오래 만들고 검증하는 방식으로 바꾸겠다고 밝혔다. 단순 콘텐츠 추가가 아니라 코어 루프와 서비스 제작 일정 자체를 조정하는 사례라, PlayStation의 핵심 라이브 서비스 포트폴리오에도 중요한 시험대가 된다.",
           "source": "Game Developer",
           "articleDate": "2026-09-15"
         },
         {
-          "title": "Bohemia, Enjoy Studio에 소수 지분 투자",
-          "url": "https://www.gamedeveloper.com/",
-          "blurb": "Bohemia Interactive가 Everwind 개발사 Enjoy Studio의 소수 지분을 인수했습니다.",
+          "title": "Bohemia Interactive, Everwind 개발사 Enjoy Studio에 소수 지분 투자",
+          "url": "https://www.gamedeveloper.com/business/bohemia-interactive-acquires-minority-stake-in-everwind-developer-enjoy-studio",
+          "blurb": "DayZ·Arma 개발사 Bohemia Interactive가 폴란드 Enjoy Studio의 소수 지분을 인수했다. Enjoy가 만든 샌드박스 생존 RPG Everwind는 얼리 액세스 6개월 동안 30만 장 이상 판매됐고, Bohemia는 2024년부터 인큐베이터·퍼블리싱 파트너로 협업해 왔다. 금액은 비공개지만 Bohemia의 첫 폴란드 게임사 투자이며, 단일 타이틀 흥행보다 검증된 소규모 팀과 장기 파트너십에 투자하는 방식이라는 점이 핵심이다.",
           "source": "Game Developer",
           "articleDate": "2026-09-15"
         },
         {
-          "title": "KO_OP, 감원 확인",
-          "url": "https://www.gamedeveloper.com/",
-          "blurb": "노동자 운영 스튜디오 KO_OP가 감원을 확인했습니다.",
+          "title": "KO_OP, 자금 조달난 속 13명 감원 확인",
+          "url": "https://www.gamedeveloper.com/business/worker-owned-studio-ko_op-confirms-layoffs",
+          "blurb": "협동조합 형태의 인디 스튜디오 KO_OP는 Goodbye Volcano High와 Young Suns 개발을 이어가면서 새 프로젝트 자금을 확보하지 못해 13개 직무를 없앴다고 밝혔다. 회사는 의사결정을 민주적으로 했고 현금흐름 문제를 구성원과 공유해 왔다고 설명했으며, Young Suns의 수익은 영향을 받은 구성원에게도 배분하겠다고 했다. 노동자 소유 구조라 해도 장기 제작 중 자금 공백을 피하기 어렵다는 점과, 수익 배분·재고용 약속이 감원 이후의 신뢰를 얼마나 지킬 수 있는지가 관건이다.",
           "source": "Game Developer",
           "articleDate": "2026-09-14"
         },
         {
-          "title": "게임을 ‘소프트 파워’로 본 워싱턴 주 제안",
-          "url": "https://www.gamedeveloper.com/",
-          "blurb": "워싱턴주 국무장관이 게임을 문화적 소프트 파워로 활용할 수 있다고 개발자들에게 제안했습니다.",
+          "title": "워싱턴주, 게임을 문화·경제적 ‘소프트 파워’로 제시",
+          "url": "https://www.gamedeveloper.com/business/why-does-this-prominent-washington-state-politician-think-video-games-can-be-soft-power-",
+          "blurb": "워싱턴주 국무장관 스티브 홉스는 PAX West와 SLICE에서 게임을 경제 활동을 넘어 문화 교류와 국가 이미지에 영향을 주는 ‘소프트 파워’로 봐야 한다고 개발자들에게 제안했다. 기사에서는 폴란드의 CD Projekt Red와 The Witcher를 문화 수출 사례로 들면서, 공공의 창작산업 지원이 고용·투자와 연결될 수 있다는 논의를 소개한다. 다만 문화 영향력이 국가의 홍보 수단이나 문화적 지배로 흐를 수 있다는 비판도 함께 다뤄, 정책 지원의 목적과 창작 독립성 사이의 균형이 필요하다는 점을 짚었다.",
           "source": "Game Developer",
           "articleDate": "2026-09-15"
         }
       ],
       "games": [
         {
-          "title": "‘Woodo’, 9월 16일 출시",
-          "url": "https://www.pcgamer.com/games/pc-game-release-dates-september-2026/",
-          "blurb": "아기자기한 디오라마 퍼즐 게임 Woodo가 9월 16일 출시 일정에 올랐습니다.",
-          "source": "PC Gamer",
-          "articleDate": "2026-09-16"
+          "title": "Marvel’s Wolverine, Insomniac의 근접 전투형 PS5 액션 어드벤처",
+          "url": "https://www.gamesradar.com/games/action/after-playing-2-hours-of-marvels-wolverine-insomniac-has-crushed-my-fears-of-a-post-spider-man-slump-this-is-uniquely-logan/",
+          "blurb": "Insomniac Games와 Sony Interactive Entertainment의 Marvel’s Wolverine은 9월 15일 PS5로 나온 로건 중심의 선형 액션 어드벤처다. Spider-Man의 기동성 중심 구조를 그대로 옮기지 않고, 더 가까운 카메라·좁은 전장·강한 타격감과 잔혹한 표현으로 울버린의 난전 판타지에 맞춘 것이 핵심이다. 2시간 체험 보도에서는 세계를 하나의 오픈월드로 넓히기보다 여러 지역을 따라가는 어두운 서사와 근접 격투의 밀도를 택했다는 점이 강조돼, 슈퍼히어로 게임 안에서도 캐릭터별 전투 감각을 분리하려는 사례로 볼 만하다.",
+          "source": "GamesRadar+"
         },
         {
-          "title": "‘Another Eden Begins’, 9월 16일 출시",
-          "url": "https://www.gamesradar.com/upcoming-nintendo-switch-games/",
-          "blurb": "Masato Kato가 참여한 시간여행 턴제 RPG Another Eden Begins가 PC·Switch 계열로 출시됐습니다.",
+          "title": "Minecraft 26.3 ‘Wilderness Bound’, 탐험·건축용 신규 환경 업데이트",
+          "url": "https://www.gamesradar.com/games/minecraft/next-minecraft-update/",
+          "blurb": "Mojang의 Minecraft 26.3 ‘Wilderness Bound’는 9월 15일 PC에 먼저 적용되고 콘솔에도 순차 배포된 무료 콘텐츠 드롭이다. Dappled Forest 생물군계와 Abandoned Camp 구조물, 장식용 쿠션 등을 추가해 전투보다 탐험·건축·세계 꾸미기에서 새로운 재료와 발견 동기를 만드는 데 초점을 둔다. 대형 확장 하나를 오래 기다리게 하는 대신 연간 네 차례의 작은 드롭으로 플레이어의 복귀 계기를 만드는 운영 방식이어서, 샌드박스 게임의 장기 라이브 서비스 설계 측면에서도 의미가 있다.",
+          "source": "GamesRadar+"
+        },
+        {
+          "title": "RuneScape: Dragonwilds, Xbox Game Pass로 넓히는 생존 제작 RPG",
+          "url": "https://www.gamesradar.com/upcoming-xbox-series-x-games/",
+          "blurb": "Jagex의 RuneScape: Dragonwilds는 RuneScape IP를 오픈월드 생존·제작 RPG로 확장한 작품으로, 9월 15일 Xbox Series X|S와 Game Pass 진입을 예고했다. 플레이어는 Ashenfall을 혼자 또는 협동으로 탐험하며 자원을 모으고 스킬을 키워 Dragon Queen에 맞설 준비를 한다. 브라우저 MMORPG의 성장 감각을 건축·생존·협동 루프로 옮긴 구성이라, 기존 RuneScape 이용자에게는 새로운 진입점이고 Game Pass에는 장기 체류형 협동 게임을 보강하는 타이틀이 된다.",
+          "source": "GamesRadar+",
+          "articleDate": "2026-09-07"
+        },
+        {
+          "title": "Fire Emblem: Fortune’s Weave, 시간 서사와 전술 전투를 결합한 Switch 2 독점작",
+          "url": "https://www.gamesradar.com/games/games-releasing-september-2026/",
+          "blurb": "Nintendo의 Fire Emblem: Fortune’s Weave는 9월 17일 Switch 2로 출시되는 턴제 전술 RPG다. 서로 다른 시대를 지나는 네 주인공을 따라 동료 관계를 만들고 격자 전투를 수행하며, 자유 시간에는 던전 탐험과 추가 전투를 선택할 수 있도록 설계됐다. 전투의 전략성뿐 아니라 인물 관계와 시간 이동 서사를 함께 전면에 둬, 시리즈 팬에게는 전통적 유대 시스템을 넓힌 신작이고 Switch 2 초기 라인업에는 장르 다양성을 더하는 작품이다.",
+          "source": "GamesRadar+",
+          "articleDate": "2026-08-29"
+        },
+        {
+          "title": "GTA 6, 음악가들의 티저 게시물로 협업 가능성 다시 부각",
+          "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-teasers-keep-popping-up-on-celebrity-social-media-as-travis-scott-morgan-wallen-and-more-hint-at-rockstar-collaboration/",
+          "blurb": "Rockstar Games의 오픈월드 범죄 액션 GTA 6를 둘러싸고 Travis Scott, Morgan Wallen, Future, Metro Boomin 등 음악가들이 관련된 것으로 보이는 이미지를 사회관계망에 연이어 올리면서 사운드트랙·캐릭터 출연 협업 가능성이 화제가 됐다. 일부 게시물은 공통된 자동차 이미지를, 다른 게시물은 개별 이미지를 사용해 라디오 수록과 게임 내 역할의 구분을 추측하게 하지만 Rockstar의 공식 확정은 아직 없다. 대형 오픈월드 게임이 출시 전부터 음악·셀러브리티 네트워크를 활용해 관심을 모으는 방식이지만, 확정 정보와 팬 추측을 구분해 볼 필요가 있다.",
           "source": "GamesRadar+",
           "articleDate": "2026-09-16"
-        },
-        {
-          "title": "‘Little Witch in the Woods’, Switch 정식 출시",
-          "url": "https://www.gamesradar.com/upcoming-nintendo-switch-games/",
-          "blurb": "얼리액세스를 거친 Little Witch in the Woods가 Switch에서 정식 출시됐습니다.",
-          "source": "GamesRadar+",
-          "articleDate": "2026-09-16"
-        },
-        {
-          "title": "‘Trails in the Sky 2nd Chapter’, 9월 17일 출시",
-          "url": "https://www.gamesradar.com/upcoming-rpg-games/",
-          "blurb": "하늘의 궤적 리메이크 후속작 Trails in the Sky 2nd Chapter가 주요 플랫폼에 출시됩니다.",
-          "source": "GamesRadar+",
-          "articleDate": "2026-09-17"
-        },
-        {
-          "title": "‘Fire Emblem: Fortune’s Weave’, 9월 17일 출시",
-          "url": "https://www.gamesradar.com/upcoming-rpg-games/",
-          "blurb": "턴제 전술 RPG Fire Emblem: Fortune’s Weave가 Switch 2로 출시됩니다.",
-          "source": "GamesRadar+",
-          "articleDate": "2026-09-17"
         }
       ]
     },
