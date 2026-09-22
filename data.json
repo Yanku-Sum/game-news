@@ -1534,6 +1534,13 @@
   ],
   "releases": [
     {
+      "date": "2026-09-23",
+      "title": "Aniimo 모바일",
+      "type": "정식출시",
+      "url": "https://aniimo.com/newslist/detail/100051",
+      "source": "Aniimo 공식"
+    },
+    {
       "date": "2026-10-20",
       "title": "Mycopunk",
       "type": "정식출시",
@@ -3739,6 +3746,13 @@
         }
       ],
       "games": [
+        {
+          "title": "‘Aniimo’, 크로스플랫폼 크리처 수집 RPG의 모바일판 9월 23일 출시",
+          "url": "https://funplus.com/aniimo-is-available-now/",
+          "source": "FunPlus",
+          "articleDate": "2026-09-16",
+          "blurb": "Pawprint Studio와 FunPlus가 선보인 Aniimo는 이딜(Idyll) 세계를 탐험하며 200종이 넘는 크리처를 포획·육성하는 무료 오픈월드 RPG다. 플레이어는 Pathfinder가 되어 Aniimo와 결속하는 고유 Twining 기능을 활용해 미지의 지역을 탐험하고 퍼즐과 전투를 풀며, PC(Steam·Epic Games Store)·PS5·Xbox Series X|S판은 9월 16일 먼저 출시됐다. iOS·Android 모바일판은 9월 23일 공개되며, Xbox Game Pass의 Cloud·Console·PC 라인업에도 포함됐다. 크리처 수집 장르에 오픈월드 탐험과 크로스플랫폼 접점을 결합한 신작인 만큼, 모바일 출시 후 초기 이용자 반응과 플랫폼 간 운영 품질이 핵심 관전 포인트다."
+        },
         {
           "title": "‘Legacy of Kain: Defiance Remastered’ 패키지판, 11월 13일 출시",
           "url": "https://www.gematsu.com/2026/09/legacy-of-kain-defiance-remastered-physical-editions-launch-november-13",
