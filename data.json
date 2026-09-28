@@ -3735,9 +3735,108 @@
       "type": "정식출시",
       "url": "https://www.gematsu.com/2026/09/arcade-archives-karnov-launches-september-10",
       "source": "Gematsu"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Minecraft Dungeons II",
+      "type": "정식출시",
+      "url": "https://news.xbox.com/en-us/2026/09/26/minecraft-new-dimension-sift-dungeons-2/amp/",
+      "source": "Xbox Wire"
+    },
+    {
+      "date": "2026-10-02",
+      "title": "Ace Combat 8: Wings of Theve",
+      "type": "정식출시",
+      "url": "https://blog.playstation.com/2026/09/25/how-ace-combat-8-wings-of-theve-uses-first-person-to-tell-a-more-personal-story/",
+      "source": "PlayStation.Blog"
+    },
+    {
+      "date": "2026-12-10",
+      "title": "Professor Layton and the New World of Steam",
+      "type": "정식출시",
+      "url": "https://www.gematsu.com/2026/09/professor-layton-and-the-new-world-of-steam-tgs-2026-demo-gameplay",
+      "source": "Gematsu"
     }
   ],
   "entries": [
+    {
+      "date": "2026-09-28",
+      "lede": "주말 사이 게임 업계의 핵심 화제는 Xbox 조직 재편이 기존 스튜디오와 프랜차이즈에 남긴 후속 파장, 그리고 대형 IP들이 9월 말 출시 창을 겨냥해 정보를 구체화한 흐름이다. 플레이어에게는 마인크래프트의 새 차원과 비행 액션·추리·SRPG 신작의 성격을 비교할 시점이고, 개발사에는 고용·자금·프로젝트 취소가 동시에 일어나는 시장에서 제작 리스크를 관리해야 한다는 신호다.",
+      "industry": [
+        {
+          "title": "마이크로소프트 CEO, Xbox 구조조정을 “streamlining”으로 평가",
+          "url": "https://www.pcgamer.com/gaming-industry/microsoft-ceo-says-xboxs-streamlining-process-is-great-to-see-following-its-most-recent-round-of-layoffs/",
+          "source": "PC Gamer",
+          "articleDate": "2026-09-26",
+          "blurb": "사티아 나델라 마이크로소프트 CEO는 최근 Xbox 구조조정에 대해 팀을 간결하게 만드는 과정이 “great to see”라고 말하며, 더 많은 이용자에게 게임을 제공할 지속 가능한 사업 모델을 찾아야 한다고 밝혔다. 보도에 따르면 이번 조치는 앞선 1,600명 감원에 더해 268명을 줄인 뒤의 발언이며, 스튜디오 이동·통합과 맞물려 있다. 경영진은 퍼블리셔와 플랫폼 사업을 함께 강화하겠다는 입장이지만, 현장 개발자와 팬에게는 프로젝트 연속성·고용 안정성·IP 운영 책임이 불투명해진 상황이다."
+        },
+        {
+          "title": "World’s Edge 전 직원들, 대규모 감원과 차기 프로젝트 취소를 증언",
+          "url": "https://www.pcgamer.com/gaming-industry/latest-xbox-layoffs-reportedly-devastated-age-of-empires-developer-and-canceled-its-next-game/",
+          "source": "PC Gamer",
+          "articleDate": "2026-09-27",
+          "blurb": "PC Gamer는 에이지 오브 엠파이어를 맡아 온 World’s Edge가 최근 Xbox 재편에서 큰 타격을 입었고, 전직 직원들의 공개 글에 따르면 스튜디오 인원의 절반에 조금 못 미치는 규모가 해고됐으며 다음 프로젝트도 취소됐다고 보도했다. 이는 회사의 공식 세부 발표가 아닌 전 직원 증언을 기반으로 한 내용이므로 확정 공지와는 구분해야 한다. 다만 장수 RTS IP는 라이브 운영·확장팩·파트너 개발까지 장기 로드맵 의존도가 높아, 인력 이탈은 후속 콘텐츠와 팬 커뮤니티의 예측 가능성에 직접 영향을 준다."
+        },
+        {
+          "title": "아일랜드 게임 펀드, 개발·프로토타입·출시 3단계 지원으로 확대",
+          "url": "https://www.gamedeveloper.com/business/irish-game-fund-expands-with-additional-funding-pathways",
+          "source": "Game Developer",
+          "articleDate": "2026-09-24",
+          "blurb": "Irish Game Makers Association과 Screen Ireland Digital Games Portfolio는 2026년 아일랜드 게임 펀드를 개발·프로토타입·출시의 세 갈래로 재편했다. 첫 공개 항목인 Development Fund는 콘셉트 검증을 마친 최대 4개 팀에 각 5만 유로를 제공하며, 관심표명 마감은 10월 8일·신청 마감은 10월 22일이다. 등록된 아일랜드 스튜디오와 상용 프로젝트·명확한 타깃을 갖춘 팀이 대상이며, 생성형 AI의 창작 에셋 상용 사용은 지원하지 않는다는 조건도 명시돼 초기 제작 자금과 권리 관리 기준을 함께 제시한다."
+        },
+        {
+          "title": "King, 스웨덴 노조와 단체협약 체결",
+          "url": "https://www.gamedeveloper.com/business/-this-shows-the-power-that-comes-from-employees-joining-forces-king-signs-collective-bargaining-agreement-with-union-workers",
+          "source": "Game Developer",
+          "articleDate": "2026-09-25",
+          "blurb": "Candy Crush 제작사 King은 노조 Unionen 및 Engineers of Sweden과 단체협약을 체결했다. Game Developer에 따르면 직원들이 협상 결렬 시 파업에 들어갈 수 있다고 예고한 뒤 합의에 도달했으며, 노조 측은 이를 노동자들의 연대가 만든 중요한 진전으로 평가했다. 계약의 세부 조항 전체가 공개된 것은 아니지만, 대형 모바일 라이브서비스 조직에서 보상·근로조건을 집단교섭으로 다룰 수 있는 선례가 된다. 특히 실적 압박과 구조조정이 반복되는 시장에서 개발·운영 인력의 유지와 고용 협상력에 실질적인 기준점이 될 수 있다."
+        },
+        {
+          "title": "Digital Bros, Armed Fantasia 등 3개 프로젝트 개발 중단",
+          "url": "https://www.gematsu.com/2026/09/digital-bros-cancels-armed-fantasia-to-the-end-of-the-wilderness-directorate-novitiate",
+          "source": "Gematsu",
+          "articleDate": "2026-09-24",
+          "blurb": "505 Games의 모회사 Digital Bros는 실적 보고서에서 Wild Arms 계승작으로 알려진 Armed Fantasia: To the End of the Wilderness, Directorate Novitiate, Battle Island 후속작의 개발을 중단했다고 밝혔다. 회사는 시장 환경과 완성에 필요한 추가 투자, 여러 차례의 게임플레이 수정 검토를 이유로 들었고, 중단 프로젝트 관련 상각 1,760만 유로를 포함해 총 1,870만 유로의 비현금 손상을 보고했다. 크라우드펀딩으로 관심을 모은 IP라도 퍼블리셔의 투자 회수 전망이 바뀌면 완주가 어려울 수 있음을 보여 주며, 후원자·외주 파트너·개발 인력 모두에 일정과 계약 리스크가 남는다."
+        }
+      ],
+      "games": [
+        {
+          "title": "마인크래프트, 14년 만의 새 차원 ‘Sift’를 던전스 II에서 먼저 공개",
+          "url": "https://news.xbox.com/en-us/2026/09/26/minecraft-new-dimension-sift-dungeons-2/amp/",
+          "source": "Xbox Wire",
+          "articleDate": "2026-09-27",
+          "blurb": "Mojang Studios는 블록을 캐고 장비를 조합해 적 무리를 상대하는 액션 RPG ‘Minecraft Dungeons II’에 새 차원 Sift를 넣고, 이를 2027년 Java·Bedrock 본편에도 확장한다고 밝혔다. Sift에는 Meadows와 Carapace 같은 생물군계, 새로운 몹·위험 블록·환경 규칙이 있으며, 전작의 미션 중심 구조 대신 서로 연결된 월드와 점프 이동을 도입한다. 9월 29일 Xbox Series X|S·PC·클라우드·Game Pass와 Steam·PS5·Switch 계열로 출시되므로, 본편 생존·창작 플레이어도 앞서 ARPG에서 차원의 분위기와 몹 디자인을 체험할 수 있다는 점이 핵심이다."
+        },
+        {
+          "title": "에이스 컴뱃 8, 편대 지휘와 온라인 협동을 담은 개요 영상 공개",
+          "url": "https://www.gematsu.com/2026/09/ace-combat-8-wings-of-theve-101-overview-trailer",
+          "source": "Gematsu",
+          "articleDate": "2026-09-25",
+          "blurb": "Bandai Namco와 Bandai Namco Aces의 ‘Ace Combat 8: Wings of Theve’는 가공의 Strangereal에서 전투기를 조종해 도그파이트·지상 공격·대함전을 수행하는 비행 액션 게임이다. 5분 분량의 새 개요 영상은 구름층이 변하는 캠페인, 동료와의 관계, 편대 구성·윙맨 명령, 시리즈 최대 규모의 온라인 로비와 크로스플레이 협동 임무를 설명한다. PS5·Xbox Series·PC(Steam)판은 10월 2일 정식 출시 예정이며, 캠페인만 즐기던 팬에게도 편대 운영과 온라인 활동이 플레이 시간의 새로운 축이 될 전망이다."
+        },
+        {
+          "title": "Professor Layton and the New World of Steam, TGS 데모 14분 공개",
+          "url": "https://www.gematsu.com/2026/09/professor-layton-and-the-new-world-of-steam-tgs-2026-demo-gameplay",
+          "source": "Gematsu",
+          "articleDate": "2026-09-25",
+          "blurb": "LEVEL-5는 퍼즐 어드벤처 ‘Professor Layton and the New World of Steam’의 TGS 2026 데모 전체 플레이 영상 약 14분을 공개했다. 레이튼과 루크가 증기 기술로 급성장한 도시 Steam Bison을 탐색하고 대화·관찰·논리 퍼즐을 이어 가며 발명가 Eggmuffin Sonder를 만나는 구성이어서, 시리즈 특유의 문제 해결 루프가 어떻게 이어지는지 확인할 수 있다. PS5·Switch 2·Switch·PC(Steam)로 12월 10일 출시되며, 긴 영상은 티저보다 조작 리듬과 새 3D 도시의 탐색 밀도를 판단할 수 있게 해 기존 팬과 신규 이용자 모두에게 유용하다."
+        },
+        {
+          "title": "Mercenaries Grace, 한 유닛씩 교대하는 SRPG 규칙과 일본 출시 창 발표",
+          "url": "https://www.gematsu.com/2026/09/mercenaries-grace-black-feather-and-the-golden-right-arm-announced-for-ps5-switch-and-pc",
+          "source": "Gematsu",
+          "articleDate": "2026-09-25",
+          "blurb": "RideonJapan은 Mercenaries Saga 계열의 전략 RPG ‘Mercenaries Grace: Black Feather and the Golden Right Arm’을 발표했다. 플레이어는 용병단을 꾸리고 전투원·사수·사제 같은 역할별 캐릭터를 성장시키며, 쿼터뷰 격자 맵에서 장비와 스킬을 운용한다. 아군 전체를 움직인 뒤 적 차례가 오는 일반 SRPG와 달리 아군 한 명과 적 한 명이 번갈아 행동해 매 수 즉시 반격 위험을 계산해야 하는 것이 핵심이다. 일본에서는 11월 PS5·Switch·PC(Steam) 출시 예정이고 영어판도 준비 중이어서, 전술 난이도와 해외 접근성 모두를 확인할 신작이다."
+        },
+        {
+          "title": "Half-Life 2 토탈 컨버전 ‘The Temple’, 잠수함·비행선·우주선을 오가는 공포 탐험 예고",
+          "url": "https://www.pcgamer.com/games/horror/this-ambitious-half-life-2-mod-asks-what-if-iron-lung-had-a-submarine-and-an-airship/",
+          "source": "PC Gamer",
+          "articleDate": "2026-09-27",
+          "blurb": "개발자 Klems의 ‘The Temple’은 Valve의 Half-Life 2를 기반으로 한 토탈 컨버전 공포 모드로, 수중 행성의 거대 콘크리트 구조물을 잠수함·비행선·우주선 세 종류의 탈것으로 탐사한다. 기존 MapLabs 경연용 두 맵을 손보고 세 번째 맵을 더해 2시간 이상 규모의 SF 호러 탐험으로 확장하며, 보이지 않는 수중 괴물과 길잡이 역할의 까마귀도 등장한다. 정확한 출시일은 없고 제작자는 “매우 이른 시일, 어쩌면 다음 달”을 언급했을 뿐이므로 확정 일정으로 취급할 수는 없다. 다만 기존 Source 모드 씬이 이동수단과 환경 탐험을 결합하는 방식의 구체적인 사례다."
+        }
+      ]
+    },
     {
       "date": "2026-09-23",
       "lede": "Xbox의 268명 감원과 스튜디오 재편이 퍼스트파티 제작 체계의 불안정성을 드러낸 가운데, Rockstar는 GTA VI를 앞두고 모드 경계를 명확히 했다. 신작 시장에서는 Rayman의 대형 리메이크부터 상실을 다룬 인디 생활 시뮬레이션까지, 온라인 쇼케이스 이후 서로 다른 규모의 작품이 출시·체험판 정보로 이용자를 만나는 흐름이 이어졌다.",
