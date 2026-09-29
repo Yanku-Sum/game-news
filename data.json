@@ -2,6 +2,36 @@
   "pagesUrl": "https://yanku-sum.github.io/game-news/",
   "analyses": [
     {
+      "date": "2026-09-29",
+      "game": "Minecraft Dungeons II",
+      "hook": "9월 29일 정식 출시와 함께 14년 만의 Minecraft 새 차원 Sift를 먼저 체험하게 한 협동 ARPG다. 전작의 짧은 챕터 구조를 연결형 탐험과 깊어진 장비 빌드로 바꾼 점이 출시일의 핵심 화제다.",
+      "coreLoop": "오버월드에서 길·사이드 퀘스트·던전을 선택해 전투하고, 장비·자원·새 경로를 얻은 뒤 빌드를 조정해 더 위험한 Sift와 보스에 재도전하는 루프다.",
+      "growthCurve": "초반에는 이동·점프와 기본 장비 조합을 익히고, 중반부터 장비 슬롯과 특성의 조합 폭이 넓어진다. 연결 월드의 반복 조우는 단순 스테이지 재선택보다 탐험 동기를 유지하지만, 파밍 보상이 난이도 상승과 균형을 이루는지가 장기 운영의 관건이다.",
+      "funMechanics": "Minecraft의 친숙한 적·지형을 액션 RPG 전투로 번역하면서도, 균열을 통한 Sift 진입과 새로운 몹·위험 블록이 탐험의 놀라움을 만든다. 협동에서 역할을 나누고 위기 후 빠르게 전장으로 복귀하는 구조가 성공·회복의 감정 보상을 만든다.",
+      "benchmarks": "① 전작의 접근성을 버리지 않고 연결형 월드·점프·장비 심화로 속편의 체감 차이를 만든다. ② 텔레포트 조각상처럼 실패 후 재도전 비용을 낮추는 장치를 둔다. ③ 익숙한 IP의 새 지역은 신규 시스템을 체험시키는 관문으로 설계한다.",
+      "businessModel": "기본 게임은 Xbox Game Pass 데이원과 콘솔·PC 스토어 동시 판매를 병행한다. Deluxe Edition에는 스킨·망토·펫 및 추후 DLC가 포함돼 있어, 핵심 전투력을 분리하기보다 외형과 확장 콘텐츠로 추가 가치를 제시하는 방식이다.",
+      "onboarding": "원작을 몰라도 시작할 수 있는 독립 이야기와 즉시 읽히는 액션을 앞세우되, 점프·새 장비 슬롯·연결형 지도는 초반 퀘스트로 단계적으로 익히게 한다. 텔레포트와 무페널티에 가까운 복귀는 ARPG 초심자의 길찾기·실패 부담을 낮춘다.",
+      "targetUser": "Minecraft 세계관을 좋아하지만 본편의 자유 건축보다 전투·파밍·협동 목표를 원하는 이용자, 그리고 가벼운 진입장벽의 ARPG를 찾는 2~4인 그룹이 핵심이다. 깊은 빌드 연구만을 전면에 내세운 하드코어 ARPG와 달리 친숙한 IP와 플랫폼 접근성이 차별점이다.",
+      "community": "온라인·로컬·혼합 협동과 매치메이킹을 지원해 친구 그룹의 즉석 파티를 만들기 쉽다. 출시 후에는 장비 빌드, Sift 공략, 숨은 경로 공유가 커뮤니티의 주요 대화 소재가 될 수 있으므로, 균형 패치와 탐험 정보의 가시성이 장기 잔존에 중요하다.",
+      "links": [
+        {
+          "title": "연결형 월드와 출시 정보",
+          "url": "https://news.xbox.com/en-us/2026/09/28/how-minecraft-dungeons-iis-interconnected-world-makes-every-journey-an-adventure/",
+          "source": "Xbox Wire"
+        },
+        {
+          "title": "Sift 차원 공식 소개",
+          "url": "https://news.xbox.com/en-us/2026/09/26/minecraft-new-dimension-sift-dungeons-2/amp/",
+          "source": "Xbox Wire"
+        },
+        {
+          "title": "Game Pass 출시 안내",
+          "url": "https://news.xbox.com/en-us/2026/09/15/xbox-game-pass-september-2026-wave-2/",
+          "source": "Xbox Wire"
+        }
+      ]
+    },
+    {
       "date": "2026-09-22",
       "game": "Aniimo",
       "hook": "Pawprint Studio의 무료 오픈월드 크리처 수집 RPG가 PC·콘솔 출시 직후 Steam에서 16만 명 이상 동시접속을 기록하며 빠르게 주목받았다. 다만 Steam 한국어 평가는 206개 중 46% 긍정으로 복합적이어서, Twining의 차별화가 초반 UI·과금 인식·콘텐츠 페이싱 문제를 넘어설 수 있는지가 출시 직후의 핵심 과제다.",
@@ -3740,7 +3770,7 @@
       "date": "2026-09-29",
       "title": "Minecraft Dungeons II",
       "type": "정식출시",
-      "url": "https://news.xbox.com/en-us/2026/09/26/minecraft-new-dimension-sift-dungeons-2/amp/",
+      "url": "https://news.xbox.com/en-us/2026/09/28/how-minecraft-dungeons-iis-interconnected-world-makes-every-journey-an-adventure/",
       "source": "Xbox Wire"
     },
     {
@@ -3759,6 +3789,84 @@
     }
   ],
   "entries": [
+    {
+      "date": "2026-09-29",
+      "lede": "9월 29일은 Minecraft Dungeons II가 정식 출시되는 날로, 대형 샌드박스 IP가 협동 ARPG의 탐험 구조를 얼마나 확장하는지가 가장 큰 플레이어 이슈다. 한편 Xbox 재편은 출시 직전 팀에도 영향을 남기고 있어, 신작의 화제성과 개발 현장의 안정성이 엇갈리는 시장 상황을 보여 준다.",
+      "industry": [
+        {
+          "title": "Gears of War: E-Day, 골드 직후 스토리 디렉터 감원 보도",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-story-director-laid-off-mere-days-after-e-day-went-gold/",
+          "source": "PC Gamer",
+          "articleDate": "2026-09-27",
+          "blurb": "PC Gamer는 The Coalition의 스토리 디렉터 Juan Vaca가 Microsoft의 이번 감원 대상이었다고 LinkedIn을 통해 밝혔으며, 이는 Gears of War: E-Day가 골드 선언을 한 지 며칠 뒤의 일이라고 보도했다. 게임은 10월 6일 출시 예정이지만, 출시 준비가 끝난 프로젝트조차 조직 재편의 영향권 밖이 아니라는 점을 보여 준다. 개인의 고용 문제와 별개로, 라이브 운영·후속 콘텐츠·서사 IP의 인수인계에는 핵심 인력의 연속성이 중요하므로 이용자와 협력사 모두 출시 이후의 지원 체계를 지켜볼 필요가 있다."
+        },
+        {
+          "title": "Undead Labs, 독립 전환과 함께 “상당한” 인원 감축",
+          "url": "https://www.gamedeveloper.com/business/undead-labs-makes-significant-layoffs-after-splitting-from-xbox",
+          "source": "Game Developer",
+          "articleDate": "2026-09-23",
+          "blurb": "State of Decay 개발사 Undead Labs는 Xbox에서 분리돼 직원 소유의 독립 스튜디오가 됐다고 발표했지만, 동시에 “상당한” 규모의 감원을 실시했다고 밝혔다. 정확한 인원은 공개하지 않았으나 일부 State of Decay 3 작업자가 영향을 받았고, 신작은 새 퍼블리셔와 함께 Xbox Game Pass 데이원 출시를 목표로 한다. 독립성·IP·운영자금을 확보한 분리는 긍정적 요소지만, 팀 규모 축소는 제작 일정과 외주·채용 계획을 다시 조정하게 만드는 현실적인 부담이다."
+        },
+        {
+          "title": "Bethesda, Obsidian 합류 뒤에도 창작 정체성 유지 약속",
+          "url": "https://www.gamedeveloper.com/business/report-bethesda-president-tells-obsidian-staff-it-won-t-lose-creative-identity-after-merge",
+          "source": "Game Developer",
+          "articleDate": "2026-09-23",
+          "blurb": "Game Developer는 Bethesda의 Jill Braff가 Obsidian 직원에게 합류가 주로 보고 체계의 변화이며, 스튜디오의 창작 정체성과 강점은 유지될 것이라고 말했다고 보도했다. 해당 내용은 직원 이메일을 봤다는 Aftermath의 보도에 근거한 것으로, 공식 세부 조직도와는 구분해 볼 필요가 있다. Obsidian 경영진은 계속 팀을 이끌고 Fallout 프랜차이즈는 Bethesda Game Studios가 주도한다는 설명인데, 팬 입장에서는 독자적 RPG 색채와 프랜차이즈 중심 운영이 실제 개발 의사결정에서 양립하는지가 관건이다."
+        },
+        {
+          "title": "Xbox “reset” 후속: 3,200명 감원 계획의 약 4분의 3 진행",
+          "url": "https://www.pcgamer.com/gaming-industry/xbox-lays-off-268-more-employees-merges-obsidian-into-bethesda-and-puts-activision-in-charge-of-halo/",
+          "source": "PC Gamer",
+          "articleDate": "2026-09-22",
+          "blurb": "Xbox는 Halo Studios 등 퍼스트파티와 관리·중앙 기능에서 268명을 추가 감원했고, Matt Booty는 기존 계획상 3,200명 감원의 약 4분의 3을 마쳤다고 밝혔다. 같은 발표에는 Obsidian의 Bethesda 합류, Halo의 Activision 관할 이동 등 스튜디오 구조 변경도 포함됐다. 회사는 IP와 조직을 더 명확히 정렬하려는 조치로 설명하지만, 다수의 프로젝트·전문 인력을 동시에 옮기면 개발 노하우 전승과 책임 소재, 향후 로드맵 공개가 중요한 검증 지점이 된다."
+        },
+        {
+          "title": "King, 스웨덴 노조와 단체협약 체결",
+          "url": "https://www.gamedeveloper.com/business/-this-shows-the-power-that-comes-from-employees-joining-forces-king-signs-collective-bargaining-agreement-with-union-workers",
+          "source": "Game Developer",
+          "articleDate": "2026-09-25",
+          "blurb": "Candy Crush 제작사 King은 Unionen 및 Engineers of Sweden과 단체협약을 체결했다. Game Developer에 따르면 직원들은 협상 결렬 시 파업 가능성을 알렸고, 이후 합의가 이뤄졌으며 노조는 이를 노동자 연대의 성과로 평가했다. 전체 계약 조건은 공개되지 않았지만, 장기 라이브서비스를 운영하는 대형 모바일 스튜디오에서 보상·근로 환경을 집단교섭으로 다루는 사례다. 감원과 프로젝트 변동이 잦은 시장에서 개발·운영 인력의 유지와 협상력에 참고점이 될 수 있다."
+        }
+      ],
+      "games": [
+        {
+          "title": "Minecraft Dungeons II, 연결형 오버월드와 Sift 차원으로 오늘 출시",
+          "url": "https://news.xbox.com/en-us/2026/09/28/how-minecraft-dungeons-iis-interconnected-world-makes-every-journey-an-adventure/",
+          "source": "Xbox Wire",
+          "articleDate": "2026-09-28",
+          "blurb": "Mojang의 협동 액션 RPG Minecraft Dungeons II가 9월 29일 Xbox Series X|S·PC·클라우드·Game Pass와 Steam·PS5·Switch·Switch 2로 출시된다. 전작의 챕터형 던전 크롤링에서 벗어나 생물군계·사이드 퀘스트·던전이 이어진 오버월드를 탐험하고, 텔레포트 조각상·점프·더 깊어진 장비 빌드로 반복 탐험의 피로를 줄이는 것이 핵심이다. 새 차원 Sift와 미지의 적은 파밍·협동 전투의 동기를 만들며, 캐주얼한 Minecraft 팬부터 장비 세팅을 파고드는 ARPG 이용자까지 동시에 겨냥한다."
+        },
+        {
+          "title": "Arc Raiders, 세션마다 바뀌는 고가치 전리품 구역 실험",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-messing-with-your-loot-hotspots-to-make-games-more-exciting/",
+          "source": "PC Gamer",
+          "articleDate": "2026-09-28",
+          "blurb": "Embark Studios의 추출 슈터 Arc Raiders는 Frozen Trails 업데이트에서 Pendola Pass 맵의 전리품 가치를 세션마다 섞는 동적 구역을 시험한다. 기존에는 노랑·빨강으로 표시된 고가치 POI가 고정됐지만, 이제 한 세션의 고가치 장소가 다음 판에는 중간 가치로 바뀌고 다른 장소가 올라간다. 전투·탐색·탈출을 반복하는 장르에서 최적 파밍 경로의 고착을 막으려는 설계이며, PvP 긴장감만으로 반복성을 해결하기 어려웠던 이용자에게 매 판의 경로 선택과 위험 계산을 새롭게 만든다."
+        },
+        {
+          "title": "Ace Combat 8, 편대 지휘와 개인 서사를 강조한 출시 전 소개",
+          "url": "https://blog.playstation.com/2026/09/25/how-ace-combat-8-wings-of-theve-uses-first-person-to-tell-a-more-personal-story/",
+          "source": "PlayStation.Blog",
+          "articleDate": "2026-09-25",
+          "blurb": "Bandai Namco Aces의 비행 액션 Ace Combat 8: Wings of Theve는 가공 세계 Strangereal에서 전투기를 조종해 도그파이트와 지상·해상 목표 공격을 수행하는 시리즈 신작이다. PlayStation Blog는 조커 편대 지휘관으로서 윙맨 요청에 대응하고, 무전·작은 선택을 통해 전쟁 속 인물들과 관계를 쌓는 캠페인 구성을 소개했다. PS5판은 10월 2일 출시 예정이며, 빠른 아케이드 비행 전투에 스쿼드 운영과 서사적 보상을 더해 시리즈 팬이 한 판의 격추 수 이상을 신경 쓰게 만든다."
+        },
+        {
+          "title": "Professor Layton 신작, TGS 데모 전체 플레이로 퍼즐 루프 공개",
+          "url": "https://www.gematsu.com/2026/09/professor-layton-and-the-new-world-of-steam-tgs-2026-demo-gameplay",
+          "source": "Gematsu",
+          "articleDate": "2026-09-25",
+          "blurb": "LEVEL-5는 퍼즐 어드벤처 Professor Layton and the New World of Steam의 TGS 데모 약 14분을 공개했다. 레이튼과 루크가 증기 기술 도시 Steam Bison을 탐색하고, 주민 대화·환경 관찰·논리 퍼즐을 오가며 발명가 Eggmuffin Sonder를 찾는 흐름이다. PS5·Switch 2·Switch·PC(Steam)로 12월 10일 출시되며, 짧은 티저보다 실제 탐색 속도와 3D 공간에서의 퍼즐 제시 방식을 확인할 수 있어 고전 추리 퍼즐 팬이 복귀 여부를 판단하는 데 도움이 된다."
+        },
+        {
+          "title": "Mercenaries Grace, 한 유닛씩 교대하는 전술 SRPG 발표",
+          "url": "https://www.gematsu.com/2026/09/mercenaries-grace-black-feather-and-the-golden-right-arm-announced-for-ps5-switch-and-pc",
+          "source": "Gematsu",
+          "articleDate": "2026-09-25",
+          "blurb": "RideonJapan은 용병단을 조직해 격자 전장을 공략하는 전략 RPG Mercenaries Grace: Black Feather and the Golden Right Arm을 발표했다. 전투원·사수·사제의 역할별 캐릭터를 성장시키고 장비와 스킬을 조합하지만, 아군 전체 행동 뒤 적 차례가 오는 방식이 아니라 아군 한 명과 적 한 명이 번갈아 움직여 즉시 반격 위험을 계산해야 한다. 일본에서는 11월 PS5·Switch·PC(Steam)로 출시되며 영어판도 준비 중이라, 전술적 한 수의 긴장감을 원하는 SRPG 이용자에게 명확한 차별점이 있다."
+        }
+      ]
+    },
     {
       "date": "2026-09-28",
       "lede": "주말 사이 게임 업계의 핵심 화제는 Xbox 조직 재편이 기존 스튜디오와 프랜차이즈에 남긴 후속 파장, 그리고 대형 IP들이 9월 말 출시 창을 겨냥해 정보를 구체화한 흐름이다. 플레이어에게는 마인크래프트의 새 차원과 비행 액션·추리·SRPG 신작의 성격을 비교할 시점이고, 개발사에는 고용·자금·프로젝트 취소가 동시에 일어나는 시장에서 제작 리스크를 관리해야 한다는 신호다.",
