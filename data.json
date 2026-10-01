@@ -2913,11 +2913,11 @@
       "source": "인벤 게임캘린더"
     },
     {
-      "date": "2026-08-20",
+      "date": "2026-10-14",
       "title": "The Witch's Bakery",
       "type": "정식출시",
-      "url": "https://www.gamespot.com/articles/the-biggest-new-game-releases-of-august-2026/",
-      "source": "GameSpot"
+      "url": "https://store.steampowered.com/app/2967950/The_Witchs_Bakery/",
+      "source": "Steam"
     },
     {
       "date": "2026-08-21",
@@ -3438,10 +3438,10 @@
       "source": "OSEN"
     },
     {
-      "date": "2026-10-01",
+      "date": "2026-12-03",
       "title": "레이맨 레전드 리톨드",
       "type": "정식출시",
-      "url": "https://news.ubisoft.com/en-us/article/2WxMvhIp4tEdeBz8HELI15/rayman-legends-retold-launching-october-1",
+      "url": "https://news.ubisoft.com/en-au/article/1EDh3olZPQOlu31obBGdP1/rayman-legends-retold-accessibility-spotlight",
       "source": "Ubisoft News"
     },
     {
@@ -3455,8 +3455,8 @@
       "date": "2026-10-02",
       "title": "Lies of P: Complete Edition 실물 패키지",
       "type": "정식출시",
-      "url": "https://www.gematsu.com/2026/06/lies-of-p-complete-edition-coming-to-switch-2-on-august-6",
-      "source": "Gematsu"
+      "url": "https://www.shop-justforgames.us/products/lies-of-p-complete-edition",
+      "source": "Just For Games"
     },
     {
       "date": "2026-10-08",
@@ -3497,8 +3497,8 @@
       "date": "2026-10-29",
       "title": "팬텀 블레이드 제로 (Phantom Blade Zero)",
       "type": "정식출시",
-      "url": "https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/?l=koreana",
-      "source": "Steam"
+      "url": "https://blog.ko.playstation.com/2026/08/12/20260812-pbz/",
+      "source": "PlayStation 블로그"
     },
     {
       "date": "2026-11-19",
@@ -3788,11 +3788,11 @@
       "source": "Gematsu"
     },
     {
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "title": "Gears of War: E-Day",
       "type": "정식출시",
-      "url": "https://www.gematsu.com/2026/06/gears-of-war-e-day-launches-october-6",
-      "source": "Gematsu"
+      "url": "https://news.xbox.com/en-us/2026/09/17/gears-of-war-e-day-gone-gold-pre-install-pc-specs/",
+      "source": "Xbox Wire"
     },
     {
       "date": "2026-10-06",
@@ -3841,6 +3841,342 @@
       "title": "프린세스 메이커: 예언의 아이들",
       "type": "정식출시",
       "url": "https://store.steampowered.com/app/3438810/Princess_Maker_Children_of_Revelation/",
+      "source": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "파이널 판타지 레조넌스 (Final Fantasy Resonance)",
+      "type": "정식출시",
+      "url": "https://blog.playstation.com/2026/09/03/final-fantasy-resonance-ps5-demo-available-today-sephiroth-revealed/",
+      "source": "PlayStation Blog"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "진・삼국무쌍２ with 맹장전 Remastered",
+      "type": "정식출시",
+      "url": "https://www.koeitecmoamerica.com/dw3-re/us/",
+      "source": "KOEI TECMO"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "닌텐도 스위치 스포츠 리조트 (Switch 2)",
+      "type": "정식출시",
+      "url": "https://www.nintendo.com/jp/games/switch2/aacha/index.html",
+      "source": "Nintendo"
+    },
+    {
+      "date": "2026-10-21",
+      "title": "하스스톤 - 검은 제국의 지배",
+      "type": "업데이트",
+      "url": "https://hearthstone.blizzard.com/ko-kr/news/24297200/",
+      "source": "Blizzard"
+    },
+    {
+      "date": "2026-10-13",
+      "title": "플래닛 주 2 (Planet Zoo 2)",
+      "type": "정식출시",
+      "url": "https://store.steampowered.com/app/3219030/Planet_Zoo_2/",
+      "source": "Steam"
+    },
+    {
+      "date": "2026-10-13",
+      "title": "Valor Mortis (PC)",
+      "type": "정식출시",
+      "url": "https://store.steampowered.com/app/2828710/Valor_Mortis/",
+      "source": "Steam"
+    },
+    {
+      "date": "2026-10-20",
+      "title": "We Were Here Tomorrow (PC)",
+      "type": "정식출시",
+      "url": "https://store.steampowered.com/app/2315050/We_Were_Here_Tomorrow/",
+      "source": "Steam"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "Emberville (PC)",
+      "type": "얼리엑세스",
+      "url": "https://store.steampowered.com/app/2295170/Emberville/",
+      "source": "Steam"
+    },
+    {
+      "date": "2026-10-20",
+      "title": "Star Trek: Outposts Unknown (PC)",
+      "type": "정식출시",
+      "url": "https://store.steampowered.com/app/3469910/Star_Trek_Outposts_Unknown/",
+      "source": "Steam"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "캐슬바니아: 벨몬트의 저주 (아시아 출시)",
+      "type": "정식출시",
+      "url": "https://www.konami.com/games/castlevania/belmonts_curse/asia/ko/",
+      "source": "KONAMI"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "테일즈 오브 이터니아 리마스터 (PC)",
+      "type": "정식출시",
+      "url": "https://store.steampowered.com/app/3470960/",
+      "source": "Steam"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "The Wolf Among Us Remastered (PC)",
+      "type": "정식출시",
+      "url": "https://store.steampowered.com/app/3884860/The_Wolf_Among_Us_Remastered/",
+      "source": "Steam"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "드래곤즈 도그마 2: 다크 어리즌 (확장팩·Switch 2판)",
+      "type": "업데이트",
+      "url": "https://www.capcom.co.jp/ir/english/news/html/e260610.html",
+      "source": "CAPCOM"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "over the hill (PC)",
+      "type": "정식출시",
+      "url": "https://store.steampowered.com/app/2929250/over_the_hill/",
+      "source": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "원피스 그랜드 레스토랑 (PC)",
+      "type": "정식출시",
+      "url": "https://store.steampowered.com/app/3905010/ONE_PIECE_Grand_Gourmet/",
+      "source": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "KINGDOM HEARTS Collection [I~III] (PS5·Xbox Series·Switch 2)",
+      "type": "정식출시",
+      "url": "https://www.square-enix.com/kingdomhearts/collection/en-us/",
+      "source": "Square Enix"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "It Takes Two (Switch 2, 한국 출시)",
+      "type": "정식출시",
+      "url": "https://news.ea.com/press-releases/press-releases-details/2026/It-Takes-Two-Launches-on-Nintendo-Switch-2-with-Free-Upgrade-Available-for-Nintendo-Switch-Players-October-15/default.aspx",
+      "source": "EA"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "바이오하자드 RE:2 디럭스 에디션 (Switch 2 디지털판)",
+      "type": "정식출시",
+      "url": "https://www.capcom.co.jp/ir/english/news/html/e260910.html",
+      "source": "CAPCOM"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "바이오하자드 RE:3 (Switch 2 디지털판)",
+      "type": "정식출시",
+      "url": "https://www.capcom.co.jp/ir/english/news/html/e260910.html",
+      "source": "CAPCOM"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "바이오하자드 RE:4 골드 에디션 (Switch 2 디지털판)",
+      "type": "정식출시",
+      "url": "https://www.capcom.co.jp/ir/english/news/html/e260910.html",
+      "source": "CAPCOM"
+    },
+    {
+      "date": "2026-10-02",
+      "title": "라스트 에포크 시즌 5: Rage of the Frostborn (한국 시간)",
+      "type": "업데이트",
+      "url": "https://forum.lastepoch.com/t/countdown-to-season-5-rage-of-the-frostborn-hits-october-1/81745",
+      "source": "Last Epoch 공식 포럼"
+    },
+    {
+      "date": "2026-10-02",
+      "title": "아스트라에 오라티오 CBT (~10/6)",
+      "type": "CBT",
+      "url": "https://www.inven.co.kr/board/party/6537/115",
+      "source": "인벤"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "엔드 오브 어비스 (End of Abyss)",
+      "type": "정식출시",
+      "url": "https://news.xbox.com/en-us/2026/09/30/end-of-abyss-xbox-launch/",
+      "source": "Xbox Wire"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "인슈라오디드 (Enshrouded) 1.0 정식 전환",
+      "type": "정식출시",
+      "url": "https://www.invenglobal.com/articles/26359/enshrouded-reveals-10-full-launch-and-key-improvements",
+      "source": "Inven Global"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "아이온 2 글로벌 정식 출시 (PC)",
+      "type": "정식출시",
+      "url": "https://store.steampowered.com/app/3393110/AION_2/",
+      "source": "Steam"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Bluey’s Happy Snaps",
+      "type": "정식출시",
+      "url": "https://www.bluey.tv/play/happy-snaps/",
+      "source": "Bluey 공식 사이트"
+    },
+    {
+      "date": "2026-10-21",
+      "title": "Stupid Never Dies (PC)",
+      "type": "정식출시",
+      "url": "https://store.steampowered.com/app/3486530/Stupid_Never_Dies/",
+      "source": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Silver Pines (PC)",
+      "type": "정식출시",
+      "url": "https://store.steampowered.com/app/2333000/Silver_Pines/",
+      "source": "Steam"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Order of the Sinking Star (PC)",
+      "type": "정식출시",
+      "url": "https://store.steampowered.com/app/499170/Order_of_the_Sinking_Star/",
+      "source": "Steam"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Truckful (PC)",
+      "type": "정식출시",
+      "url": "https://store.steampowered.com/app/3090810/Truckful/",
+      "source": "Steam"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "Beyond These Stars 비욘드 디스 스타즈 (PC)",
+      "type": "정식출시",
+      "url": "https://store.steampowered.com/app/2295060/Beyond_These_Stars/",
+      "source": "Steam"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "The Jackbox Party Pack 12 (PC)",
+      "type": "정식출시",
+      "url": "https://store.steampowered.com/app/4199960/The_Jackbox_Party_Pack_12/",
+      "source": "Steam"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "Tenebris Somnia (PC)",
+      "type": "정식출시",
+      "url": "https://store.steampowered.com/app/2121510/Tenebris_Somnia/",
+      "source": "Steam"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "옥토패스 트래블러 (Switch 2, 글로벌판)",
+      "type": "정식출시",
+      "url": "https://www.square-enix.com/asia/newsportal/en/topics/octopathii/post22.html",
+      "source": "Square Enix"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "옥토패스 트래블러 II (Switch 2, 글로벌판)",
+      "type": "정식출시",
+      "url": "https://www.square-enix.com/asia/newsportal/en/topics/octopathii/post22.html",
+      "source": "Square Enix"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "아랑전설: 시티 오브 더 울브스 (Switch 2 디지털판)",
+      "type": "정식출시",
+      "url": "https://www.snk-corp.co.jp/us/press/2026/fatal-fury-city-of-the-wolves-roars-onto-nintendo-switch-2-grab-mai-shiranuis-classic-costume-as-a-fiery-preorder-bonus/",
+      "source": "SNK"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Tormented Souls II (Switch 2)",
+      "type": "정식출시",
+      "url": "https://www.gematsu.com/2026/07/tormented-souls-ii-coming-to-switch-2-on-october-15",
+      "source": "Gematsu"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Ratatan (정식 전환·콘솔 출시)",
+      "type": "정식출시",
+      "url": "https://www.gematsu.com/2026/06/ratatan-delayed-to-october-15",
+      "source": "Gematsu"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "House Flipper 2 (Switch 2)",
+      "type": "정식출시",
+      "url": "https://www.nintendo.com/en-ca/store/products/house-flipper-2-switch-2/",
+      "source": "Nintendo"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "디즈니 에픽 미키: 리브러쉬드 (Switch 2)",
+      "type": "정식출시",
+      "url": "https://www.nintendo.com/us/store/products/disney-epic-mickey-rebrushed-switch-2/",
+      "source": "Nintendo"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "헬로키티 파티 랜드 (Switch·Switch 2)",
+      "type": "정식출시",
+      "url": "https://www.sanrio-games.jp/en-us/news/00006.html",
+      "source": "Sanrio Games"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "Remothered: Red Nun’s Legacy (PC)",
+      "type": "정식출시",
+      "url": "https://store.steampowered.com/app/3335310/",
+      "source": "Steam"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "Hell is Us (Switch 2, 연기 반영)",
+      "type": "정식출시",
+      "url": "https://www.pockettactics.com/hell-is-us/nintendo-switch-2-delay",
+      "source": "Pocket Tactics"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "니엔텀 - 옵.제로 (Nientum - Op.ZERO) 정식 전환",
+      "type": "정식출시",
+      "url": "https://steamcommunity.com/games/2725250/announcements/detail/699899521489961307",
+      "source": "QueseraGames · Steam 공지"
+    },
+    {
+      "date": "2026-10-30",
+      "title": "How To Destroy A City (PC)",
+      "type": "정식출시",
+      "url": "https://store.steampowered.com/app/4386090/",
+      "source": "Steam"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "THANKS, LIGHT. (PC)",
+      "type": "정식출시",
+      "url": "https://store.steampowered.com/app/2544740/",
+      "source": "Steam"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "The World’s Shortest Horror Game (PC)",
+      "type": "정식출시",
+      "url": "https://store.steampowered.com/app/5101180/",
+      "source": "Steam"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "안티 안티 (Anti-anti, PC)",
+      "type": "정식출시",
+      "url": "https://store.steampowered.com/app/4982060/",
       "source": "Steam"
     }
   ],
