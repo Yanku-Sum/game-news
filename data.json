@@ -2,6 +2,36 @@
   "pagesUrl": "https://yanku-sum.github.io/game-news/",
   "analyses": [
     {
+      "date": "2026-10-01",
+      "game": "아이온2 (AION 2)",
+      "hook": "글로벌 사전플레이 첫날 Steam 최고 동접 17만 1,530명과 글로벌 매출 차트 1위가 보도돼 오늘 분석 대상으로 선정했다. 초기 유입 성과와 정식 출시 후의 잔존·과금 평가는 구분해야 한다.",
+      "coreLoop": "지역 탐험·던전 전투→캐릭터 성장과 수집→클래스·스킬 구성 조정→파티 콘텐츠·진영전 재도전의 루프다. 비행은 이동과 전투 양쪽에서 경로 선택을 바꾼다.",
+      "growthCurve": "공식 소개는 솔로 도전·5인 파티·10인 그룹 던전과 시즌 도전·순위 경쟁을 병행한다. 성장의 재미는 전투 숙련과 참여 범위 확장에서 읽을 수 있지만, 경험치 곡선·강화 확률·최종 밸런스는 확인 자료만으로 단정하지 않는다.",
+      "funMechanics": "고도와 위치를 활용하는 공중 전투가 지상 중심 MMORPG와 다른 공간 감각을 만든다. 의상·날개 등 수집과 캐릭터 외형 구성은 전투 성과 외에도 자기표현의 보상을 제공한다.",
+      "benchmarks": "① 비행을 단순 이동 수단이 아닌 탐험·전투의 차별점으로 제시한다. ② 솔로·파티·그룹 콘텐츠로 참여 성향을 나눈다. ③ 사전플레이 흥행 지표와 정식 서비스 잔존을 분리해 평가한다.",
+      "businessModel": "기본 무료 플레이와 게임 내 구매를 제공하며 유료 파운더스 팩은 정식 출시 전 접근권을 포함한다. Standard·Deluxe·Ultimate 상품이 확인되지만, 상품 존재만으로 과금 공정성이나 장기 매출을 평가하지 않는다.",
+      "onboarding": "비행·클래스 전투·다인 콘텐츠를 함께 익혀야 해 초반 정보 부담이 있을 수 있다. 상점은 최소 100GB 저장 공간과 SSD 권장을 명시한다. 실제 튜토리얼 단계와 신규 이용자 이탈률은 미확인이다.",
+      "targetUser": "공중 전투와 진영 대립을 선호하는 MMORPG 이용자, 친구와 역할을 나누는 파티 플레이어가 핵심이다. 글로벌판은 PC 기반이며 8개 언어를 지원한다.",
+      "community": "온라인 협동·진영 PvP와 공식 Discord·방송 채널을 갖춘다. 같은 서버에서 친구와 시작하기, 파티 구성·비행 전투 정보 공유가 초기 커뮤니티의 실용적 주제이며 운영 대응은 별도 관찰이 필요하다.",
+      "links": [
+        {
+          "title": "글로벌 사전플레이 흥행 및 정식 출시 일정",
+          "url": "https://www.inven.co.kr/webzine/news/?news=321646",
+          "source": "인벤"
+        },
+        {
+          "title": "공식 게임 설명·요금 모델·파운더스 팩",
+          "url": "https://store.steampowered.com/app/3393110/AION_2/",
+          "source": "NC · Steam"
+        },
+        {
+          "title": "Steam 접속·출시 시각·공식 커뮤니티 정보",
+          "url": "https://steamdb.info/app/3393110/charts/",
+          "source": "SteamDB"
+        }
+      ]
+    },
+    {
       "date": "2026-09-29",
       "game": "Minecraft Dungeons II",
       "hook": "9월 29일 정식 출시와 함께 14년 만의 Minecraft 새 차원 Sift를 먼저 체험하게 한 협동 ARPG다. 전작의 짧은 챕터 구조를 연결형 탐험과 깊어진 장비 빌드로 바꾼 점이 출시일의 핵심 화제다.",
@@ -2633,11 +2663,11 @@
       "source": "게임메카"
     },
     {
-      "date": "2026-08-14",
+      "date": "2027-03-09",
       "title": "Grave Seasons (Xbox 게임패스)",
       "type": "정식출시",
-      "url": "https://www.inven.co.kr/webzine/news/?news=319238",
-      "source": "인벤"
+      "url": "https://store.steampowered.com/app/3255110/Grave_Seasons/",
+      "source": "Steam"
     },
     {
       "date": "2026-08-14",
@@ -4178,9 +4208,121 @@
       "type": "정식출시",
       "url": "https://store.steampowered.com/app/4982060/",
       "source": "Steam"
+    },
+    {
+      "date": "2026-10-30",
+      "title": "Queen’s Domain",
+      "type": "정식출시",
+      "url": "https://store.steampowered.com/app/1799840/Queens_Domain/",
+      "source": "Steam"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "풋볼 매니저 27 (디지털판)",
+      "type": "정식출시",
+      "url": "https://www.inven.co.kr/webzine/news/?news=321629",
+      "source": "인벤"
+    },
+    {
+      "date": "2026-10-30",
+      "title": "붉은사막 인핸스드: 미지의 여정 (한국 발표 기준)",
+      "type": "업데이트",
+      "url": "https://www.inven.co.kr/webzine/news/?news=321624",
+      "source": "인벤"
     }
   ],
   "entries": [
+    {
+      "date": "2026-10-01",
+      "lede": "10월 첫날은 아이온2의 글로벌 사전플레이 흥행과 신작·확장팩 일정 재편이 함께 드러나는 시점이다. 개발 현장에서는 스튜디오 독립과 AI 백엔드 도입이 제작 방식의 변화를 보여주고, 유통에서는 Steam의 개인화 노출과 Xbox의 디스크 라이선스 전환이 이용자 접점을 넓히고 있다. 신작은 날짜뿐 아니라 플레이 방식과 제공 조건을 함께 비교할 필요가 있다.",
+      "industry": [
+        {
+          "title": "그래스호퍼, 넷이즈 산하 5년 만에 독립 개발사로 전환",
+          "url": "https://www.gamedeveloper.com/business/suda-51-s-grasshopper-manufacture-splits-from-netease",
+          "blurb": "그래스호퍼 매뉴팩처의 스다 고이치 대표는 9월 30일 넷이즈와 충분히 협의한 뒤 독립 개발사로 나아간다고 발표했다. 넷이즈가 2021년 인수한 지 5년 만의 변화로, 대표는 ‘Romeo Is a Dead Man’ 개발을 마친 뒤 다양한 스타일의 작품과 축적한 자체 퍼블리싱 역량을 활용하겠다고 설명했다. 개발·유통 파트너 선택 폭이 넓어지는 결정이지만 거래 금액과 새 자금 조달 조건은 공개되지 않아 재무적 성과나 고용 변화로 단정할 수 없다.",
+          "source": "Game Developer",
+          "articleDate": "2026-09-30"
+        },
+        {
+          "title": "Steam 할인·이벤트 노출, 2027년 초 개인화 추천 중심으로 전환",
+          "url": "https://www.gamedeveloper.com/pc/steam-s-discounts-and-events-tab-will-soon-be-fully-algorithm-driven",
+          "blurb": "밸브는 9월 29일 Steam의 ‘할인 및 이벤트’ 영역을 수동 편성 캘린더에서 이용자별 동적 추천 방식으로 바꾸겠다고 밝혔다. 회사는 실험에서 하루에 노출되는 게임이 10배 늘고 방문·위시리스트·장바구니 추가가 증가했다고 설명했으며, 새 수동 배치 예약은 중단하되 이미 잡힌 일정은 유지한다. 2027년 초 전환을 목표로 하는 만큼 개발사는 담당자에게 노출 자리를 요청하는 방식보다 이용자 취향에 맞는 상품 정보와 할인 캠페인을 준비해야 하지만, 개별 게임의 트래픽 증가까지 보장되는 것은 아니다.",
+          "source": "Game Developer",
+          "articleDate": "2026-09-29"
+        },
+        {
+          "title": "컴투스플랫폼, 자연어 연동 지원하는 게임 백엔드 ‘하이브 액실’ 출시",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=308911",
+          "blurb": "컴투스플랫폼은 9월 30일 AI 특화 게임 백엔드 ‘하이브 액실’을 출시하고 인증·결제·푸시를 올인원 SDK와 통합 관리 화면으로 제공한다고 밝혔다. 회사 설명에 따르면 코덱스 연동 플러그인은 자연어 요청을 받아 연동 코드를 작성하며, 기반 하이브 플랫폼은 250여 개 게임과 누적 글로벌 이용자 9억 8천만 명 이상에서 운영 경험을 쌓았다. 소규모 개발팀에는 반복적인 서버 연동 부담을 낮출 수 있는 선택지지만, 소개된 이용자 규모는 기존 하이브의 지표이므로 신제품 이용 실적이나 개발 비용 절감률로 해석해서는 안 된다.",
+          "source": "경향게임스",
+          "articleDate": "2026-09-30"
+        },
+        {
+          "title": "중국 9월 수입 게임 승인 3종 중 2종이 한국 IP",
+          "url": "https://www.inven.co.kr/webzine/news/?news=321625",
+          "blurb": "중국 국가신문출판서가 9월 30일 공개한 수입 게임 심사 결과에서 ‘3on3 프리스타일’과 ‘열혈강호: 리부트’가 판호를 받았다. 승인된 해외 게임은 총 3종이며, 전자는 PC로 상하이하오자정보기술이 유통·운영하고 후자는 모바일로 상하이카이잉네트워크기술과 항저우천유네트워크기술이 참여한다. 조이시티 농구 게임과 한국 만화 IP에 중국 시장 진입의 제도적 기반이 생겼다는 의미지만, 판호는 흥행이나 즉시 출시를 보장하지 않으며 열혈강호 신작의 개발사·IP 계약 구조도 기사에서는 공개되지 않았다.",
+          "source": "인벤",
+          "articleDate": "2026-09-30"
+        },
+        {
+          "title": "Xbox 디스크의 디지털 이용 권한 전환, 전 이용자로 확대",
+          "url": "https://www.inven.co.kr/webzine/news/?news=321628",
+          "blurb": "Xbox는 현지 9월 29일 Xbox One과 Series X용 지원 디스크를 디지털 이용 권한으로 연결하는 기능을 전 이용자에게 공개했다. 디스크를 넣고 실행해 권한을 받으면 이후 디스크 없이 플레이할 수 있고, 지원 타이틀에 한해 Play Anywhere·클라우드 등 다른 환경에서도 이용할 수 있지만 초대 Xbox와 Xbox 360 디스크는 제외된다. 실물 라이브러리의 접근성은 좋아지지만 퍼블리셔별 참여와 기술 조건이 적용되며, 디스크를 다른 사람이 등록하면 기존 디지털 권한을 잃을 수 있어 중고 판매 후 영구 보유하는 기능과는 구분해야 한다.",
+          "source": "인벤",
+          "articleDate": "2026-09-30"
+        },
+        {
+          "title": "PS Plus 10월 월간 게임, F1 25·Hunt·EDF 3종 공개",
+          "url": "https://blog.playstation.com/2026/09/30/playstation-plus-monthly-games-for-october-f1-25-hunt-showdown-1896-earth-defense-force-world-brothers-2/",
+          "blurb": "소니 인터랙티브 엔터테인먼트는 9월 30일 PS Plus 월간 게임으로 ‘F1 25’, ‘Hunt: Showdown 1896’, ‘Earth Defense Force: World Brothers 2’를 발표했다. 공식 안내의 등록 기간은 10월 6일부터 11월 2일까지이며 앞의 두 게임은 PS5, EDF는 PS5·PS4 대상이고 지역별 구성 차이가 있을 수 있다. 레이싱·익스트랙션 슈터·협동 액션을 구독으로 체험할 기회가 늘어나지만 영구 무료 배포와는 다르므로, 이용자는 자기 지역의 제공 목록과 구독 유지 조건을 확인해야 한다.",
+          "source": "PlayStation Blog",
+          "articleDate": "2026-09-30"
+        }
+      ],
+      "games": [
+        {
+          "title": "아이온2 글로벌 사전플레이, Steam 최고 동접 17만 1,530명",
+          "url": "https://www.inven.co.kr/webzine/news/?news=321646",
+          "blurb": "엔씨가 개발·서비스하는 아이온2는 원작의 진영 대립과 비행 전투를 계승한 PC MMORPG로, 글로벌 서비스는 Steam과 퍼플을 통해 제공된다. 9월 30일 파운더스 팩 구매자 대상 사전플레이를 시작한 뒤 SteamDB 기준 최고 동시 접속자 17만 1,530명을 기록했으며, 정식 무료 서비스는 10월 5일 예정으로 상점에서도 날짜를 확인했다. 자체 플랫폼 퍼플 이용자는 이 수치에 포함되지 않으므로 전체 이용자 수와 구분해야 하고, 초기 매출·접속 흥행이 정식 출시 후 장기 잔존으로 이어지는지가 다음 관전 포인트다.",
+          "source": "인벤",
+          "articleDate": "2026-10-01"
+        },
+        {
+          "title": "풋볼 매니저 27, 11월 10일 출시와 경기일·UI 개편 공개",
+          "url": "https://www.inven.co.kr/webzine/news/?news=321629",
+          "blurb": "스포츠 인터랙티브의 풋볼 매니저 27은 선수 영입·전술·구단 운영을 지휘하는 축구 경영 시뮬레이션으로, 11월 10일 PC·PS5·Xbox와 넷플릭스 모바일 버전이 출시된다. 9월 30일 공개한 정보에는 경기 중 태양 위치가 바뀌는 시간대 시스템, 3D 잔디와 날씨 표현, 관중·경기 전 연출 개선 및 UI 재정비가 포함됐다. 구단 운영 흐름을 읽기 쉽고 경기일을 생생하게 만드는 변화라는 점이 핵심이며, 출시 1~2주 전 예정된 런치 프리뷰는 정확한 시작일이 확정되지 않아 달력에 임의 날짜를 넣지 않았다.",
+          "source": "인벤",
+          "articleDate": "2026-10-01"
+        },
+        {
+          "title": "Grave Seasons, 농장 생활에 살인 미스터리를 결합해 2027년 3월 출시",
+          "url": "https://www.gematsu.com/2026/09/grave-seasons-launches-march-9-2027",
+          "blurb": "Perfect Garbage가 개발하고 Blumhouse Games가 퍼블리싱하는 Grave Seasons는 농사·채집·제작·연애에 초자연적 연쇄살인 사건 조사를 결합한 서사 중심 생활 시뮬레이션이다. 9월 30일 발표된 출시일은 2027년 3월 9일이며 PS5·Xbox Series·Switch·PC와 Game Pass 제공이 안내됐고, Steam 상점에서도 같은 날짜를 확인했다. 평온한 마을의 인간관계를 쌓는 일이 피해자를 지키고 범인을 찾는 선택과 맞물리는 점이 차별화 요소이며, 기존 달력의 8월 일정은 이번 확정 발표에 맞춰 같은 항목을 정정했다.",
+          "source": "Gematsu",
+          "articleDate": "2026-09-30"
+        },
+        {
+          "title": "Queen’s Domain, 비행 성검을 활용하는 1인칭 탐험 RPG 10월 30일 출시",
+          "url": "https://www.gematsu.com/2026/09/queens-domain-launches-october-30-for-ps5-xbox-series-switch-2-and-pc",
+          "blurb": "Freshly Baked Games의 Queen’s Domain은 실종된 아버지를 찾아 신비한 섬을 탐험하는 레트로풍 1인칭 액션 RPG이며 Future Friends Games가 퍼블리싱한다. 9월 30일 발표에서 10월 30일 PC·PS5·Xbox Series·Switch 2 출시가 확정됐고, 성검 Endu로 발판 사이를 날아 연결형 미궁을 탐색하는 이동 방식이 소개됐다. 스태미나·차지 공격·무기별 기술과 50종 이상 근접 무기를 조합하므로, King’s Field식 어두운 탐험을 좋아하면서도 수직 이동과 무기 선택의 폭을 원하는 플레이어에게 구체적인 관심 포인트가 있다.",
+          "source": "Gematsu",
+          "articleDate": "2026-09-30"
+        },
+        {
+          "title": "프린세스 메이커: 예언의 아이들, 9월 30일 정식 전환",
+          "url": "https://store.steampowered.com/app/3438810/Princess_Maker_Children_of_Revelation/",
+          "blurb": "GEAR2가 개발·유통하는 프린세스 메이커: 예언의 아이들은 부모가 되어 딸의 학습·사회 활동·탐험·휴식 일정을 선택하고 성인이 된 뒤의 미래를 만들어 가는 육성 시뮬레이션이다. Steam 상점은 2025년 7월 3일 얼리 액세스 시작과 2026년 9월 30일 정식 출시를 구분해 표시하며, 한국어 인터페이스·자막·음성을 지원한다. 마계의 여러 종족 마을을 탐험하고 인물과 관계를 쌓는 과정이 진로와 결말 선택에 연결되므로, 날짜뿐 아니라 반복 육성과 다중 엔딩을 즐기는 이용자에게 맞는 게임인지 살펴볼 만하다.",
+          "source": "Steam"
+        },
+        {
+          "title": "End of Abyss, 폐쇄된 지하 시설을 탐험하는 액션 호러 10월 1일 출시",
+          "url": "https://news.xbox.com/en-us/2026/09/30/end-of-abyss-xbox-launch/",
+          "blurb": "전 Tarsier 개발자 3명이 설립한 Section 9 Interactive의 End of Abyss는 젊은 전투 기술자 Cel이 폐쇄된 지하 시설을 조사하는 SF 액션 어드벤처로 Epic Games Publishing이 유통한다. 공동 창업자가 9월 30일 Xbox Wire에 공개한 개발 설명은 Xbox Series X|S판의 10월 1일 출시와 장비·도구를 얻어 새 경로를 여는 탐험 구조를 확인해 준다. 초기 탑다운 슈터에서 긴장감과 탐색을 강조하는 액션 호러 메트로배니아로 발전한 작품이므로, 빠른 사격만보다 기괴한 적과 막힌 경로를 관찰하며 시설을 해독하는 플레이를 기대하는 이용자에게 주목할 만하다.",
+          "source": "Xbox Wire",
+          "articleDate": "2026-09-30"
+        }
+      ]
+    },
     {
       "date": "2026-09-30",
       "lede": "9월 말 게임 시장은 Minecraft Dungeons II의 출시와 10월 대작 출격 준비가 겹치는 한편, Xbox 재편의 인력·조직 후속 영향이 계속 드러나는 국면이다. 플레이어는 협동·전략·비행 액션의 신규 선택지를 비교하게 되고, 제작 현장에는 출시 이후 운영 역량과 팀 지속성의 중요성이 더 커지고 있다.",
