@@ -5020,9 +5020,108 @@
       "type": "업데이트",
       "url": "https://blog.playstation.com/2026/10/27/where-winds-meets-climactic-hutuo-battlefield-narrative-arc-revealed-out-nov-13/",
       "source": "PlayStation Blog 공식"
+    },
+    {
+      "date": "2026-10-30",
+      "title": "blockia (PC)",
+      "type": "정식출시",
+      "url": "https://www.gamespress.com/en-US/blockia-launches-October-30-build-with-friends-online",
+      "source": "4thBranch 공식 보도자료 / Steam·인벤 캘린더"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "Leaf Blower Co. (PS5·Xbox Series)",
+      "type": "정식출시",
+      "url": "https://www.gematsu.com/2026/10/leaf-blower-co-for-ps5-xbox-series-launches-november-13",
+      "source": "Forklift Interactive·LifT Games 발표 / Gematsu"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Adorable Adventures (Switch 2·디지털)",
+      "type": "정식출시",
+      "url": "https://nintendoeverything.com/adorable-adventures-announced-for-nintendo-switch-2/",
+      "source": "PQube·Wild Sheep Studio 발표 / Nintendo Everything·Gematsu"
     }
   ],
   "entries": [
+    {
+      "date": "2026-10-30",
+      "lede": "모바일 게임 등급분류의 민간 이관 확대와 웹게임 유통 통합, 구독형 게임 조직의 변화가 이어졌다. 신작은 팬텀 블레이드 제로의 출시 직후 반응과 블로키아의 오늘 출시를 살폈고, 콘솔 이식작은 기종별 날짜를 구분해 달력에 보강했다.",
+      "industry": [
+        {
+          "title": "모바일 등급분류 민간 이관 2단계, 11월 2일 시행…기존 신청도 처리 단계에 따라 이전",
+          "url": "https://www.gamemeca.com/view.php?gid=1782605",
+          "source": "게임메카 / 게임물관리위원회 발표",
+          "articleDate": "2026-10-29",
+          "blurb": "게임물관리위원회는 29일 모바일 게임 등급분류 민간 이관 2단계를 11월 2일부터 시행한다고 알렸으며, 이를 위한 게임콘텐츠등급분류위원회와의 위탁 계약은 10월 23일 체결했다. 전체이용가부터 청소년이용불가까지의 모바일 게임 등급분류와 내용수정신고가 이관 대상이고, 이미 접수된 신청은 처리 단계에 따라 이전하되 아케이드와 사행성 우려가 높은 일부 게임 등은 게임위에 남는다. 개발·배급사는 신청 창구와 변경 신고 주체를 다시 확인해야 하는 절차 변화이며, 모든 게임의 심사가 사라지거나 등급 기준 자체가 폐지되는 조치로 해석해서는 안 된다."
+        },
+        {
+          "title": "넷플릭스 산하 Next Games, 약 150명·5개 개발팀 체제로…모바일에서 TV까지 역할 확장",
+          "url": "https://www.pocketgamer.biz/how-next-games-adapted-to-a-new-direction-after-the-netflix-acquisition/",
+          "source": "PocketGamer.biz / Next Games 대표 인터뷰",
+          "articleDate": "2026-10-29",
+          "blurb": "PocketGamer.biz의 29일 인터뷰에서 Next Games의 Saara Bergström 대표는 넷플릭스 인수 이후 인원이 약 90~100명에서 150명으로 늘고, 내부 개발팀 5개와 라이브 운영·플랫폼 조직을 갖췄다고 설명했다. 넷플릭스 합류 후 모바일·TV에 7개 게임을 선보였고, 현지 공동개발 파트너 2곳이 라이브 게임 3개의 지원에 참여하며 2023년부터 TV 스트리밍으로도 제작 경험을 넓혔다고 밝혔다. 단순한 공급량 확대보다 품질과 넷플릭스 내 기술·협업 문제 해결을 강조한 조직 설명으로, 여러 화면에 맞춘 제작·운영 역량의 필요성을 보여주지만 실제 유지율이나 구독 매출 개선을 입증한 발표는 아니다."
+        },
+        {
+          "title": "Yalla, 자동차 테마 매치3 Turbo Match로 미국·유럽 공략…지역별 설계 차이 강조",
+          "url": "https://www.pocketgamer.biz/yalla-groups-saifi-ismail-were-not-exporting-a-mena-formula/",
+          "source": "PocketGamer.biz / Yalla Group 사장 인터뷰",
+          "articleDate": "2026-10-29",
+          "blurb": "Yalla Group의 Saifi Ismail 사장은 29일 인터뷰에서 첫 자체 개발 매치3 게임 Turbo Match를 처음부터 미국·유럽을 포함한 글로벌 이용자에 맞춰 설계했다고 설명했다. 자동차 테마의 퍼즐을 내세우며 Yalla Ludo로 쌓은 중동·북아프리카 경험을 그대로 수출하기보다 지역의 취향·경쟁·이용자 확보 환경을 다시 이해하고, 접근하기 쉬운 플레이와 지속적인 콘텐츠·피드백을 결합하겠다는 방침을 밝혔다. 지역 확장을 준비하는 개발사에는 번역만으로 현지화를 끝낼 수 없다는 사례지만, 이는 회사의 전략 설명이며 서구 시장의 매출·유지율 성과나 점유율 확보가 확인됐다는 의미는 아니다."
+        },
+        {
+          "title": "크래프톤·넷플릭스, PUBG 실사 시리즈 개발…도널드 글러버 참여",
+          "url": "https://www.gematsu.com/2026/10/pubg-live-action-series-in-development-at-netflix",
+          "source": "Gematsu / KRAFTON 발표·TVLine 교차 확인",
+          "articleDate": "2026-10-29",
+          "blurb": "크래프톤은 29일 넷플릭스에서 PUBG 실사 시리즈를 개발 중이며 도널드 글러버가 각본·연출·총괄 제작과 출연에 참여한다고 발표했다. 스티븐 글러버도 각본과 총괄 제작을 맡고, 보도에는 NEON TV·Gilga와 크래프톤 측 제작진이 함께 명시됐지만 공개 시기·예산·배역·구체적인 이야기는 확정되지 않았다. 배틀로얄 IP가 영상으로 이용자 접점을 넓히려는 움직임인 동시에 현재 확인된 것은 개발 단계이므로, 정식 시리즈 제작 주문이나 실제 공개·게임 이용자 증가까지 보장된 사업 성과로 구분 없이 다뤄서는 안 된다."
+        },
+        {
+          "title": "Xsolla, GamePix 인수 공개…웹게임 1만 종 이상을 결제·유통 체계와 연결",
+          "url": "https://www.gamespress.com/en-US/XSOLLA-ACQUIRES-GAMEPIX-TO-BUILD-A-COMPLETE-PLATFORM-FOR-WEB-AND-AI-CR",
+          "source": "Xsolla 공식 보도자료 / Games Press",
+          "articleDate": "2026-10-29",
+          "blurb": "Xsolla는 29일 GamePix 인수를 공개하고 1만 종 이상의 웹게임과 4천 곳 이상의 개발자 기반을 자사의 결제·유통 도구와 연결하겠다고 발표했다. 자료는 퍼블리싱 SDK·품질 검증·배포·수익화를 잇는 구상을 설명하며 회사 소개에는 GamePix가 2026년 8월부터 Xsolla 소속이라고 적혀 있어, 발표일을 거래 완료일로 단정할 수 없고 인수 금액도 공개되지 않았다. 설치 없이 접근하는 브라우저 게임의 판매·결제 창구가 통합될 가능성이 있지만, 개발사는 실제 지원 지역·수수료·기술 조건을 확인해야 하며 회사가 제시한 성장 기대와 검증된 수익 개선은 구분해야 한다."
+        }
+      ],
+      "games": [
+        {
+          "title": "팬텀 블레이드 제로 출시, 스팀 최고 동시접속 43만 명…초기 호평과 성능 제보 공존",
+          "url": "https://www.gamemeca.com/view.php?gid=1782608",
+          "source": "게임메카 / 10월 29일 스팀 집계",
+          "articleDate": "2026-10-29",
+          "blurb": "S-GAME의 무협 액션 RPG 팬텀 블레이드 제로가 29일 한국 시각 오전 11시 PC·PS5로 출시됐으며, 게임메카는 같은 날 스팀 최고 동시접속자 43만 1,541명을 보도했다. 생명이 66일 남은 주인공 Soul이 음모를 추적하는 세계관과 다양한 무기의 연속 공격·보스전이 관심을 모았고, 오후 5시 기사 기준 스팀 이용자 평가는 긍정 79%로 ‘대체로 긍정적’이었다. 무기 표현과 전투 흐름에 대한 호평과 함께 렌더링·끊김·버그 제보도 있어 기기별 상태를 살필 필요가 있으며, 이 수치는 특정 시점의 PC 반응으로 전체 기종 판매량이나 장기 만족도를 뜻하지 않는다."
+        },
+        {
+          "title": "블로키아 오늘 오후 5시 출시…120종 이상 블록으로 만들고 온라인에서 함께 놀기",
+          "url": "https://www.gamemeca.com/view.php?gid=1782612",
+          "source": "게임메카 / 4thBranch 공식 보도자료·Steam",
+          "articleDate": "2026-10-29",
+          "blurb": "4thBranch가 개발·배급하는 블록 창작 게임 blockia는 30일 한국 시각 오후 5시 PC Steam 정식 출시 예정이며, 29일 기사와 개발사 보도자료에서 날짜·시각을 대조했다. 120종 이상의 부품을 자유롭게 배치·회전·색칠해 공간을 만들고 사진 모드에서 조명·배경·구도를 정하며, 정식판에는 함께 즐기는 온라인 플레이와 같은 주제로 창의성을 겨루는 빌드 배틀이 추가된다. 한국어를 포함한 9개 언어를 지원하고 제작·사진 모드의 무료 데모는 출시 후에도 남아 창작 취향을 먼저 확인할 수 있지만, 데모에 정식판 온라인 기능까지 포함된다고 안내된 것은 아니다."
+        },
+        {
+          "title": "Leaf Blower Co., 11월 13일 PS5·Xbox Series 출시…낙엽 청소와 사업 성장 결합",
+          "url": "https://www.gematsu.com/2026/10/leaf-blower-co-for-ps5-xbox-series-launches-november-13",
+          "source": "Gematsu / Forklift Interactive·LifT Games 발표",
+          "articleDate": "2026-10-29",
+          "blurb": "퍼블리셔 Forklift Interactive와 개발사 LifT Games는 29일 청소 시뮬레이션 Leaf Blower Co.의 PS5·Xbox Series판을 11월 13일 출시한다고 발표했다. 낙엽 송풍기로 의뢰 장소의 낙엽과 어지러운 물건을 정리하고 보수를 받아 장비·업그레이드를 마련하며 사업을 키우는 흐름으로, 눈앞의 공간이 깨끗해지는 피드백과 다음 도구를 얻는 성장을 연결한다. 편안한 작업형 게임을 콘솔로 즐기려는 이용자에게 선택지가 늘어나는 소식이며, PC판은 이미 2025년 11월 17일 나온 작품이므로 이번 날짜는 전 기종 최초 출시일이 아닌 새 콘솔판 일정으로 구분했다."
+        },
+        {
+          "title": "Adorable Adventures, Switch 2 디지털판 11월 12일…냄새로 가족을 찾는 아기 멧돼지",
+          "url": "https://nintendoeverything.com/adorable-adventures-announced-for-nintendo-switch-2/",
+          "source": "Nintendo Everything / PQube·Wild Sheep Studio·Gematsu",
+          "articleDate": "2026-10-29",
+          "blurb": "PQube와 Wild Sheep Studio의 3인칭 탐험 게임 Adorable Adventures는 Switch 2 디지털판을 11월 12일 선보이며, 29일 보도는 패키지판 일정을 별도로 2027년 1월 28일로 안내했다. 산불 뒤 가족과 떨어진 아기 멧돼지 Boris가 냄새를 수집·구분하며 숲·초원·동굴을 누비고 형제들의 성격에 맞는 퍼즐을 푸는 구성으로, 9월 Family Fun 업데이트의 물건 전달·장식·냄새 숨바꼭질 콘텐츠도 포함된다. 전투보다 감각적인 추적과 자연 탐험을 원하는 이용자가 주목할 이식 소식이며, 기존 PC·PS5·Xbox판 출시와 이번 Switch 2의 디지털·실물 유통 날짜를 섞지 않았다."
+        },
+        {
+          "title": "레조넌스 오브 페이트 신판 공개…4K·HDR·배속 지원, 스팀은 출시 예정 표시",
+          "url": "https://store.steampowered.com/app/4996080/RESONANCE_OF_FATEEND_OF_ETERNITY_ENHANCED_REMASTER/",
+          "source": "Steam 공식 상점 / Gematsu 10월 29일 발표 보도",
+          "articleDate": "2026-10-29",
+          "blurb": "tri-Ace의 총격 액션 JRPG Resonance of Fate Enhanced Remaster는 29일 PS5·PC 신판 발표가 보도됐으며, 공식 Steam 안내에는 4K·HDR·최대 120fps 지원과 개선된 텍스처·게임 속도 2배 옵션이 명시됐다. 황폐한 세계의 거대 기계 도시를 무대로 용병들의 이야기를 따라가며 점프와 연속 사격을 전술적으로 조합하는 작품이고, Steam 상품은 기존 4K/HD Edition을 요구하는 추가 콘텐츠로 한국어 인터페이스·자막도 안내한다. 다만 이번 확인에서 Steam은 여전히 ‘출시 예정’으로 표시돼 보도의 즉시 판매 설명과 상태가 달랐으므로, PC 구매 가능 시각과 실제 적용 조건은 재확인이 필요하며 달력에 확정 출시일을 넣지 않았다."
+        }
+      ]
+    },
     {
       "date": "2026-10-29",
       "lede": "모바일 사업 확장과 이용자 확보 자금 지원이 이어지는 한편, 지역 개발 커뮤니티에서 출발한 스튜디오의 폐업도 확인됐다. 게임 소식은 건담 신작의 크로스플레이 구상, 마법 학교·배달 RPG의 확정 출시일, 기존 무협 게임의 새 지역처럼 실제 플레이 방식과 이용 조건이 드러난 발표를 중심으로 골랐다.",
