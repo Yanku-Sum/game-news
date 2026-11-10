@@ -2,6 +2,46 @@
   "pagesUrl": "https://yanku-sum.github.io/game-news/",
   "analyses": [
     {
+      "date": "2026-11-10",
+      "game": "소울프레임 (Soulframe) · 글로벌 PC Open Preludes 공개 알파 분석",
+      "hook": "2026년 11월 10일 기준 공식 Windows PC 런처의 글로벌 Open Preludes를 분석하며, 북미 11월 6일 개방 공지와 한국 시각 11월 7일 테스트 일정을 구분한다. 9일 국내 보도까지 이어진 초대 없는 무료 개방을 선정 근거로 삼았고, 동시접속·매출·유지율 수치는 확인하지 않았다. 직접 플레이한 리뷰가 아니라 공식 FAQ·개방 공지·개발 방송·창립자 안내를 대조한 구조 분석으로, Preludes 17에서 예고한 기능을 이미 적용된 것으로 단정하지 않는다.",
+      "coreLoop": "Digital Extremes의 공식 안내에서 현재 중심 행동은 Midrath를 탐험하고 전투 방식을 익히며 Fables라는 이야기 퀘스트, World Trees 발견과 갇힌 동물 구출에 참여하는 것이다. 이 행동들은 제작·외형 변경·무기 성장과 협동 같은 시스템을 열어 다음 모험에서 선택할 수 있는 수단을 늘리는 흐름으로 설명된다. 단기 루프는 눈앞의 위협이나 발견 지점을 선택하고 해결한 결과를 다음 전투·이동 준비로 연결하는 구조로 해석할 수 있다. 예를 들어 전투만 반복하던 이용자가 구출이나 탐험을 다음 목표로 삼는 상황은 설계상 가능한 선택이며 실제 필수 진행 순서를 확인한 사례는 아니다. 중장기에는 Pacts를 통한 선조의 능력과 무기 운용을 조합하고 동료와 다시 탐험하는 과정이 반복 접속의 이유가 될 수 있다. 다만 획득 재료 이름별 수량이나 필수 제작 비용은 확인하지 않았으므로, 첫 기능 해금 뒤 다음 목표 선택률을 관찰해야 탐험이 성장의 연결 고리로 작동하는지 판단할 수 있다.",
+      "growthCurve": "공식 안내의 성장 축은 무기 진행, 제작으로 늘어나는 선택지, Pacts 능력 활용과 전투 숙련을 함께 보는 편이 적절하다. 분석상 초반 목표는 Fables와 탐험에서 무엇을 할 수 있는지 이해하는 것이고, 중반은 자신이 선호하는 전투·협동 방식을 찾는 과정으로 나눠 볼 수 있다. 이는 레벨별 실제 진행 순서나 소요 시간을 측정한 결과가 아니며 알파에서 뒤집힐 수 있는 구조적 해석이다. 11월 3일 Devstream 18은 Preludes 17의 지역 정화와 Votives 개편을 예고했지만, 이번 분석에서는 그 지역별 순환을 현재 버전의 확정 성장 순서로 편입하지 않았다. 예를 들어 제작을 시도할 재료가 모이기 전에 전투 난도가 급상승하면 탐험의 자유가 파밍 압박으로 바뀔 수 있다는 점은 검증할 가설이다. 무기 선택 변경, 제작 시도에서의 중단, 보스 재도전과 기능 해금 전후 접속을 함께 추적해야 숙련 병목과 재화 병목을 구분하고 알파의 페이싱을 조정할 수 있다.",
+      "funMechanics": "공식 보도자료는 Pacts로 선조의 능력을 활용하는 전투와 자연을 회복하는 탐험을 같은 판타지 안에 묶어 소개한다. 분석상 이용자는 적을 쓰러뜨리는 직접 성취 외에도 세계를 알아 가고 동물을 구출하는 감정적 보상을 얻을 여지가 있다. 예를 들어 익숙한 무기 운용을 유지할지 새로운 Pact의 능력으로 전투 방식을 바꿀지 고민한다면 성장의 보상이 수치 상승뿐 아니라 행동 선택의 확장으로 연결될 수 있다. Devstream 18의 함정·사슬을 쓰는 Ode Shrike는 그런 방향의 구체적인 예고지만 현재 사용 가능 여부나 효율까지 검증한 것으로 다루지 않았다. 무료 알파라고 해도 불완전한 조작 반응과 목표 안내는 실패의 이유를 이해하기 어렵게 만들어 발견의 즐거움을 반복 피로로 바꿀 위험이 있다. 전투 실패 후 장비·능력 변경과 재도전 의향, 구출·탐험 뒤의 만족을 따로 조사해야 테마의 호감과 실제 플레이 재미를 혼동하지 않을 수 있다.",
+      "benchmarks": "① 공식 안내의 구출·이야기·발견을 기능 해금과 연결하는 방식을 참고해 이용자가 새 행동을 배운 이유를 세계 안의 사건으로 설명한다. 다른 게임에 적용할 때에는 해금 뒤 바로 써 볼 선택을 주되, 서사 이벤트가 길고 실제 선택이 없으면 학습보다 대기 시간이 늘어날 수 있다. ② Open Preludes 공지처럼 초대 절차를 없앨 때 계정·설치·첫 목표까지 남은 마찰을 함께 검토한다. 무료화나 전면 개방만 복제하면 기술 지원·서버 준비가 따라오지 못할 수 있으므로 유입 수와 첫 세션 실패를 함께 봐야 한다. ③ 공식 FAQ의 공개 피드백 경로를 참고해 의견을 재현 가능한 문제와 설계 제안으로 나누고 수정 후 확인까지 연결한다. 게시물 수를 성과로 삼기보다 문제 영향·재현 조건·처리 결과를 되돌려 줘야 하며, 큰 커뮤니티의 요구가 조용한 초보 이용자를 가리지 않도록 별도 조사가 필요하다.",
+      "businessModel": "공식 개방 공지와 FAQ는 초대 키를 기다리지 않고 계정과 PC 런처로 참여할 수 있게 됐다고 설명하고, 회사 보도자료는 Open Preludes가 무료 알파임을 명시한다. 따라서 현재 테스트 접근 자체를 창립자 상품 구매와 묶어 설명해서는 안 된다. 별도 Founders 안내에는 실제 돈으로 구매하는 프리미엄 재화 Arcs와 장비 외형을 옮기는 데 쓰는 Moonsteel Threads, Pact·장비가 포함된 묶음이 소개돼 있어 모든 유료 항목이 외형뿐이라고 단정할 수도 없다. 분석상 구매 동기는 개발 지원과 선호하는 장비·표현 수단의 조기 확보가 결합할 수 있지만, 전투상 필수 효용이나 무료 이용자의 획득 소요 시간은 확인하지 않았다. 무료 접근은 넓은 피드백 모집에 유리할 여지가 있으나 유료 장비의 상대적 편의가 성장·협동의 공정성에 미치는 영향은 별도로 점검해야 한다. 지역별 가격·구독·패스 구조는 추측하지 않고 유무료 집단의 콘텐츠 접근, 장비 획득 경로 이해와 구매 후 불만을 비교해야 실제 수익 성과와 이용자 신뢰를 평가할 수 있다.",
+      "onboarding": "이번 조사에서는 설치와 튜토리얼을 직접 진행하지 않았으므로 초반 화면 순서나 첫 전투까지 걸리는 시간을 만들어 쓰지 않았다. 11월 6일 공지에서 확인한 진입 흐름은 공식 사이트 가입, 전용 런처 다운로드와 PC 플레이이며 이전의 초대 키 대기가 제거됐다. 공식 FAQ는 가입 이메일을 찾지 못할 때 비밀번호 재설정과 지원 문의를, 실행 문제에는 권한 등 기술 지원 경로를 안내해 계정·설치 단계의 마찰이 남아 있음을 보여준다. 사이트에 한국어 메뉴가 있다는 사실만으로 게임의 모든 음성·텍스트 현지화를 보장할 수 없고, Founders 안내 역시 이용자의 모국어 지원이 완료되지 않았을 수 있다고 알린다. 예를 들어 가입 완료와 첫 접속 성공이 크게 벌어진다면 전투 설명보다 다운로드·로그인 문제를 먼저 해결하는 편이 필요하다는 것이 분석상 개선 방향이다. 가입에서 실행까지의 이탈, 지원 요청 유형, 첫 Fable 이해도와 첫 협동 도달을 나눠 측정해야 무료 개방이 실제로 진입을 쉽게 했는지 검증할 수 있다.",
+      "targetUser": "핵심 타깃은 자연과 회복의 판타지에서 전투·탐험을 함께 즐기며 개발 중인 세계의 변화에 의견을 보태고 싶은 PC 이용자로 볼 수 있다. 공식 보도자료가 제시한 Fables와 동물 구출은 장비 경쟁만이 아니라 이야기·발견을 동기로 삼는 이용자에게도 접점을 만든다. 9일 국내 보도의 최대 4인 탐험은 친구와 작은 규모로 모험하고 싶은 확장 타깃을 설명하지만, 혼자 모든 콘텐츠를 같은 효율로 끝낼 수 있다고 보장하지는 않는다. 분석상 완성된 규칙과 고정된 진행을 선호하기보다 시스템 변경을 받아들이고 새로운 전투 방식을 시험하는 성향이 현재 알파와 더 잘 맞을 수 있다. 콘솔만 쓰거나 정식 완성판의 안정성·영구 진행 보장을 원하는 이용자는 FAQ의 PC 한정과 개발 중 변경 가능성을 먼저 고려해야 한다. 연령·성별·점유율은 추정하지 않고 주된 동기, 협동 가능 시간, 기기·언어 조건과 변경 수용도를 구분해 모집해야 유입 규모만으로 타깃 적합성을 판단하지 않을 수 있다.",
+      "community": "공식 개방 공지는 더 많은 이용자의 발견과 피드백으로 Alca를 함께 만든다는 방향을 제시하며 Forums와 Discord에 의견을 남기도록 안내한다. 공식 FAQ는 플레이 영상 공유와 방송을 허용하므로 공략·발견·실패 경험이 테스트 참여자의 학습 자료가 될 수 있다. 예를 들어 한 파티가 발견한 문제의 재현 조건을 영상과 함께 공유하면 다른 이용자의 시행착오를 줄이고 개발팀의 확인에도 도움이 된다는 것이 운영상의 기대다. 다만 친구가 실제로 같은 세션에 합류하는 과정, 서버 선택과 매칭 조건은 직접 확인하지 않았으므로 최대 4인 지원을 합류 편의성 검증과 동일하게 쓰지 않았다. FAQ는 향후 초기화를 피하고 진행을 보존하려는 목표를 밝히면서도 큰 변경 때 조정 가능성을 남겨 두므로 영구 보존을 약속하거나 초기화 우려를 근거 없는 소문으로 처리해서는 안 된다. 친구 초대 후 합류 성공, 초보 질문의 응답 시간, 중복 신고와 해결 공지의 도달을 함께 추적하고 조롱·잘못된 공략의 확산을 점검해야 공동 개발 참여가 일부 숙련자만의 장벽으로 굳는 것을 줄일 수 있다.",
+      "links": [
+        {
+          "title": "11월 6일 공식 Open Preludes 개방 공지",
+          "url": "https://www.soulframe.com/en/news/10000084/open-preludes-begins",
+          "source": "Digital Extremes / Soulframe"
+        },
+        {
+          "title": "현재 공식 FAQ: 알파·초기화·설치·공유·플랫폼",
+          "url": "https://www.soulframe.com/en/game/faq",
+          "source": "Digital Extremes / Soulframe"
+        },
+        {
+          "title": "Devstream 18: Preludes 17 기능은 예고와 구분",
+          "url": "https://www.soulframe.com/en/news/10000082/soulframe-devstream-18-overview",
+          "source": "Digital Extremes / Soulframe"
+        },
+        {
+          "title": "공식 보도자료: Fables·Pacts·시스템 해금",
+          "url": "https://www.digitalextremes.com/news/soulframe-october-devstream-preludes-opens-for-all-nov-6",
+          "source": "Digital Extremes"
+        },
+        {
+          "title": "Founders 상품·재화·외형 전환 설명",
+          "url": "https://www.soulframe.com/en/shop/founders",
+          "source": "Digital Extremes / Soulframe"
+        }
+      ]
+    },
+    {
       "date": "2026-11-05",
       "game": "아키에이지 크로니클 (ArcheAge Chronicles) · PC Steam 얼리 액세스 초기 분석",
       "hook": "2026년 11월 5일 기준 XLGAMES의 PC Steam 얼리 액세스를 분석하며 한국 서비스 개시 시각은 11월 4일 오전 8시이고 북미 상점의 11월 3일 표기와 구분한다. 게임메카의 4일 오후 4시 전체 평가 752건·54% 긍정과 현재 상점의 영어 리뷰 898건·67% 긍정은 시점·언어 범위가 달라 개선 추세로 비교할 수 없지만, 높은 출시 관심과 만족도 사이의 간극을 살필 근거다. 직접 플레이하지 않았으며 공식 상점·출시 보도자료의 확인된 구조와 초기 이용자 반응, 설계상 해석을 구분하고 실제 유지율·수익성은 미확인으로 남긴다.",
@@ -5317,9 +5357,136 @@
       "type": "업데이트",
       "url": "https://www.inven.co.kr/webzine/news/?news=322957",
       "source": "BOLTRAY GAMES 발표 / 인벤 (2026년 11월 11일~12월 1일)"
+    },
+    {
+      "date": "2027-01-28",
+      "title": "Warhammer 40,000: Dark Heresy (PS5·Xbox Series·PC)",
+      "type": "정식출시",
+      "url": "https://store.steampowered.com/app/3710600/Warhammer_40000_Dark_Heresy/",
+      "source": "Owlcat Games 공식 Steam / 11월 9일 Gematsu 발표 대조 (Switch 2 날짜 미정)"
+    },
+    {
+      "date": "2026-12-04",
+      "title": "Sea of Remnants Dawnbreaker CBT (PS5·Xbox Series·PC·iOS·Android·한국시각)",
+      "type": "CBT",
+      "url": "https://www.gamespress.com/it/Sea-of-Remnants-Announces-Dawnbreaker-CBT-Featuring-21-Playable-Charac",
+      "source": "NetEase Games 공식 보도자료 / 12월 3일 16:00 PT = 한국 12월 4일 09:00, 선착순 제한"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "아이온2 빛과 장막의 경계·하우징 (국내 라이브)",
+      "type": "업데이트",
+      "url": "https://aion2.plaync.com/ko-kr/conts/261108_update",
+      "source": "엔씨 공식 2026년 11월 11일 업데이트 안내 / 게임메카 1주년 행사 보도 대조"
+    },
+    {
+      "date": "2026-11-18",
+      "title": "아이온2 무료 서버 이전 개시 (국내·계정당 1회)",
+      "type": "업데이트",
+      "url": "https://aion2.plaync.com/ko-kr/conts/261108_update",
+      "source": "엔씨 공식 빛과 장막의 경계 안내 / 상세 조건은 후속 업데이트 노트 확인"
+    },
+    {
+      "date": "2026-12-23",
+      "title": "아이온2 공허의 아르카니스·서리바람 협곡 (국내·예정)",
+      "type": "업데이트",
+      "url": "https://www.gamemeca.com/view.php?gid=1783197",
+      "source": "엔씨 11월 8일 1주년 행사 로드맵 / 게임메카 11월 9일 보도"
+    },
+    {
+      "date": "2027-01-20",
+      "title": "아이온2 승천의 요새 에레크·무의 요람 시련 (국내·예정)",
+      "type": "업데이트",
+      "url": "https://www.gamemeca.com/view.php?gid=1783197",
+      "source": "엔씨 11월 8일 1주년 행사 로드맵 / 게임메카 11월 9일 보도"
+    },
+    {
+      "date": "2026-12-09",
+      "title": "Wish Upon a Llama (PS5·Xbox Series·PS4·Xbox One·Switch·PC)",
+      "type": "정식출시",
+      "url": "https://www.gematsu.com/2026/11/cozy-life-simulation-game-wish-upon-a-llama-launches-december-9-for-ps5-xbox-series-ps4-xbox-one-switch-and-pc",
+      "source": "Whitethorn Games·Millionhare Studios 발표 / Gematsu·The Gaming Ground 보도자료 대조"
     }
   ],
   "entries": [
+    {
+      "date": "2026-11-10",
+      "lede": "개발사 고용 불안과 모바일 사업 재편이 이어지는 가운데, 기존 IP의 장기 판매와 투자 유치용 제작 지원은 다른 생존 경로를 보여줬다. 신작은 다크 헤러시의 출시일과 Sea of Remnants의 테스트, 아이온2 국내 로드맵을 확인했으며 소울프레임은 무료 공개 알파의 현재 범위를 상세 분석했다.",
+      "industry": [
+        {
+          "title": "Bit Reactor 추가 감원 보도…인원·회사 답변 미확인, 일시휴직 후속 상황 구분",
+          "url": "https://www.gamedeveloper.com/business/report-star-wars-zero-company-developer-bitreactor-lays-off-an-unspecified-number-of-staff",
+          "source": "Game Developer / Bespin Bulletin·개발자 LinkedIn 게시물 인용",
+          "articleDate": "2026-11-09",
+          "blurb": "9일 Game Developer는 Star Wars Zero Company 개발사 Bit Reactor에서 인원 미상의 감원이 발생했다는 Bespin Bulletin 보도를 전하며, 개발자들의 LinkedIn 게시물을 근거로 들었다. 보도는 8월 일시휴직 기간이 끝난 일부 인력의 해고 가능성을 설명하지만 10월 복귀자까지 다시 해고됐다는 증거는 없다고 구분했으며, 회사 답변도 기사 발행 시점에 받지 못했다고 밝혔다. 출시 이후 조직 유지와 후속 제작 역량을 살필 사안이지만 확정 감원 규모·판매 부진과의 인과관계·향후 서비스 중단을 이 자료만으로 단정하지 않았다."
+        },
+        {
+          "title": "SAG-AFTRA, 투자 유치용 게임 피치에 조합 배우 참여하는 새 계약 틀 마련",
+          "url": "https://www.gamedeveloper.com/production/sag-aftra-introduces-new-process-for-using-actors-in-game-pitches",
+          "source": "Game Developer(11월 6일) / SAG-AFTRA 공식 발표(11월 5일) 대조",
+          "articleDate": "2026-11-06",
+          "blurb": "SAG-AFTRA는 5일 투자 유치 전 데모·버티컬 슬라이스 등 게임 피치 제작에 조합 배우를 고용할 수 있는 Pre-Funding Pitch Interactive Media Agreement를 소개했고 Game Developer가 6일 보도했다. 공식 발표는 초기 제작 자금의 30%를 넘게 확보한 프로젝트와 상업 출시·일반 공개용 결과물 등을 대상에서 제외하며, 투자 제안 단계의 음성·동작 연기에 경로를 마련하는 취지를 설명했다. 개발사는 자금 확보 전에 연기 품질을 갖춘 제안 자료를 만들 여지가 생기지만 투자 성공이나 모든 제작 단계의 계약 조건이 보장되는 것은 아니며, 적용 범위를 본편 제작 계약과 구분해야 한다."
+        },
+        {
+          "title": "Playtika, 매각 검토 마무리하고 독립 유지…매출 정체 속 마케팅 지출 축소",
+          "url": "https://www.pocketgamer.biz/playtika-rules-out-sale-and-will-continue-as-independent-company/",
+          "source": "PocketGamer.biz / Playtika 이사회 결정·3분기 실적",
+          "articleDate": "2026-11-09",
+          "blurb": "Playtika는 전략 검토를 마친 뒤 독립 상장사로 계속 운영하는 편이 장기 가치 창출에 적합하다고 이사회가 판단했다고 9일 발표했다. 함께 공개된 3분기 매출은 6억 7,380만 달러로 전년 대비 0.1% 감소했고 판매·마케팅 비용은 2억 630만 달러에서 1억 6,780만 달러로 줄었으며, 회사는 상반기 선집행한 이용자 확보 비용을 하반기에 조정했다고 설명했다. 모바일 포트폴리오의 매출과 수익성 균형을 바꾸는 결정으로, 과거 Tencent의 SuperPlay 인수 협상 보도를 성사된 거래로 쓰거나 비용 축소만으로 이용자 만족 개선을 추정하지 않았다."
+        },
+        {
+          "title": "Ratchet & Clank: Ranger Rumble 개발 종료…세계 출시 취소·기존 서비스는 내년 5월까지",
+          "url": "https://www.pocketgamer.biz/playstation-ends-development-of-ratchet-and-clank-ranger-rumble-mobile-game/",
+          "source": "PocketGamer.biz / PlayStation·Oh Bibi 운영진 성명",
+          "articleDate": "2026-11-09",
+          "blurb": "9일 보도에 따르면 PlayStation과 Oh Bibi는 모바일 무료 슈팅 Ratchet & Clank: Ranger Rumble 개발을 종료하고 준비 중이던 글로벌 출시를 진행하지 않는다. 마지막 예정 업데이트는 11월 6일부터 배포됐고 App Store·Google Play에서는 11월 21일 내려가지만 기존 이용자는 2027년 5월 1일 서버 종료까지 플레이할 수 있으며, 인앱 구매는 제거되고 Super Pass는 무료로 전환됐다. 지역 테스트에서 세계 서비스로 확장하는 경로가 중단된 사례로, 신규 유입 종료와 기존 이용자의 접근 종료를 구분하고 다른 라쳇 앤 클랭크 게임 전체의 종료로 확대하지 않았다."
+        },
+        {
+          "title": "캡콤 9월 말 누적 판매 공개…귀무자 170만·바이오하자드 RE:4는 분기 110만 추가",
+          "url": "https://www.gematsu.com/2026/11/capcom-platinum-titles-sales-update-as-of-september-30-2026",
+          "source": "Gematsu / Capcom Platinum Titles 갱신",
+          "articleDate": "2026-11-09",
+          "blurb": "캡콤이 갱신한 9월 30일 기준 밀리언셀러 목록을 Gematsu가 9일 정리하며 귀무자: Way of the Sword의 누적 170만 장과 바이오하자드 RE:4의 1,710만 장을 전했다. RE:4는 6월 말보다 110만 장, RE:2는 60만 장 늘었고 바이오하자드 레퀴엠은 누적 850만 장으로 집계돼 신작과 구작 판매가 함께 이어지는 모습을 보여준다. 장기 카탈로그 운영의 규모를 살필 수 있지만 집계 기준일은 11월 현재가 아니며, 판매 수량을 매출·이익이나 특정 할인 정책의 직접 효과로 환산하지 않았다."
+        }
+      ],
+      "games": [
+        {
+          "title": "워해머 40,000 다크 헤러시, 2027년 1월 28일…조사와 동료 선택 중심 cRPG",
+          "url": "https://www.gematsu.com/2026/11/warhammer-40000-dark-heresy-launches-january-28-2027-for-ps5-xbox-series-and-pc-later-for-switch-2",
+          "source": "Gematsu / Owlcat Games 발표·공식 Steam 대조",
+          "articleDate": "2026-11-09",
+          "blurb": "Owlcat Games는 9일 파티 기반 서사 cRPG 워해머 40,000: 다크 헤러시를 2027년 1월 28일 PS5·Xbox Series·PC Steam·Epic Games Store·GOG로 출시한다고 발표했다. 심문관 조직의 수행원으로 이단과 음모를 조사하며 서로 다른 능력·동기를 지닌 동료로 전술 전투와 사건 해결 방식을 정하고, 선택이 의도하지 않은 결과까지 남기는 구성을 내세운다. 전투와 역할 선택을 함께 즐기는 이용자에게 준비 일정을 제시하지만 Switch 2판은 추후 출시로 구분됐으므로 같은 날짜로 옮기지 않았으며, 창립자 베타 종료 예정일과 정식 출시일도 별개다."
+        },
+        {
+          "title": "Sea of Remnants Dawnbreaker CBT, 한국 12월 4일…콘솔·모바일 포함하되 참가 제한",
+          "url": "https://www.gematsu.com/2026/11/sea-of-remnants-dawnbreaker-closed-beta-test-begins-december-3",
+          "source": "Gematsu / NetEase Games 공식 보도자료(Games Press) 시각 교차 확인",
+          "articleDate": "2026-11-09",
+          "blurb": "NetEase Games와 Joker Studio는 9일 해양 모험·턴제 RPG Sea of Remnants의 Dawnbreaker 비공개 베타를 12월 3일 오후 4시 PT, 한국 시각 12월 4일 오전 9시에 시작한다고 발표했다. PS5·Xbox Series·PC 전용 런처·iOS TestFlight·Android에서 21명 캐릭터의 편성과 턴제 전술, White Sea·Bridge Sea 신규 해역을 시험하며 12월 1일 사전 다운로드와 선착순 제한 접근을 안내했다. 탐험·함대 구성을 미리 검증할 기회지만 전원 참가나 Steam 배포는 보장되지 않으며, 완전한 공유 세계 멀티플레이는 출시 후 점진 도입 계획이라 이번 테스트와 섞지 않았다."
+        },
+        {
+          "title": "아이온2 국내 1주년 로드맵…11월 11일 하우징·던전부터 내년 1월까지 단계 확장",
+          "url": "https://www.gamemeca.com/view.php?gid=1783197",
+          "source": "게임메카 / 엔씨 국내 1주년 행사·공식 11월 11일 업데이트 안내 대조",
+          "articleDate": "2026-11-09",
+          "blurb": "엔씨는 8일 국내 아이온2 1주년 행사에서 11월 11일부터 2027년 1월 20일까지 이어질 빛과 장막의 경계 로드맵을 공개했다고 게임메카가 9일 전했다. 최고 레벨 55와 성장 선택지·어비스 보상 개편 등을 예고하고, 11일에는 광신의 우루구구 협곡·에라쿠스 유적·하우징 등을, 12월 23일에는 공허의 아르카니스·서리바람 협곡 등을 추가할 계획이다. 전투 성장과 개인 영지 꾸미기를 병행하는 방향이지만 국내 라이브판의 단계별 예고이므로 글로벌 Steam판에 같은 날 적용되거나 발표된 모든 기능이 11일 한 번에 열린다고 설명하지 않았다."
+        },
+        {
+          "title": "소울프레임 Open Preludes 개방…초대 없이 PC 무료 플레이, 완성판은 일정 미정",
+          "url": "https://www.soulframe.com/en/news/10000084/open-preludes-begins",
+          "source": "Digital Extremes 공식 / 11월 9일 게임메카 보도·최신 FAQ 대조",
+          "articleDate": "2026-11-06",
+          "blurb": "Digital Extremes는 북미 기준 11월 6일 공식 공지에서 소울프레임 Open Preludes 개방을 알렸으며, Windows PC 이용자는 초대 키 없이 계정을 만들고 공식 런처로 무료 참여할 수 있다. 자연을 회복하는 오픈월드 판타지 모험으로 Fables 퀘스트·세계수·동물 구출과 Pacts 전투를 통해 제작·무기 성장·협동을 열어 가며, 국내 9일 보도는 최대 4인 탐험을 소개했다. 직접 체험할 문턱이 낮아졌지만 FAQ는 이를 개발 중 알파로 설명하고 정식 출시일과 Steam·콘솔 개방 시점을 확정하지 않아 완성판 출시 소식과 구분했다."
+        },
+        {
+          "title": "WoW: Forever, 출시 동시접속·복귀자 기록 경신 발표…구체적 인원은 비공개",
+          "url": "https://www.gamedeveloper.com/pc/world-of-warcraft-forever-is-the-mmorpg-s-biggest-launch-in-player-numbers",
+          "source": "Game Developer / Blizzard 공식 소셜 발표 인용",
+          "articleDate": "2026-11-09",
+          "blurb": "9일 Game Developer는 Blizzard가 월드 오브 워크래프트: 포에버의 출시 시점 최대 동시접속과 복귀 이용자 수가 시리즈의 업데이트·확장팩 출시 기록을 넘어섰다고 발표했다고 전했다. PC MMORPG의 초기 아제로스를 토대로 신규 종족과 콘텐츠를 다시 쌓는 별도 버전으로, 기존 세계에 대한 익숙함과 새로운 발견을 함께 제공하는 방향이다. 11월 초 출시 관심을 보여주는 성과지만 이번 발표에는 구체적인 인원·집계 기간·다른 버전과의 중복 계정 기준이 없어 판매량이나 장기 유지율로 바꾸지 않았으며, 복귀 후 정착 성과는 추가 확인이 필요하다."
+        }
+      ]
+    },
     {
       "date": "2026-11-05",
       "lede": "Steam 심사 지연과 소규모 게임 배급 지원 확대가 개발사의 출시·유통 준비에 영향을 주고 있다. 신작에서는 아키에이지 크로니클의 얼리 액세스 초기 반응과 아이온2의 글로벌 성적을 살폈으며, 갓 오브 워 라우페이의 연기와 메그와 몬스터 이식 일정도 반영했다.",
